@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1630061915 source:d:\it_related_files\baitap\baitaplaptrinh\new\jnum\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<algorithm>
+	<vector>
+
+1630672199 source:d:\it_related_files\baitap\baitaplaptrinh\jnum\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<algorithm>
+	<vector>
+	<queue>
+

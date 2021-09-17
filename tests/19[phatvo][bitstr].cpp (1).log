@@ -1,0 +1,155 @@
+ ﻿phatvo‣bitstr: 36.00
+bitstr.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "bitstr.cpp" -pipe -O2 -s -static -lm -x c++ -o"bitstr.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom27387\
+Dịch thành công.
+
+phatvo‣bitstr‣$BITSTR01: 0.00
+Thời gian ≈ 0.044647800 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR02: 0.00
+Thời gian ≈ 0.044893000 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR03: 2.00
+Thời gian ≈ 0.047829500 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR04: 0.00
+Thời gian ≈ 0.046265500 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR05: 0.00
+Thời gian ≈ 0.048977000 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR06: 2.00
+Thời gian ≈ 0.047439700 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR07: 0.00
+Thời gian ≈ 0.044450500 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR08: 0.00
+Thời gian ≈ 0.045918200 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR09: 2.00
+Thời gian ≈ 0.044261900 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR10: 0.00
+Thời gian ≈ 0.048848200 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR11: 2.00
+Thời gian ≈ 0.047986700 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR12: 2.00
+Thời gian ≈ 0.045076500 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR13: 0.00
+Thời gian ≈ 0.045900000 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR14: 0.00
+Thời gian ≈ 0.045952500 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR15: 0.00
+Thời gian ≈ 0.044984100 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR16: 2.00
+Thời gian ≈ 0.047141600 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR17: 2.00
+Thời gian ≈ 0.050043600 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR18: 2.00
+Thời gian ≈ 0.046996900 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR19: 0.00
+Thời gian ≈ 0.046614700 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR20: 2.00
+Thời gian ≈ 0.046918700 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR21: 0.00
+Thời gian ≈ 0.046072400 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR22: 0.00
+Thời gian ≈ 0.043329800 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR23: 2.00
+Thời gian ≈ 0.042141000 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR24: 0.00
+Thời gian ≈ 0.047255800 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR25: 0.00
+Thời gian ≈ 0.043772900 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR26: 0.00
+Thời gian ≈ 0.046585800 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR27: 0.00
+Thời gian ≈ 0.043769100 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR28: 0.00
+Thời gian ≈ 0.044304900 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR29: 0.00
+Thời gian ≈ 0.044870100 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR30: 0.00
+Thời gian ≈ 0.039763700 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR31: 2.00
+Thời gian ≈ 0.044210300 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR32: 2.00
+Thời gian ≈ 0.043586700 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR33: 0.00
+Thời gian ≈ 0.045429100 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR34: 0.00
+Thời gian ≈ 0.045845500 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR35: 2.00
+Thời gian ≈ 0.045965400 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR36: 2.00
+Thời gian ≈ 0.045552500 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR37: 0.00
+Thời gian ≈ 0.046318800 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR38: 0.00
+Thời gian ≈ 0.046975300 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR39: 0.00
+Thời gian ≈ 0.045302200 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR40: 2.00
+Thời gian ≈ 0.044428400 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR41: 0.00
+Thời gian ≈ 0.048482500 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR42: 0.00
+Thời gian ≈ 0.048730900 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR43: 2.00
+Thời gian ≈ 0.043197200 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR44: 0.00
+Thời gian ≈ 0.054631900 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR45: 2.00
+Thời gian ≈ 0.045594300 giây
+Kết quả khớp đáp án!
+phatvo‣bitstr‣$BITSTR46: 0.00
+Thời gian ≈ 0.047037600 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR47: 0.00
+Thời gian ≈ 0.049486700 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR48: 0.00
+Thời gian ≈ 0.048888100 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR49: 0.00
+Thời gian ≈ 0.047602200 giây
+Kết quả KHÁC đáp án!
+phatvo‣bitstr‣$BITSTR50: 2.00
+Thời gian ≈ 0.050234900 giây
+Kết quả khớp đáp án!

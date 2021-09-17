@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1630677587 source:d:\it_related_files\baitap\baitaplaptrinh\labyrinth\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+
+1631257029 source:d:\it_related_files\baitap\baitaplaptrinh\6\labyrinth\main.cpp
+	<bits/stdc++.h>
+

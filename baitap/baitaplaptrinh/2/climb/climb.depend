@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608985414 source:d:\it\baitaplaptrinh\climb\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

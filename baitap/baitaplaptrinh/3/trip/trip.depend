@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616248391 source:d:\it\baitaplaptrinh\trip\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<cstdio>
+
+1623501067 source:d:\it_related_files\baitap\baitaplaptrinh\3\trip\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<cstdio>
+

@@ -1,0 +1,155 @@
+﻿phatvo‣decode: 88.00
+decode.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "decode.cpp" -pipe -O2 -s -static -lm -x c++ -o"decode.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom61818\
+Dịch thành công.
+
+phatvo‣decode‣Test001: 0.00
+Thời gian ≈ 0.040724100 giây
+Kết quả KHÁC đáp án!
+phatvo‣decode‣Test002: 2.00
+Thời gian ≈ 0.044067800 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test003: 0.00
+Thời gian ≈ 0.059214600 giây
+Kết quả KHÁC đáp án!
+phatvo‣decode‣Test004: 2.00
+Thời gian ≈ 0.041477500 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test005: 2.00
+Thời gian ≈ 0.042836300 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test006: 2.00
+Thời gian ≈ 0.045008900 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test007: 2.00
+Thời gian ≈ 0.050274200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test008: 2.00
+Thời gian ≈ 0.043948100 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test009: 2.00
+Thời gian ≈ 0.055648200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test010: 2.00
+Thời gian ≈ 0.042077900 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test011: 2.00
+Thời gian ≈ 0.038564000 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test012: 2.00
+Thời gian ≈ 0.046573900 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test013: 2.00
+Thời gian ≈ 0.046992100 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test014: 2.00
+Thời gian ≈ 0.044176100 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test015: 2.00
+Thời gian ≈ 0.045527700 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test016: 2.00
+Thời gian ≈ 0.046819700 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test017: 2.00
+Thời gian ≈ 0.052833700 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test018: 2.00
+Thời gian ≈ 0.050810200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test019: 2.00
+Thời gian ≈ 0.043395500 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test020: 2.00
+Thời gian ≈ 0.043793200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test021: 2.00
+Thời gian ≈ 0.058934300 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test022: 2.00
+Thời gian ≈ 0.049552400 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test023: 2.00
+Thời gian ≈ 0.051035800 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test024: 2.00
+Thời gian ≈ 0.044246700 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test025: 2.00
+Thời gian ≈ 0.044254200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test026: 2.00
+Thời gian ≈ 0.045718200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test027: 2.00
+Thời gian ≈ 0.047104000 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test028: 2.00
+Thời gian ≈ 0.044493700 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test029: 2.00
+Thời gian ≈ 0.044339900 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test030: 0.00
+Thời gian ≈ 0.044210700 giây
+Kết quả KHÁC đáp án!
+phatvo‣decode‣Test031: 2.00
+Thời gian ≈ 0.062946200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test032: 2.00
+Thời gian ≈ 0.052638800 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test033: 2.00
+Thời gian ≈ 0.043871300 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test034: 2.00
+Thời gian ≈ 0.044673100 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test035: 2.00
+Thời gian ≈ 0.061902400 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test036: 2.00
+Thời gian ≈ 0.049051500 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test037: 2.00
+Thời gian ≈ 0.043957400 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test038: 2.00
+Thời gian ≈ 0.045088300 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test039: 2.00
+Thời gian ≈ 0.054482700 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test040: 0.00
+Thời gian ≈ 0.045362100 giây
+Kết quả KHÁC đáp án!
+phatvo‣decode‣Test041: 2.00
+Thời gian ≈ 0.045159600 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test042: 2.00
+Thời gian ≈ 0.041362300 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test043: 2.00
+Thời gian ≈ 0.045651300 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test044: 2.00
+Thời gian ≈ 0.045951000 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test045: 2.00
+Thời gian ≈ 0.045459800 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test046: 0.00
+Thời gian ≈ 0.044210200 giây
+Kết quả KHÁC đáp án!
+phatvo‣decode‣Test047: 2.00
+Thời gian ≈ 0.046979200 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test048: 2.00
+Thời gian ≈ 0.047626900 giây
+Kết quả khớp đáp án!
+phatvo‣decode‣Test049: 0.00
+Thời gian ≈ 0.051919800 giây
+Kết quả KHÁC đáp án!
+phatvo‣decode‣Test050: 2.00
+Thời gian ≈ 0.043172300 giây
+Kết quả khớp đáp án!

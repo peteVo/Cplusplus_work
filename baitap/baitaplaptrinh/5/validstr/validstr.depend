@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626008774 source:d:\it_related_files\baitap\baitaplaptrinh\validstr\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

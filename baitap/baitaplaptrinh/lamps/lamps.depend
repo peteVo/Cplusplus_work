@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631278141 source:d:\it_related_files\baitap\baitaplaptrinh\lamps\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

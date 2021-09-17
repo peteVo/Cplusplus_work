@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619272331 source:d:\it\baitaplaptrinh\stickslen\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+	<string>
+

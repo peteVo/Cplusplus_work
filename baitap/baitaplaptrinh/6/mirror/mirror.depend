@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1630066771 source:d:\it_related_files\baitap\baitaplaptrinh\new\mirror\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1630675613 source:d:\it_related_files\baitap\baitaplaptrinh\mirror\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+

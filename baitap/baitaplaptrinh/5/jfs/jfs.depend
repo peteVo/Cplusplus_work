@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624018801 source:d:\it_related_files\baitap\baitaplaptrinh\jfs\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+

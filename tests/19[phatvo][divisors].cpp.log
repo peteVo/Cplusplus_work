@@ -1,0 +1,32 @@
+ ﻿phatvo‣divisors: 70.00
+divisors.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "divisors.cpp" -pipe -O2 -s -static -lm -x c++ -o"divisors.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom24239\
+Dịch thành công.
+
+phatvo‣divisors‣Test01: 10.00
+Thời gian ≈ 0.397265200 giây
+Kết quả khớp đáp án!
+phatvo‣divisors‣Test02: 10.00
+Thời gian ≈ 0.385518300 giây
+Kết quả khớp đáp án!
+phatvo‣divisors‣Test03: 10.00
+Thời gian ≈ 0.385058800 giây
+Kết quả khớp đáp án!
+phatvo‣divisors‣Test04: 10.00
+Thời gian ≈ 0.374135900 giây
+Kết quả khớp đáp án!
+phatvo‣divisors‣Test05: 10.00
+Thời gian ≈ 0.415659500 giây
+Kết quả khớp đáp án!
+phatvo‣divisors‣Test06: 10.00
+Thời gian ≈ 0.403805100 giây
+Kết quả khớp đáp án!
+phatvo‣divisors‣Test07: 10.00
+Thời gian ≈ 0.394709700 giây
+Kết quả khớp đáp án!
+phatvo‣divisors‣Test08: 0.00
+Chạy quá thời gian
+phatvo‣divisors‣Test09: 0.00
+Chạy quá thời gian
+phatvo‣divisors‣Test10: 0.00
+Chạy quá thời gian

@@ -1,0 +1,3 @@
+Szero: tính mảng cộng dồn
+Nếu tồn tại đoạn con có tổng là 0 thì tồn tại 2 phần tử bằng nhau trên mảng cộng dồn
+Sort mảng cộng dồn và tìm đoạn bằng nhau dài nhất

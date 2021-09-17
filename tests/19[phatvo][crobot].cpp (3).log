@@ -1,0 +1,35 @@
+ ﻿phatvo‣crobot: 0.00
+crobot.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "crobot.cpp" -pipe -O2 -s -static -lm -x c++ -o"crobot.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom11374\
+Dịch thành công.
+
+phatvo‣crobot‣Test01: 0.00
+Thời gian ≈ 0.047059900 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test02: 0.00
+Thời gian ≈ 0.046996700 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test03: 0.00
+Thời gian ≈ 0.048223000 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test04: 0.00
+Thời gian ≈ 0.047080200 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test05: 0.00
+Thời gian ≈ 0.048288600 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test06: 0.00
+Thời gian ≈ 0.045395900 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test07: 0.00
+Thời gian ≈ 0.043310600 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test08: 0.00
+Thời gian ≈ 0.045751900 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test09: 0.00
+Thời gian ≈ 0.046051400 giây
+Kết quả KHÁC đáp án!
+phatvo‣crobot‣Test10: 0.00
+Thời gian ≈ 0.046399600 giây
+Kết quả KHÁC đáp án!

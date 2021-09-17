@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611411966 source:d:\it\baitaplaptrinh\nspecial\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

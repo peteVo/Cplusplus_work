@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629443968 source:d:\it_related_files\baitap\baitaplaptrinh\palindrome\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

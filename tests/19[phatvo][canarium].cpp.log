@@ -1,0 +1,264 @@
+ ﻿phatvo‣canarium: 44.00
+canarium.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "canarium.cpp" -pipe -O2 -s -static -lm -x c++ -o"canarium.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom8585\
+Dịch thành công.
+
+phatvo‣canarium‣Test001: 1.00
+Thời gian ≈ 0.105677500 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test002: 0.00
+Thời gian ≈ 0.057229400 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test003: 1.00
+Thời gian ≈ 0.068880300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test004: 1.00
+Thời gian ≈ 0.045933000 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test005: 1.00
+Thời gian ≈ 0.114953300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test006: 1.00
+Thời gian ≈ 0.104370300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test007: 1.00
+Thời gian ≈ 0.043934800 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test008: 1.00
+Thời gian ≈ 0.079607700 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test009: 1.00
+Thời gian ≈ 0.051165500 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test010: 1.00
+Thời gian ≈ 0.050033100 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test011: 1.00
+Thời gian ≈ 0.122251500 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test012: 1.00
+Thời gian ≈ 0.046495900 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test013: 1.00
+Thời gian ≈ 0.045699500 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test014: 1.00
+Thời gian ≈ 0.046428300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test015: 1.00
+Thời gian ≈ 0.046566700 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test016: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test017: 1.00
+Thời gian ≈ 0.045831800 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test018: 1.00
+Thời gian ≈ 0.126683100 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test019: 1.00
+Thời gian ≈ 0.054364400 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test020: 1.00
+Thời gian ≈ 0.053295100 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test021: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test022: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test023: 1.00
+Thời gian ≈ 0.049682600 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test024: 1.00
+Thời gian ≈ 0.057325600 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test025: 1.00
+Thời gian ≈ 0.049252700 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test026: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test027: 1.00
+Thời gian ≈ 0.050827500 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test028: 1.00
+Thời gian ≈ 0.047261100 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test029: 1.00
+Thời gian ≈ 0.048203600 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test030: 1.00
+Thời gian ≈ 0.045490900 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test031: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test032: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test033: 1.00
+Thời gian ≈ 0.078902400 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test034: 1.00
+Thời gian ≈ 0.055323200 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test035: 1.00
+Thời gian ≈ 0.052558300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test036: 1.00
+Thời gian ≈ 0.092269900 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test037: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test038: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test039: 1.00
+Thời gian ≈ 0.057337700 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test040: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test041: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test042: 0.00
+Thời gian ≈ 0.050321500 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test043: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test044: 0.00
+Thời gian ≈ 0.050013400 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test045: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test046: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test047: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test048: 1.00
+Thời gian ≈ 0.073751100 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test049: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test050: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test051: 0.00
+Thời gian ≈ 0.059408700 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test052: 1.00
+Thời gian ≈ 0.080766900 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test053: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test054: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test055: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test056: 1.00
+Thời gian ≈ 0.084007800 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test057: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test058: 1.00
+Thời gian ≈ 0.426005000 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test059: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test060: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test061: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test062: 1.00
+Thời gian ≈ 0.054006300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test063: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test064: 1.00
+Thời gian ≈ 0.118656000 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test065: 1.00
+Thời gian ≈ 0.074443300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test066: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test067: 1.00
+Thời gian ≈ 0.078952700 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test068: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test069: 1.00
+Thời gian ≈ 0.081967600 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test070: 1.00
+Thời gian ≈ 0.410877000 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test071: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test072: 1.00
+Thời gian ≈ 0.067339500 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test073: 1.00
+Thời gian ≈ 0.373237200 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test074: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test075: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test076: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test077: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test078: 0.00
+Thời gian ≈ 0.066535000 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test079: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test080: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test081: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test082: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test083: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test084: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test085: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test086: 1.00
+Thời gian ≈ 0.090081100 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test087: 1.00
+Thời gian ≈ 0.640552300 giây
+Kết quả khớp đáp án!
+phatvo‣canarium‣Test088: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test089: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test090: 0.00
+Chạy quá thời gian
+phatvo‣canarium‣Test091: 0.00
+Thời gian ≈ 0.046740700 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test092: 0.00
+Thời gian ≈ 0.046956000 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test093: 0.00
+Thời gian ≈ 0.041072000 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test094: 0.00
+Thời gian ≈ 0.048636800 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test095: 0.00
+Thời gian ≈ 0.046755100 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test096: 0.00
+Thời gian ≈ 0.087494200 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test097: 0.00
+Thời gian ≈ 0.045625600 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test098: 0.00
+Thời gian ≈ 0.046749800 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test099: 0.00
+Thời gian ≈ 0.048678800 giây
+Kết quả KHÁC đáp án!
+phatvo‣canarium‣Test100: 0.00
+Thời gian ≈ 0.043990800 giây
+Kết quả KHÁC đáp án!

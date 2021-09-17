@@ -1,0 +1,7 @@
+ ﻿phatvo‣maxnum: ℱ Dịch lỗi
+maxnum.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "maxnum.cpp" -pipe -O2 -s -static -lm -x c++ -o"maxnum.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom40432\
+c:/program files (x86)/themis/gcc/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: c:/program files (x86)/themis/gcc/bin/../lib/gcc/mingw32/8.2.0/../../..\libmingwex.a(vsnprintf.o):(.text+0x0): multiple definition of `vsnprintf'; C:\Users\haitp\AppData\Local\Temp\cc9WYNFa.o:maxnum.cpp:(.text$vsnprintf[_vsnprintf]+0x0): first defined here
+collect2.exe: error: ld returned 1 exit status
+Dịch lỗi!
+

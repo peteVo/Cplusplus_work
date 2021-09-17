@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1629529924 source:d:\it_related_files\baitap\baitaplaptrinh\new\sandglass\main.cpp
+	<iostream>
+
+1629529202 source:d:\it_related_files\baitap\baitaplaptrinh\new\sandglass\oodstring.cpp
+	<iostream>
+
+1629529916 source:d:\it_related_files\baitap\baitaplaptrinh\new\sandglass\together.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
+1629530755 source:d:\it_related_files\baitap\baitaplaptrinh\new\sandglass\dearrange.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+

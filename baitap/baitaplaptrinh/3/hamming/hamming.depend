@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618664646 source:d:\it\baitaplaptrinh\3\hamming\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+

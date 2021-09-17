@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607780318 source:d:\it\baitaplaptrinh\beehive\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

@@ -1,0 +1,115 @@
+ ﻿phatvo‣trash: 75.00
+trash.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "trash.cpp" -pipe -O2 -s -static -lm -x c++ -o"trash.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom30696\
+Dịch thành công.
+
+phatvo‣trash‣Test01: 2.50
+Thời gian ≈ 0.040358600 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test02: 2.50
+Thời gian ≈ 0.039489000 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test03: 2.50
+Thời gian ≈ 0.046799200 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test04: 2.50
+Thời gian ≈ 0.044011600 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test05: 2.50
+Thời gian ≈ 0.041442600 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test06: 2.50
+Thời gian ≈ 0.042366100 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test07: 2.50
+Thời gian ≈ 0.043838800 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test08: 2.50
+Thời gian ≈ 0.038159900 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test09: 2.50
+Thời gian ≈ 0.041212100 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test10: 2.50
+Thời gian ≈ 0.039017700 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test11: 2.50
+Thời gian ≈ 0.041043500 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test12: 2.50
+Thời gian ≈ 0.041829100 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test13: 2.50
+Thời gian ≈ 0.043857300 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test14: 2.50
+Thời gian ≈ 0.058593700 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test15: 2.50
+Thời gian ≈ 0.042987400 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test16: 2.50
+Thời gian ≈ 0.040925700 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test17: 2.50
+Thời gian ≈ 0.041952600 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test18: 2.50
+Thời gian ≈ 0.042269500 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test19: 2.50
+Thời gian ≈ 0.044561400 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test20: 2.50
+Thời gian ≈ 0.041553300 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test21: 2.50
+Thời gian ≈ 0.045653100 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test22: 2.50
+Thời gian ≈ 0.054317000 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test23: 2.50
+Thời gian ≈ 0.067948500 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test24: 2.50
+Thời gian ≈ 0.065593300 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test25: 2.50
+Thời gian ≈ 0.053855000 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test26: 2.50
+Thời gian ≈ 0.119868300 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test27: 2.50
+Thời gian ≈ 0.059028500 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test28: 2.50
+Thời gian ≈ 0.123750500 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test29: 2.50
+Thời gian ≈ 0.185263000 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test30: 2.50
+Thời gian ≈ 0.100213200 giây
+Kết quả khớp đáp án!
+phatvo‣trash‣Test31: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test32: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test33: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test34: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test35: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test36: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test37: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test38: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test39: 0.00
+Chạy quá thời gian
+phatvo‣trash‣Test40: 0.00
+Chạy quá thời gian

@@ -1,0 +1,10 @@
+
+int main()
+{
+ios_base::sync_with_stdio(0);
+cin.tie(0);
+freopen("name.inp", "r", stdin);
+freopen("name.out", "w", stdout);
+
+return 0;
+}

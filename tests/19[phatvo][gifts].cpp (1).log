@@ -1,0 +1,33 @@
+ ﻿phatvo‣gifts: 80.00
+gifts.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "gifts.cpp" -pipe -O2 -s -static -lm -x c++ -o"gifts.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom6306\
+Dịch thành công.
+
+phatvo‣gifts‣test0: 10.00
+Thời gian ≈ 0.046062300 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test1: 10.00
+Thời gian ≈ 0.045565900 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test2: 10.00
+Thời gian ≈ 0.054865500 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test3: 10.00
+Thời gian ≈ 0.044512200 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test4: 10.00
+Thời gian ≈ 0.045410000 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test5: 10.00
+Thời gian ≈ 0.091748100 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test6: 10.00
+Thời gian ≈ 0.242349200 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test7: 10.00
+Thời gian ≈ 0.619813100 giây
+Kết quả khớp đáp án!
+phatvo‣gifts‣test8: 0.00
+Chạy quá thời gian
+phatvo‣gifts‣test9: 0.00
+Chạy quá thời gian

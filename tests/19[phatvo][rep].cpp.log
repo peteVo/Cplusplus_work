@@ -1,0 +1,505 @@
+ ﻿phatvo‣rep: 100.00
+rep.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "rep.cpp" -pipe -O2 -s -static -lm -x c++ -o"rep.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom55306\
+Dịch thành công.
+
+phatvo‣rep‣Test001: 1.00
+Thời gian ≈ 0.045718200 giây
+Checking the result...
+Answer: 5
+Output: 5
+phatvo‣rep‣Test002: 1.00
+Thời gian ≈ 0.043222000 giây
+Checking the result...
+Answer: 9
+Output: 9
+phatvo‣rep‣Test003: 1.00
+Thời gian ≈ 0.043205800 giây
+Checking the result...
+Answer: 48
+Output: 48
+phatvo‣rep‣Test004: 1.00
+Thời gian ≈ 0.048260300 giây
+Checking the result...
+Answer: 217
+Output: 217
+phatvo‣rep‣Test005: 1.00
+Thời gian ≈ 0.126480500 giây
+Checking the result...
+Answer: 751
+Output: 751
+phatvo‣rep‣Test006: 1.00
+Thời gian ≈ 0.135316300 giây
+Checking the result...
+Answer: 853
+Output: 853
+phatvo‣rep‣Test007: 1.00
+Thời gian ≈ 0.150510600 giây
+Checking the result...
+Answer: 858
+Output: 858
+phatvo‣rep‣Test008: 1.00
+Thời gian ≈ 0.100416400 giây
+Checking the result...
+Answer: 2
+Output: 2
+phatvo‣rep‣Test009: 1.00
+Thời gian ≈ 0.186442000 giây
+Checking the result...
+Answer: 50001
+Output: 50001
+phatvo‣rep‣Test010: 1.00
+Thời gian ≈ 0.198893600 giây
+Checking the result...
+Answer: 996
+Output: 996
+phatvo‣rep‣Test011: 1.00
+Thời gian ≈ 0.043644600 giây
+Checking the result...
+Answer: 46
+Output: 46
+phatvo‣rep‣Test012: 1.00
+Thời gian ≈ 0.042347400 giây
+Checking the result...
+Answer: 46
+Output: 46
+phatvo‣rep‣Test013: 1.00
+Thời gian ≈ 0.042868100 giây
+Checking the result...
+Answer: 12
+Output: 12
+phatvo‣rep‣Test014: 1.00
+Thời gian ≈ 0.042557800 giây
+Checking the result...
+Answer: 68
+Output: 68
+phatvo‣rep‣Test015: 1.00
+Thời gian ≈ 0.043788700 giây
+Checking the result...
+Answer: 50
+Output: 50
+phatvo‣rep‣Test016: 1.00
+Thời gian ≈ 0.044022400 giây
+Checking the result...
+Answer: 81
+Output: 81
+phatvo‣rep‣Test017: 1.00
+Thời gian ≈ 0.040748400 giây
+Checking the result...
+Answer: 44
+Output: 44
+phatvo‣rep‣Test018: 1.00
+Thời gian ≈ 0.042728100 giây
+Checking the result...
+Answer: 63
+Output: 63
+phatvo‣rep‣Test019: 1.00
+Thời gian ≈ 0.044838600 giây
+Checking the result...
+Answer: 72
+Output: 72
+phatvo‣rep‣Test020: 1.00
+Thời gian ≈ 0.043655600 giây
+Checking the result...
+Answer: 60
+Output: 60
+phatvo‣rep‣Test021: 1.00
+Thời gian ≈ 0.045045300 giây
+Checking the result...
+Answer: 62
+Output: 62
+phatvo‣rep‣Test022: 1.00
+Thời gian ≈ 0.042409200 giây
+Checking the result...
+Answer: 82
+Output: 82
+phatvo‣rep‣Test023: 1.00
+Thời gian ≈ 0.043267600 giây
+Checking the result...
+Answer: 68
+Output: 68
+phatvo‣rep‣Test024: 1.00
+Thời gian ≈ 0.043184600 giây
+Checking the result...
+Answer: 64
+Output: 64
+phatvo‣rep‣Test025: 1.00
+Thời gian ≈ 0.044344200 giây
+Checking the result...
+Answer: 85
+Output: 85
+phatvo‣rep‣Test026: 1.00
+Thời gian ≈ 0.042927500 giây
+Checking the result...
+Answer: 30
+Output: 30
+phatvo‣rep‣Test027: 1.00
+Thời gian ≈ 0.045147300 giây
+Checking the result...
+Answer: 85
+Output: 85
+phatvo‣rep‣Test028: 1.00
+Thời gian ≈ 0.043984400 giây
+Checking the result...
+Answer: 96
+Output: 96
+phatvo‣rep‣Test029: 1.00
+Thời gian ≈ 0.043568600 giây
+Checking the result...
+Answer: 82
+Output: 82
+phatvo‣rep‣Test030: 1.00
+Thời gian ≈ 0.044335200 giây
+Checking the result...
+Answer: 73
+Output: 73
+phatvo‣rep‣Test031: 1.00
+Thời gian ≈ 0.047764600 giây
+Checking the result...
+Answer: 215
+Output: 215
+phatvo‣rep‣Test032: 1.00
+Thời gian ≈ 0.054222200 giây
+Checking the result...
+Answer: 296
+Output: 296
+phatvo‣rep‣Test033: 1.00
+Thời gian ≈ 0.047870700 giây
+Checking the result...
+Answer: 190
+Output: 190
+phatvo‣rep‣Test034: 1.00
+Thời gian ≈ 0.047091400 giây
+Checking the result...
+Answer: 102
+Output: 102
+phatvo‣rep‣Test035: 1.00
+Thời gian ≈ 0.053363700 giây
+Checking the result...
+Answer: 314
+Output: 314
+phatvo‣rep‣Test036: 1.00
+Thời gian ≈ 0.048980700 giây
+Checking the result...
+Answer: 248
+Output: 248
+phatvo‣rep‣Test037: 1.00
+Thời gian ≈ 0.050065500 giây
+Checking the result...
+Answer: 269
+Output: 269
+phatvo‣rep‣Test038: 1.00
+Thời gian ≈ 0.054373600 giây
+Checking the result...
+Answer: 281
+Output: 281
+phatvo‣rep‣Test039: 1.00
+Thời gian ≈ 0.046195000 giây
+Checking the result...
+Answer: 60
+Output: 60
+phatvo‣rep‣Test040: 1.00
+Thời gian ≈ 0.045119600 giây
+Checking the result...
+Answer: 112
+Output: 112
+phatvo‣rep‣Test041: 1.00
+Thời gian ≈ 0.045399200 giây
+Checking the result...
+Answer: 164
+Output: 164
+phatvo‣rep‣Test042: 1.00
+Thời gian ≈ 0.047539800 giây
+Checking the result...
+Answer: 221
+Output: 221
+phatvo‣rep‣Test043: 1.00
+Thời gian ≈ 0.056901100 giây
+Checking the result...
+Answer: 283
+Output: 283
+phatvo‣rep‣Test044: 1.00
+Thời gian ≈ 0.053511600 giây
+Checking the result...
+Answer: 269
+Output: 269
+phatvo‣rep‣Test045: 1.00
+Thời gian ≈ 0.052250500 giây
+Checking the result...
+Answer: 173
+Output: 173
+phatvo‣rep‣Test046: 1.00
+Thời gian ≈ 0.052333000 giây
+Checking the result...
+Answer: 278
+Output: 278
+phatvo‣rep‣Test047: 1.00
+Thời gian ≈ 0.055171200 giây
+Checking the result...
+Answer: 277
+Output: 277
+phatvo‣rep‣Test048: 1.00
+Thời gian ≈ 0.051580600 giây
+Checking the result...
+Answer: 268
+Output: 268
+phatvo‣rep‣Test049: 1.00
+Thời gian ≈ 0.053864900 giây
+Checking the result...
+Answer: 283
+Output: 283
+phatvo‣rep‣Test050: 1.00
+Thời gian ≈ 0.056122400 giây
+Checking the result...
+Answer: 245
+Output: 245
+phatvo‣rep‣Test051: 1.00
+Thời gian ≈ 0.095154000 giây
+Checking the result...
+Answer: 647
+Output: 647
+phatvo‣rep‣Test052: 1.00
+Thời gian ≈ 0.099453700 giây
+Checking the result...
+Answer: 654
+Output: 654
+phatvo‣rep‣Test053: 1.00
+Thời gian ≈ 0.110375800 giây
+Checking the result...
+Answer: 679
+Output: 679
+phatvo‣rep‣Test054: 1.00
+Thời gian ≈ 0.103024200 giây
+Checking the result...
+Answer: 661
+Output: 661
+phatvo‣rep‣Test055: 1.00
+Thời gian ≈ 0.053060700 giây
+Checking the result...
+Answer: 308
+Output: 308
+phatvo‣rep‣Test056: 1.00
+Thời gian ≈ 0.066905500 giây
+Checking the result...
+Answer: 416
+Output: 416
+phatvo‣rep‣Test057: 1.00
+Thời gian ≈ 0.100817300 giây
+Checking the result...
+Answer: 627
+Output: 627
+phatvo‣rep‣Test058: 1.00
+Thời gian ≈ 0.098189800 giây
+Checking the result...
+Answer: 636
+Output: 636
+phatvo‣rep‣Test059: 1.00
+Thời gian ≈ 0.086619600 giây
+Checking the result...
+Answer: 562
+Output: 562
+phatvo‣rep‣Test060: 1.00
+Thời gian ≈ 0.075728700 giây
+Checking the result...
+Answer: 491
+Output: 491
+phatvo‣rep‣Test061: 1.00
+Thời gian ≈ 0.080766300 giây
+Checking the result...
+Answer: 536
+Output: 536
+phatvo‣rep‣Test062: 1.00
+Thời gian ≈ 0.074529900 giây
+Checking the result...
+Answer: 464
+Output: 464
+phatvo‣rep‣Test063: 1.00
+Thời gian ≈ 0.075051100 giây
+Checking the result...
+Answer: 495
+Output: 495
+phatvo‣rep‣Test064: 1.00
+Thời gian ≈ 0.072152400 giây
+Checking the result...
+Answer: 489
+Output: 489
+phatvo‣rep‣Test065: 1.00
+Thời gian ≈ 0.054482900 giây
+Checking the result...
+Answer: 308
+Output: 308
+phatvo‣rep‣Test066: 1.00
+Thời gian ≈ 0.094445800 giây
+Checking the result...
+Answer: 611
+Output: 611
+phatvo‣rep‣Test067: 1.00
+Thời gian ≈ 0.090968400 giây
+Checking the result...
+Answer: 581
+Output: 581
+phatvo‣rep‣Test068: 1.00
+Thời gian ≈ 0.075294200 giây
+Checking the result...
+Answer: 503
+Output: 503
+phatvo‣rep‣Test069: 1.00
+Thời gian ≈ 0.078076200 giây
+Checking the result...
+Answer: 489
+Output: 489
+phatvo‣rep‣Test070: 1.00
+Thời gian ≈ 0.093436800 giây
+Checking the result...
+Answer: 641
+Output: 641
+phatvo‣rep‣Test071: 1.00
+Thời gian ≈ 0.056092600 giây
+Checking the result...
+Answer: 252
+Output: 252
+phatvo‣rep‣Test072: 1.00
+Thời gian ≈ 0.069055600 giây
+Checking the result...
+Answer: 390
+Output: 390
+phatvo‣rep‣Test073: 1.00
+Thời gian ≈ 0.137706900 giây
+Checking the result...
+Answer: 766
+Output: 766
+phatvo‣rep‣Test074: 1.00
+Thời gian ≈ 0.154053700 giây
+Checking the result...
+Answer: 890
+Output: 890
+phatvo‣rep‣Test075: 1.00
+Thời gian ≈ 0.125860900 giây
+Checking the result...
+Answer: 716
+Output: 716
+phatvo‣rep‣Test076: 1.00
+Thời gian ≈ 0.139251700 giây
+Checking the result...
+Answer: 821
+Output: 821
+phatvo‣rep‣Test077: 1.00
+Thời gian ≈ 0.140906900 giây
+Checking the result...
+Answer: 820
+Output: 820
+phatvo‣rep‣Test078: 1.00
+Thời gian ≈ 0.157949700 giây
+Checking the result...
+Answer: 869
+Output: 869
+phatvo‣rep‣Test079: 1.00
+Thời gian ≈ 0.124463800 giây
+Checking the result...
+Answer: 725
+Output: 725
+phatvo‣rep‣Test080: 1.00
+Thời gian ≈ 0.050610500 giây
+Checking the result...
+Answer: 212
+Output: 212
+phatvo‣rep‣Test081: 1.00
+Thời gian ≈ 0.143864300 giây
+Checking the result...
+Answer: 804
+Output: 804
+phatvo‣rep‣Test082: 1.00
+Thời gian ≈ 0.165122600 giây
+Checking the result...
+Answer: 889
+Output: 889
+phatvo‣rep‣Test083: 1.00
+Thời gian ≈ 0.161088300 giây
+Checking the result...
+Answer: 910
+Output: 910
+phatvo‣rep‣Test084: 1.00
+Thời gian ≈ 0.176691000 giây
+Checking the result...
+Answer: 926
+Output: 926
+phatvo‣rep‣Test085: 1.00
+Thời gian ≈ 0.152837800 giây
+Checking the result...
+Answer: 776
+Output: 776
+phatvo‣rep‣Test086: 1.00
+Thời gian ≈ 0.169582400 giây
+Checking the result...
+Answer: 874
+Output: 874
+phatvo‣rep‣Test087: 1.00
+Thời gian ≈ 0.064126400 giây
+Checking the result...
+Answer: 378
+Output: 378
+phatvo‣rep‣Test088: 1.00
+Thời gian ≈ 0.146484300 giây
+Checking the result...
+Answer: 790
+Output: 790
+phatvo‣rep‣Test089: 1.00
+Thời gian ≈ 0.121126200 giây
+Checking the result...
+Answer: 740
+Output: 740
+phatvo‣rep‣Test090: 1.00
+Thời gian ≈ 0.144658200 giây
+Checking the result...
+Answer: 862
+Output: 862
+phatvo‣rep‣Test091: 1.00
+Thời gian ≈ 0.084481800 giây
+Checking the result...
+Answer: 500
+Output: 500
+phatvo‣rep‣Test092: 1.00
+Thời gian ≈ 0.075858800 giây
+Checking the result...
+Answer: 464
+Output: 464
+phatvo‣rep‣Test093: 1.00
+Thời gian ≈ 0.190815400 giây
+Checking the result...
+Answer: 927
+Output: 927
+phatvo‣rep‣Test094: 1.00
+Thời gian ≈ 0.182178800 giây
+Checking the result...
+Answer: 992
+Output: 992
+phatvo‣rep‣Test095: 1.00
+Thời gian ≈ 0.079147000 giây
+Checking the result...
+Answer: 506
+Output: 506
+phatvo‣rep‣Test096: 1.00
+Thời gian ≈ 0.194985600 giây
+Checking the result...
+Answer: 984
+Output: 984
+phatvo‣rep‣Test097: 1.00
+Thời gian ≈ 0.073451000 giây
+Checking the result...
+Answer: 416
+Output: 416
+phatvo‣rep‣Test098: 1.00
+Thời gian ≈ 0.110627500 giây
+Checking the result...
+Answer: 672
+Output: 672
+phatvo‣rep‣Test099: 1.00
+Thời gian ≈ 0.163180600 giây
+Checking the result...
+Answer: 882
+Output: 882
+phatvo‣rep‣Test100: 1.00
+Thời gian ≈ 0.069247000 giây
+Checking the result...
+Answer: 448
+Output: 448

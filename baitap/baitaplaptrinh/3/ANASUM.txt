@@ -1,0 +1,6 @@
+Nhận xét:
+- Xét dãy số a[1], a[2], ..., a[i-1]. Giả sử các dãy con của dãy số này (chọn ra một số phần tử trong dãy) có thể tạo được các giá trị tổng liên tục từ 1 đến T. Ví dụ dãy 4, 1, 2 có thể sinh ra được các tổng liên tiếp từ 1 đến 7.
+- Xét phần tử a[i] thêm vào dãy trên (để tạo thành dãy a[1], a[2], ..., a[i-1], a[i]). Ta nhận thấy nếu a[i] có giá trị từ 1 đến T+1 (nghĩa là 1 <= a[i] <= T+1) thì dãy mới có thể sinh ra các tổng liên tiếp từ 1 đến T+a[i].
+  Ví dụ: xét dãy 4, 1, 2 sinh ra được các tổng liên tiếp từ 1 đến 7. Nếu ta thêm phần tử mới có giá trị 5 thì dãy 4, 1, 2, 5 sinh ra các tổng liên tiếp từ 1 đến 12
+- Nếu ta thêm a[i] > T+1 thì sẽ không tạo được tổng là T+1. Như vậy ta nhận thấy rằng nếu thêm các giá trị a[i] nhỏ sẽ có khả tăng mở rộng T hơn là các giá trị a[i] lớn. 
+- Như vậy ta sẽ thêm a[i] từ nhỏ đến lớn.

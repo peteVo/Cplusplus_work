@@ -1,0 +1,73 @@
+#include <iostream>
+#include <cstdio>
+#include <string>
+
+using namespace std;
+typedef pair<int, int> pii;
+int m, n;
+char maze[1000][1000];
+pii startPos;
+int dx[4] = {0, 1, 0, -1};
+int dy[4] = {1, 0, -1, 0};
+char trans[4] = {'N', 'E', 'S', 'W'};
+bool flag = false;
+int backwardx[26];
+
+void ReadData()
+{
+    cin >> m >> n;
+    for(int i = 0; i < m; ++i){
+        string s;
+        cin >> s;
+        for(int j = 0; j < n; ++j){
+            maze[i][j] = s[j];
+            if(s[j] == '*') startPos = pii(i,j);
+        }
+    }
+}
+
+bool isPath(pii pos)
+{
+    int x = pos.first;
+    int y = pos.second;
+    return (x >= 0 && y >= 0 && x < m && y < n && maze[x][y] == '.');
+}
+
+bool isGoal(pii pos)
+{
+    int x = pos.first;
+    int y = pos.second;
+    return (x < 0 && y < 0 && x >= m && y >= n);
+}
+
+void labyrinth(string lastWay, pii pos)
+{
+    if(isGoal(pos)){
+        cout << lastWay;
+        return;
+    }
+    for(int v = 0; v < 4; ++v){
+        int x = pos.first + dx[v];
+        int y = pos.second + dy[v];
+        if(isPath(pii(x,y))){
+            int chr = v + '0';
+            lastWay.push_back((char)chr);
+            labyrinth(lastWay, pii(x, y));
+        }
+    }
+}
+
+int main()
+{
+    freopen("labyrinth.inp", "r", stdin);
+    freopen("labyrinth.out", "w", stdout);
+
+    ReadData();
+    labyrinth("", startPos);
+
+    string s = "asd";
+    s.push_back('d');
+    cout << s;
+
+    return 0;
+}

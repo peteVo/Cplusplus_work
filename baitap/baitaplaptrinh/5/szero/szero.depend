@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624711743 source:d:\it_related_files\baitap\baitaplaptrinh\szero\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+

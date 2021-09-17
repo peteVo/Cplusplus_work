@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625226152 source:d:\it_related_files\baitap\baitaplaptrinh\supprime\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+

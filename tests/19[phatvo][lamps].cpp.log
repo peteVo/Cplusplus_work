@@ -1,0 +1,155 @@
+ ﻿phatvo‣lamps: 0.00
+lamps.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "lamps.cpp" -pipe -O2 -s -static -lm -x c++ -o"lamps.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom15344\
+Dịch thành công.
+
+phatvo‣lamps‣Test01: 0.00
+Thời gian ≈ 0.049710100 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test02: 0.00
+Thời gian ≈ 0.048023500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test03: 0.00
+Thời gian ≈ 0.046812500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test04: 0.00
+Thời gian ≈ 0.047399000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test05: 0.00
+Thời gian ≈ 0.047758400 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test06: 0.00
+Thời gian ≈ 0.045947900 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test07: 0.00
+Thời gian ≈ 0.049008400 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test08: 0.00
+Thời gian ≈ 0.048306600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test09: 0.00
+Thời gian ≈ 0.050415500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test10: 0.00
+Thời gian ≈ 0.049212400 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test11: 0.00
+Thời gian ≈ 0.049929500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test12: 0.00
+Thời gian ≈ 0.049409800 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test13: 0.00
+Thời gian ≈ 0.047845000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test14: 0.00
+Thời gian ≈ 0.048212800 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test15: 0.00
+Thời gian ≈ 0.049244800 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test16: 0.00
+Thời gian ≈ 0.049766800 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test17: 0.00
+Thời gian ≈ 0.051971300 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test18: 0.00
+Thời gian ≈ 0.046289900 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test19: 0.00
+Thời gian ≈ 0.051584900 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test20: 0.00
+Thời gian ≈ 0.050001600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test21: 0.00
+Thời gian ≈ 0.054852700 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test22: 0.00
+Thời gian ≈ 0.055169200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test23: 0.00
+Thời gian ≈ 0.058869700 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test24: 0.00
+Thời gian ≈ 0.056673600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test25: 0.00
+Thời gian ≈ 0.066352700 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test26: 0.00
+Thời gian ≈ 0.065801500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test27: 0.00
+Thời gian ≈ 0.070254400 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test28: 0.00
+Thời gian ≈ 0.077624200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test29: 0.00
+Thời gian ≈ 0.079823000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test30: 0.00
+Thời gian ≈ 0.079066000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test31: 0.00
+Thời gian ≈ 0.087777000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test32: 0.00
+Thời gian ≈ 0.085715000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test33: 0.00
+Thời gian ≈ 0.096101500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test34: 0.00
+Thời gian ≈ 0.110136700 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test35: 0.00
+Thời gian ≈ 0.127105700 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test36: 0.00
+Thời gian ≈ 0.137267600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test37: 0.00
+Thời gian ≈ 0.145012800 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test38: 0.00
+Thời gian ≈ 0.152613000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test39: 0.00
+Thời gian ≈ 0.162464000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test40: 0.00
+Thời gian ≈ 0.180916400 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test41: 0.00
+Thời gian ≈ 0.190418300 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test42: 0.00
+Thời gian ≈ 0.202681600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test43: 0.00
+Thời gian ≈ 0.200683100 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test44: 0.00
+Thời gian ≈ 0.205516700 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test45: 0.00
+Thời gian ≈ 0.241449200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test46: 0.00
+Thời gian ≈ 0.256098100 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test47: 0.00
+Thời gian ≈ 0.274064900 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test48: 0.00
+Thời gian ≈ 0.288128600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test49: 0.00
+Thời gian ≈ 0.293681500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lamps‣Test50: 0.00
+Thời gian ≈ 0.304705500 giây
+Kết quả KHÁC đáp án!

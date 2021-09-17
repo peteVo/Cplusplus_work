@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615623278 source:d:\it\baitaplaptrinh\express\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+

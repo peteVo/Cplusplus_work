@@ -1,0 +1,140 @@
+ ﻿phatvo‣maxnum: 12.00
+maxnum.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "maxnum.cpp" -pipe -O2 -s -static -lm -x c++ -o"maxnum.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom54103\
+Dịch thành công.
+
+phatvo‣maxnum‣$MAXNUM01: 0.00
+Thời gian ≈ 0.046887700 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM02: 0.00
+Thời gian ≈ 0.047155300 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM03: 2.00
+Thời gian ≈ 0.047302000 giây
+Kết quả khớp đáp án!
+phatvo‣maxnum‣$MAXNUM04: 0.00
+Thời gian ≈ 0.047142700 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM05: 0.00
+Thời gian ≈ 0.046986500 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM06: 2.00
+Thời gian ≈ 0.049444000 giây
+Kết quả khớp đáp án!
+phatvo‣maxnum‣$MAXNUM07: 2.00
+Thời gian ≈ 0.046966100 giây
+Kết quả khớp đáp án!
+phatvo‣maxnum‣$MAXNUM08: 0.00
+Thời gian ≈ 0.045700700 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM09: 0.00
+Thời gian ≈ 0.047107000 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM10: 0.00
+Thời gian ≈ 0.048190700 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM11: 2.00
+Thời gian ≈ 0.050582600 giây
+Kết quả khớp đáp án!
+phatvo‣maxnum‣$MAXNUM12: 2.00
+Thời gian ≈ 0.044058600 giây
+Kết quả khớp đáp án!
+phatvo‣maxnum‣$MAXNUM13: 0.00
+Thời gian ≈ 0.048419000 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM14: 2.00
+Thời gian ≈ 0.047612600 giây
+Kết quả khớp đáp án!
+phatvo‣maxnum‣$MAXNUM15: 0.00
+Thời gian ≈ 0.045334300 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM16: 0.00
+Thời gian ≈ 0.046638400 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM17: 0.00
+Thời gian ≈ 0.045042500 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM18: 0.00
+Thời gian ≈ 0.048640700 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM19: 0.00
+Thời gian ≈ 0.049695900 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM20: 0.00
+Thời gian ≈ 0.046389600 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM21: 0.00
+Thời gian ≈ 0.049263800 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM22: 0.00
+Thời gian ≈ 0.049894900 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM23: 0.00
+Thời gian ≈ 0.051064600 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM24: 0.00
+Thời gian ≈ 0.048877200 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM25: 0.00
+Thời gian ≈ 0.044347400 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM26: 0.00
+Thời gian ≈ 0.053877100 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM27: 0.00
+Thời gian ≈ 0.048295800 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM28: 0.00
+Thời gian ≈ 0.052871600 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM29: 0.00
+Thời gian ≈ 0.047923900 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM30: 0.00
+Thời gian ≈ 0.050495700 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM31: 0.00
+Thời gian ≈ 0.064886200 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM32: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM33: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM34: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM35: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM36: 0.00
+Thời gian ≈ 0.052417000 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM37: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM38: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM39: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM40: 0.00
+Thời gian ≈ 0.799846000 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM41: 0.00
+Thời gian ≈ 0.409652800 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM42: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM43: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM44: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM45: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM46: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM47: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM48: 0.00
+Chạy quá thời gian
+phatvo‣maxnum‣$MAXNUM49: 0.00
+Thời gian ≈ 0.051470500 giây
+Kết quả KHÁC đáp án!
+phatvo‣maxnum‣$MAXNUM50: 0.00
+Chạy quá thời gian

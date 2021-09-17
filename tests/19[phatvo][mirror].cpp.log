@@ -1,0 +1,41 @@
+ ﻿phatvo‣mirror: 75.01
+mirror.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "mirror.cpp" -pipe -O2 -s -static -lm -x c++ -o"mirror.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom65398\
+Dịch thành công.
+
+phatvo‣mirror‣Test01: 8.33
+Thời gian ≈ 0.047522100 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test02: 8.33
+Thời gian ≈ 0.045614700 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test03: 8.33
+Thời gian ≈ 0.047020400 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test04: 0.00
+Thời gian ≈ 0.044153300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mirror‣Test05: 0.00
+Thời gian ≈ 0.045688000 giây
+Kết quả KHÁC đáp án!
+phatvo‣mirror‣Test06: 0.00
+Thời gian ≈ 0.045374800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mirror‣Test07: 8.33
+Thời gian ≈ 0.045767300 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test08: 8.33
+Thời gian ≈ 0.043897800 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test09: 8.33
+Thời gian ≈ 0.046043800 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test10: 8.33
+Thời gian ≈ 0.045902800 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test11: 8.33
+Thời gian ≈ 0.044605500 giây
+Kết quả khớp đáp án!
+phatvo‣mirror‣Test12: 8.37
+Thời gian ≈ 0.045866000 giây
+Kết quả khớp đáp án!

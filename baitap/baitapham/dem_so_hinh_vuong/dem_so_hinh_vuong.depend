@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602337392 source:d:\baitapham\dem_so_hinh_vuong\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

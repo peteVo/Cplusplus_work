@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608377731 source:d:\it\baitaplaptrinh\numquiz\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

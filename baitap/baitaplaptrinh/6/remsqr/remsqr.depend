@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630052305 source:d:\it_related_files\baitap\baitaplaptrinh\remsqr\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+

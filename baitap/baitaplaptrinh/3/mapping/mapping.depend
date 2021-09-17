@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616852639 source:d:\it\baitaplaptrinh\mapping\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+

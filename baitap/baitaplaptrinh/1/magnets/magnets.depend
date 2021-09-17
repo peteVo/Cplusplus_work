@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604757132 source:d:\it\baitaplaptrinh\magnets\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

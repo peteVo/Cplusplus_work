@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622037375 source:d:\it\baitaplaptrinh\twosets\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+

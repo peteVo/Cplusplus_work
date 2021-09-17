@@ -1,0 +1,305 @@
+ ﻿phatvo‣sumseq: 97.00
+sumseq.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "sumseq.cpp" -pipe -O2 -s -static -lm -x c++ -o"sumseq.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom48702\
+Dịch thành công.
+
+phatvo‣sumseq‣test00: 1.00
+Thời gian ≈ 0.045878600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test01: 1.00
+Thời gian ≈ 0.046687300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test02: 1.00
+Thời gian ≈ 0.046072100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test03: 1.00
+Thời gian ≈ 0.043301600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test04: 1.00
+Thời gian ≈ 0.044830900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test05: 1.00
+Thời gian ≈ 0.045904100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test06: 1.00
+Thời gian ≈ 0.045190000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test07: 1.00
+Thời gian ≈ 0.044569100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test08: 1.00
+Thời gian ≈ 0.042888500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test09: 1.00
+Thời gian ≈ 0.043757800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test10: 1.00
+Thời gian ≈ 0.046809000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test11: 1.00
+Thời gian ≈ 0.046293100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test12: 1.00
+Thời gian ≈ 0.045420400 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test13: 1.00
+Thời gian ≈ 0.045898700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test14: 1.00
+Thời gian ≈ 0.046340300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test15: 1.00
+Thời gian ≈ 0.048198400 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test16: 1.00
+Thời gian ≈ 0.047428700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test17: 1.00
+Thời gian ≈ 0.046532100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test18: 1.00
+Thời gian ≈ 0.047561800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test19: 1.00
+Thời gian ≈ 0.043181500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test20: 1.00
+Thời gian ≈ 0.046197500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test21: 0.00
+Thời gian ≈ 0.044910900 giây
+Ket qua sai
+phatvo‣sumseq‣test22: 1.00
+Thời gian ≈ 0.045825200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test23: 1.00
+Thời gian ≈ 0.043504500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test24: 1.00
+Thời gian ≈ 0.045681800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test25: 1.00
+Thời gian ≈ 0.044765700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test26: 1.00
+Thời gian ≈ 0.043268900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test27: 1.00
+Thời gian ≈ 0.045326200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test28: 1.00
+Thời gian ≈ 0.045212200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test29: 1.00
+Thời gian ≈ 0.044796500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test30: 1.00
+Thời gian ≈ 0.044292600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test31: 0.00
+Thời gian ≈ 0.047800700 giây
+Ket qua sai
+phatvo‣sumseq‣test32: 1.00
+Thời gian ≈ 0.046480300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test33: 1.00
+Thời gian ≈ 0.044501900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test34: 1.00
+Thời gian ≈ 0.048498000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test35: 1.00
+Thời gian ≈ 0.047187200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test36: 1.00
+Thời gian ≈ 0.046920700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test37: 1.00
+Thời gian ≈ 0.049052900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test38: 1.00
+Thời gian ≈ 0.046655500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test39: 1.00
+Thời gian ≈ 0.045888100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test40: 1.00
+Thời gian ≈ 0.044602500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test41: 1.00
+Thời gian ≈ 0.046098300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test42: 1.00
+Thời gian ≈ 0.045795800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test43: 0.00
+Thời gian ≈ 0.045939300 giây
+Ket qua sai
+phatvo‣sumseq‣test44: 1.00
+Thời gian ≈ 0.046993600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test45: 1.00
+Thời gian ≈ 0.047176700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test46: 1.00
+Thời gian ≈ 0.045820700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test47: 1.00
+Thời gian ≈ 0.046222800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test48: 1.00
+Thời gian ≈ 0.044937500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test49: 1.00
+Thời gian ≈ 0.045299500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test50: 1.00
+Thời gian ≈ 0.044701700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test51: 1.00
+Thời gian ≈ 0.049845900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test52: 1.00
+Thời gian ≈ 0.050130800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test53: 1.00
+Thời gian ≈ 0.052092600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test54: 1.00
+Thời gian ≈ 0.046438700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test55: 1.00
+Thời gian ≈ 0.047047600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test56: 1.00
+Thời gian ≈ 0.050375600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test57: 1.00
+Thời gian ≈ 0.048400200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test58: 1.00
+Thời gian ≈ 0.043171800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test59: 1.00
+Thời gian ≈ 0.046631600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test60: 1.00
+Thời gian ≈ 0.050750000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test61: 1.00
+Thời gian ≈ 0.050411500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test62: 1.00
+Thời gian ≈ 0.050054900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test63: 1.00
+Thời gian ≈ 0.051644800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test64: 1.00
+Thời gian ≈ 0.049136800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test65: 1.00
+Thời gian ≈ 0.051613800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test66: 1.00
+Thời gian ≈ 0.053192700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test67: 1.00
+Thời gian ≈ 0.050638800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test68: 1.00
+Thời gian ≈ 0.052974300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test69: 1.00
+Thời gian ≈ 0.053135700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test70: 1.00
+Thời gian ≈ 0.050904900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test71: 1.00
+Thời gian ≈ 0.049673100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test72: 1.00
+Thời gian ≈ 0.056048100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test73: 1.00
+Thời gian ≈ 0.052836800 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test74: 1.00
+Thời gian ≈ 0.051089200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test75: 1.00
+Thời gian ≈ 0.052857300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test76: 1.00
+Thời gian ≈ 0.055549000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test77: 1.00
+Thời gian ≈ 0.050849600 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test78: 1.00
+Thời gian ≈ 0.049516700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test79: 1.00
+Thời gian ≈ 0.051726500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test80: 1.00
+Thời gian ≈ 0.052994100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test81: 1.00
+Thời gian ≈ 0.054579200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test82: 1.00
+Thời gian ≈ 0.055228400 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test83: 1.00
+Thời gian ≈ 0.055930900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test84: 1.00
+Thời gian ≈ 0.052533400 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test85: 1.00
+Thời gian ≈ 0.054058900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test86: 1.00
+Thời gian ≈ 0.052060900 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test87: 1.00
+Thời gian ≈ 0.055381700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test88: 1.00
+Thời gian ≈ 0.052768000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test89: 1.00
+Thời gian ≈ 0.053200000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test90: 1.00
+Thời gian ≈ 0.066549200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test91: 1.00
+Thời gian ≈ 0.065183100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test92: 1.00
+Thời gian ≈ 0.064465200 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test93: 1.00
+Thời gian ≈ 0.066682300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test94: 1.00
+Thời gian ≈ 0.064305000 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test95: 1.00
+Thời gian ≈ 0.061412700 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test96: 1.00
+Thời gian ≈ 0.064535300 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test97: 1.00
+Thời gian ≈ 0.072402100 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test98: 1.00
+Thời gian ≈ 0.073925500 giây
+Ket qua chinh xac!
+phatvo‣sumseq‣test99: 1.00
+Thời gian ≈ 0.158090700 giây
+Ket qua chinh xac!

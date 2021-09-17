@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622119454 source:d:\it\baitaplaptrinh\restaurant\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+

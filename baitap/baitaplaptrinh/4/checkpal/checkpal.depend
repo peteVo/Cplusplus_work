@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621655827 source:d:\it\baitaplaptrinh\checkpal\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+	<string>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619702989 source:d:\it\baitaplaptrinh\pythagore\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+
+1619704617 source:d:\it_related_files\baitap\baitaplaptrinh\4\pythagore\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+

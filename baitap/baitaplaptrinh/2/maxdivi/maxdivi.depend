@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610801398 source:d:\it\baitaplaptrinh\maxdivi\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

@@ -1,0 +1,80 @@
+ ﻿phatvo‣beads: 8.00
+beads.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "beads.cpp" -pipe -O2 -s -static -lm -x c++ -o"beads.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom64494\
+Dịch thành công.
+
+phatvo‣beads‣Test01: 0.00
+Thời gian ≈ 0.046801600 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test02: 0.00
+Thời gian ≈ 0.050589000 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test03: 0.00
+Thời gian ≈ 0.046775700 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test04: 0.00
+Thời gian ≈ 0.042515900 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test05: 0.00
+Thời gian ≈ 0.043810600 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test06: 0.00
+Thời gian ≈ 0.045666200 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test07: 0.00
+Thời gian ≈ 0.042436600 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test08: 0.00
+Thời gian ≈ 0.041098800 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test09: 0.00
+Thời gian ≈ 0.045389300 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test10: 4.00
+Thời gian ≈ 0.040417000 giây
+Kết quả khớp đáp án!
+phatvo‣beads‣Test11: 0.00
+Thời gian ≈ 0.058466700 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test12: 0.00
+Thời gian ≈ 0.044464600 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test13: 0.00
+Thời gian ≈ 0.054399700 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test14: 0.00
+Thời gian ≈ 0.052123800 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test15: 0.00
+Thời gian ≈ 0.047318100 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test16: 0.00
+Thời gian ≈ 0.045822900 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test17: 0.00
+Thời gian ≈ 0.055967000 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test18: 0.00
+Thời gian ≈ 0.056458800 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test19: 0.00
+Thời gian ≈ 0.059979900 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test20: 4.00
+Thời gian ≈ 0.047645500 giây
+Kết quả khớp đáp án!
+phatvo‣beads‣Test21: 0.00
+Thời gian ≈ 0.054166400 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test22: 0.00
+Thời gian ≈ 0.046905700 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test23: 0.00
+Thời gian ≈ 0.045242500 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test24: 0.00
+Thời gian ≈ 0.051607000 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test25: 0.00
+Thời gian ≈ 0.061383500 giây
+Kết quả KHÁC đáp án!

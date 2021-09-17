@@ -1,0 +1,599 @@
+ ﻿phatvo‣asummin: 3.00
+asummin.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "asummin.cpp" -pipe -O2 -s -static -lm -x c++ -o"asummin.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom46076\
+Dịch thành công.
+
+phatvo‣asummin‣Test001: 0.00
+Thời gian ≈ 0.047108000 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 14
+Ye^'u ke'm
+phatvo‣asummin‣Test002: 0.00
+Thời gian ≈ 0.046917300 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 9
+Ye^'u ke'm
+phatvo‣asummin‣Test003: 0.00
+Thời gian ≈ 0.043761900 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 1403
+Ye^'u ke'm
+phatvo‣asummin‣Test004: 0.00
+Thời gian ≈ 0.045274500 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2041
+Ye^'u ke'm
+phatvo‣asummin‣Test005: 0.00
+Thời gian ≈ 0.050236200 giây
+Checking absoluted sum: 
+  .Answer: 108
+  .Output: 2050310964
+Ye^'u ke'm
+phatvo‣asummin‣Test006: 0.00
+Thời gian ≈ 0.207793200 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2346549863
+Ye^'u ke'm
+phatvo‣asummin‣Test007: 0.00
+Thời gian ≈ 0.239903000 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 433591634
+Ye^'u ke'm
+phatvo‣asummin‣Test008: 0.00
+Thời gian ≈ 0.260068800 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2691828476
+Ye^'u ke'm
+phatvo‣asummin‣Test009: 1.00
+Thời gian ≈ 0.263345600 giây
+Checking absoluted sum: 
+  .Answer: 4000000000
+  .Output: 4000000000
+Correct!
+phatvo‣asummin‣Test010: 0.00
+Thời gian ≈ 0.268356500 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 282332593
+Ye^'u ke'm
+phatvo‣asummin‣Test011: 1.00
+Thời gian ≈ 0.047178700 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 2
+Correct!
+phatvo‣asummin‣Test012: 0.00
+Thời gian ≈ 0.047638000 giây
+Invalid indicies 0 & 0
+phatvo‣asummin‣Test013: 1.00
+Thời gian ≈ 0.043925600 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 1
+Correct!
+phatvo‣asummin‣Test014: 0.00
+Thời gian ≈ 0.045389700 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 5
+Ye^'u ke'm
+phatvo‣asummin‣Test015: 0.00
+Thời gian ≈ 0.042919300 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 6
+Ye^'u ke'm
+phatvo‣asummin‣Test016: 0.00
+Thời gian ≈ 0.043455800 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 12
+Ye^'u ke'm
+phatvo‣asummin‣Test017: 0.00
+Thời gian ≈ 0.046031100 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 4
+Ye^'u ke'm
+phatvo‣asummin‣Test018: 0.00
+Thời gian ≈ 0.043186100 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 1
+Ye^'u ke'm
+phatvo‣asummin‣Test019: 0.00
+Thời gian ≈ 0.049904200 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 1
+Ye^'u ke'm
+phatvo‣asummin‣Test020: 0.00
+Thời gian ≈ 0.045819400 giây
+Invalid indicies 0 & 0
+phatvo‣asummin‣Test021: 0.00
+Thời gian ≈ 0.045936300 giây
+Checking absoluted sum: 
+  .Answer: 3286
+  .Output: 162545695
+Ye^'u ke'm
+phatvo‣asummin‣Test022: 0.00
+Thời gian ≈ 0.045022100 giây
+Checking absoluted sum: 
+  .Answer: 3333
+  .Output: 1030869107
+Ye^'u ke'm
+phatvo‣asummin‣Test023: 0.00
+Thời gian ≈ 0.041245800 giây
+Checking absoluted sum: 
+  .Answer: 3405
+  .Output: 1401251742
+Ye^'u ke'm
+phatvo‣asummin‣Test024: 0.00
+Thời gian ≈ 0.047290900 giây
+Checking absoluted sum: 
+  .Answer: 463
+  .Output: 1948977669
+Ye^'u ke'm
+phatvo‣asummin‣Test025: 0.00
+Thời gian ≈ 0.045000200 giây
+Checking absoluted sum: 
+  .Answer: 1458707
+  .Output: 560594947
+Ye^'u ke'm
+phatvo‣asummin‣Test026: 0.00
+Thời gian ≈ 0.045194400 giây
+Checking absoluted sum: 
+  .Answer: 8082516
+  .Output: 1999057222
+Ye^'u ke'm
+phatvo‣asummin‣Test027: 0.00
+Thời gian ≈ 0.043158500 giây
+Checking absoluted sum: 
+  .Answer: 29970
+  .Output: 2360388073
+Ye^'u ke'm
+phatvo‣asummin‣Test028: 0.00
+Thời gian ≈ 0.047077900 giây
+Checking absoluted sum: 
+  .Answer: 17379
+  .Output: 766124964
+Ye^'u ke'm
+phatvo‣asummin‣Test029: 0.00
+Thời gian ≈ 0.050639800 giây
+Checking absoluted sum: 
+  .Answer: 1643
+  .Output: 225190148
+Ye^'u ke'm
+phatvo‣asummin‣Test030: 0.00
+Thời gian ≈ 0.051549300 giây
+Checking absoluted sum: 
+  .Answer: 29788
+  .Output: 976450625
+Ye^'u ke'm
+phatvo‣asummin‣Test031: 0.00
+Thời gian ≈ 0.117224200 giây
+Checking absoluted sum: 
+  .Answer: 12
+  .Output: 2014925667
+Ye^'u ke'm
+phatvo‣asummin‣Test032: 0.00
+Thời gian ≈ 0.148693400 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 314944107
+Ye^'u ke'm
+phatvo‣asummin‣Test033: 0.00
+Thời gian ≈ 0.069167300 giây
+Checking absoluted sum: 
+  .Answer: 22
+  .Output: 641067571
+Ye^'u ke'm
+phatvo‣asummin‣Test034: 0.00
+Thời gian ≈ 0.120737600 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 1702932876
+Ye^'u ke'm
+phatvo‣asummin‣Test035: 0.00
+Thời gian ≈ 0.083612700 giây
+Checking absoluted sum: 
+  .Answer: 16
+  .Output: 695326140
+Ye^'u ke'm
+phatvo‣asummin‣Test036: 0.00
+Thời gian ≈ 0.122328500 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 390846827
+Ye^'u ke'm
+phatvo‣asummin‣Test037: 0.00
+Thời gian ≈ 0.116652500 giây
+Checking absoluted sum: 
+  .Answer: 4
+  .Output: 3405307373
+Ye^'u ke'm
+phatvo‣asummin‣Test038: 0.00
+Thời gian ≈ 0.160136100 giây
+Checking absoluted sum: 
+  .Answer: 5
+  .Output: 2384905836
+Ye^'u ke'm
+phatvo‣asummin‣Test039: 0.00
+Thời gian ≈ 0.121254600 giây
+Checking absoluted sum: 
+  .Answer: 13
+  .Output: 1166221713
+Ye^'u ke'm
+phatvo‣asummin‣Test040: 0.00
+Thời gian ≈ 0.111367800 giây
+Checking absoluted sum: 
+  .Answer: 9
+  .Output: 649793080
+Ye^'u ke'm
+phatvo‣asummin‣Test041: 0.00
+Thời gian ≈ 0.184266600 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 245572439
+Ye^'u ke'm
+phatvo‣asummin‣Test042: 0.00
+Thời gian ≈ 0.193163900 giây
+Checking absoluted sum: 
+  .Answer: 3
+  .Output: 1246048875
+Ye^'u ke'm
+phatvo‣asummin‣Test043: 0.00
+Thời gian ≈ 0.120152300 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 685028564
+Ye^'u ke'm
+phatvo‣asummin‣Test044: 0.00
+Thời gian ≈ 0.209187100 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 931617823
+Ye^'u ke'm
+phatvo‣asummin‣Test045: 0.00
+Thời gian ≈ 0.075692100 giây
+Checking absoluted sum: 
+  .Answer: 313
+  .Output: 330231043
+Ye^'u ke'm
+phatvo‣asummin‣Test046: 0.00
+Thời gian ≈ 0.303429200 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 3057729236
+Ye^'u ke'm
+phatvo‣asummin‣Test047: 0.00
+Thời gian ≈ 0.200251000 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 48155929
+Ye^'u ke'm
+phatvo‣asummin‣Test048: 0.00
+Thời gian ≈ 0.126655200 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 2482609243
+Ye^'u ke'm
+phatvo‣asummin‣Test049: 0.00
+Thời gian ≈ 0.113329000 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 3760742508
+Ye^'u ke'm
+phatvo‣asummin‣Test050: 0.00
+Thời gian ≈ 0.181654700 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 555763449
+Ye^'u ke'm
+phatvo‣asummin‣Test051: 0.00
+Thời gian ≈ 0.181791200 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2637049048
+Ye^'u ke'm
+phatvo‣asummin‣Test052: 0.00
+Thời gian ≈ 0.191614100 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 940806363
+Ye^'u ke'm
+phatvo‣asummin‣Test053: 0.00
+Thời gian ≈ 0.153629600 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 1662215261
+Ye^'u ke'm
+phatvo‣asummin‣Test054: 0.00
+Thời gian ≈ 0.184420500 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 1190147140
+Ye^'u ke'm
+phatvo‣asummin‣Test055: 0.00
+Thời gian ≈ 0.150895200 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 2321960260
+Ye^'u ke'm
+phatvo‣asummin‣Test056: 0.00
+Thời gian ≈ 0.151743200 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 2588430502
+Ye^'u ke'm
+phatvo‣asummin‣Test057: 0.00
+Thời gian ≈ 0.125053300 giây
+Checking absoluted sum: 
+  .Answer: 3
+  .Output: 724035277
+Ye^'u ke'm
+phatvo‣asummin‣Test058: 0.00
+Thời gian ≈ 0.217695200 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 353462526
+Ye^'u ke'm
+phatvo‣asummin‣Test059: 0.00
+Thời gian ≈ 0.106400900 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 1470939750
+Ye^'u ke'm
+phatvo‣asummin‣Test060: 0.00
+Thời gian ≈ 0.232362000 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 1116975352
+Ye^'u ke'm
+phatvo‣asummin‣Test061: 0.00
+Thời gian ≈ 0.064864500 giây
+Checking absoluted sum: 
+  .Answer: 67
+  .Output: 1132665893
+Ye^'u ke'm
+phatvo‣asummin‣Test062: 0.00
+Thời gian ≈ 0.204171600 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 639910046
+Ye^'u ke'm
+phatvo‣asummin‣Test063: 0.00
+Thời gian ≈ 0.231479300 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2781790686
+Ye^'u ke'm
+phatvo‣asummin‣Test064: 0.00
+Thời gian ≈ 0.098656700 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 289472823
+Ye^'u ke'm
+phatvo‣asummin‣Test065: 0.00
+Thời gian ≈ 0.147229400 giây
+Checking absoluted sum: 
+  .Answer: 8
+  .Output: 770789012
+Ye^'u ke'm
+phatvo‣asummin‣Test066: 0.00
+Thời gian ≈ 0.071496800 giây
+Checking absoluted sum: 
+  .Answer: 6
+  .Output: 1602568036
+Ye^'u ke'm
+phatvo‣asummin‣Test067: 0.00
+Thời gian ≈ 0.190508500 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2868338495
+Ye^'u ke'm
+phatvo‣asummin‣Test068: 0.00
+Thời gian ≈ 0.236490700 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 324328716
+Ye^'u ke'm
+phatvo‣asummin‣Test069: 0.00
+Thời gian ≈ 0.161478400 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 3229209053
+Ye^'u ke'm
+phatvo‣asummin‣Test070: 0.00
+Thời gian ≈ 0.094923800 giây
+Checking absoluted sum: 
+  .Answer: 3
+  .Output: 546063904
+Ye^'u ke'm
+phatvo‣asummin‣Test071: 0.00
+Thời gian ≈ 0.234551300 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 3418896692
+Ye^'u ke'm
+phatvo‣asummin‣Test072: 0.00
+Thời gian ≈ 0.084065200 giây
+Checking absoluted sum: 
+  .Answer: 7
+  .Output: 1455006238
+Ye^'u ke'm
+phatvo‣asummin‣Test073: 0.00
+Thời gian ≈ 0.079704900 giây
+Checking absoluted sum: 
+  .Answer: 23
+  .Output: 1750936700
+Ye^'u ke'm
+phatvo‣asummin‣Test074: 0.00
+Thời gian ≈ 0.255720800 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 1840095297
+Ye^'u ke'm
+phatvo‣asummin‣Test075: 0.00
+Thời gian ≈ 0.114133300 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 54152166
+Ye^'u ke'm
+phatvo‣asummin‣Test076: 0.00
+Thời gian ≈ 0.257743700 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 477259485
+Ye^'u ke'm
+phatvo‣asummin‣Test077: 0.00
+Thời gian ≈ 0.203003600 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2661282684
+Ye^'u ke'm
+phatvo‣asummin‣Test078: 0.00
+Thời gian ≈ 0.081192600 giây
+Checking absoluted sum: 
+  .Answer: 19
+  .Output: 553048493
+Ye^'u ke'm
+phatvo‣asummin‣Test079: 0.00
+Thời gian ≈ 0.200182700 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 982064335
+Ye^'u ke'm
+phatvo‣asummin‣Test080: 0.00
+Thời gian ≈ 0.133382300 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2774374151
+Ye^'u ke'm
+phatvo‣asummin‣Test081: 0.00
+Thời gian ≈ 0.099922600 giây
+Checking absoluted sum: 
+  .Answer: 3
+  .Output: 1492595957
+Ye^'u ke'm
+phatvo‣asummin‣Test082: 0.00
+Thời gian ≈ 0.072933900 giây
+Checking absoluted sum: 
+  .Answer: 110
+  .Output: 567451513
+Ye^'u ke'm
+phatvo‣asummin‣Test083: 0.00
+Thời gian ≈ 0.240276500 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 1572133657
+Ye^'u ke'm
+phatvo‣asummin‣Test084: 0.00
+Thời gian ≈ 0.218924600 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 2897410692
+Ye^'u ke'm
+phatvo‣asummin‣Test085: 0.00
+Thời gian ≈ 0.098246500 giây
+Checking absoluted sum: 
+  .Answer: 9
+  .Output: 2125024326
+Ye^'u ke'm
+phatvo‣asummin‣Test086: 0.00
+Thời gian ≈ 0.172594900 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 1579498113
+Ye^'u ke'm
+phatvo‣asummin‣Test087: 0.00
+Thời gian ≈ 0.066010000 giây
+Checking absoluted sum: 
+  .Answer: 71
+  .Output: 873884168
+Ye^'u ke'm
+phatvo‣asummin‣Test088: 0.00
+Thời gian ≈ 0.155694500 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 747537941
+Ye^'u ke'm
+phatvo‣asummin‣Test089: 0.00
+Thời gian ≈ 0.160917800 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 3279447319
+Ye^'u ke'm
+phatvo‣asummin‣Test090: 0.00
+Thời gian ≈ 0.231550400 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 393752798
+Ye^'u ke'm
+phatvo‣asummin‣Test091: 0.00
+Thời gian ≈ 0.092784100 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 159139838
+Ye^'u ke'm
+phatvo‣asummin‣Test092: 0.00
+Thời gian ≈ 0.083892000 giây
+Checking absoluted sum: 
+  .Answer: 14
+  .Output: 896365420
+Ye^'u ke'm
+phatvo‣asummin‣Test093: 0.00
+Thời gian ≈ 0.091163300 giây
+Checking absoluted sum: 
+  .Answer: 10
+  .Output: 734799263
+Ye^'u ke'm
+phatvo‣asummin‣Test094: 0.00
+Thời gian ≈ 0.162475800 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 275375176
+Ye^'u ke'm
+phatvo‣asummin‣Test095: 0.00
+Thời gian ≈ 0.169164000 giây
+Checking absoluted sum: 
+  .Answer: 0
+  .Output: 996047658
+Ye^'u ke'm
+phatvo‣asummin‣Test096: 0.00
+Thời gian ≈ 0.129701000 giây
+Checking absoluted sum: 
+  .Answer: 6
+  .Output: 1623375356
+Ye^'u ke'm
+phatvo‣asummin‣Test097: 0.00
+Thời gian ≈ 0.111633900 giây
+Checking absoluted sum: 
+  .Answer: 88
+  .Output: 211990251
+Ye^'u ke'm
+phatvo‣asummin‣Test098: 0.00
+Thời gian ≈ 0.115157600 giây
+Checking absoluted sum: 
+  .Answer: 12
+  .Output: 1608449421
+Ye^'u ke'm
+phatvo‣asummin‣Test099: 0.00
+Thời gian ≈ 0.175609100 giây
+Checking absoluted sum: 
+  .Answer: 1
+  .Output: 1822380918
+Ye^'u ke'm
+phatvo‣asummin‣Test100: 0.00
+Thời gian ≈ 0.117618400 giây
+Checking absoluted sum: 
+  .Answer: 2
+  .Output: 282497294
+Ye^'u ke'm

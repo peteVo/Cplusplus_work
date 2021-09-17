@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605353715 source:d:\it\baitaplaptrinh\flowers\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

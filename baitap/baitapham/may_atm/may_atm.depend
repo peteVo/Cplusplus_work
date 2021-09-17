@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602938376 source:d:\baitapham\may_atm\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

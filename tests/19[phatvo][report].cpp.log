@@ -1,0 +1,125 @@
+ ﻿phatvo‣report: 47.50
+report.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "report.cpp" -pipe -O2 -s -static -lm -x c++ -o"report.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom33388\
+Dịch thành công.
+
+phatvo‣report‣Test00: 2.50
+Thời gian ≈ 0.041883900 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test01: 2.50
+Thời gian ≈ 0.043099900 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test02: 2.50
+Thời gian ≈ 0.061632400 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test03: 0.00
+Thời gian ≈ 0.050752900 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test04: 2.50
+Thời gian ≈ 0.048083600 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test05: 0.00
+Thời gian ≈ 0.050065500 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test06: 2.50
+Thời gian ≈ 0.056267400 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test07: 0.00
+Thời gian ≈ 0.044625400 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test08: 2.50
+Thời gian ≈ 0.063186600 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test09: 2.50
+Thời gian ≈ 0.048747700 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test10: 0.00
+Thời gian ≈ 0.045224600 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test11: 0.00
+Thời gian ≈ 0.042923500 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test12: 2.50
+Thời gian ≈ 0.045419600 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test13: 0.00
+Thời gian ≈ 0.046110000 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test14: 0.00
+Thời gian ≈ 0.042217800 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test15: 2.50
+Thời gian ≈ 0.045386400 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test16: 0.00
+Thời gian ≈ 0.045505400 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test17: 0.00
+Thời gian ≈ 0.054016200 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test18: 0.00
+Thời gian ≈ 0.058221000 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test19: 2.50
+Thời gian ≈ 0.040261000 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test20: 2.50
+Thời gian ≈ 0.044455300 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test21: 2.50
+Thời gian ≈ 0.045458200 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test22: 2.50
+Thời gian ≈ 0.044413600 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test23: 0.00
+Thời gian ≈ 0.049950200 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test24: 0.00
+Thời gian ≈ 0.054035200 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test25: 0.00
+Thời gian ≈ 0.282626800 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test26: 0.00
+Thời gian ≈ 0.267384500 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test27: 0.00
+Thời gian ≈ 0.346005800 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test28: 0.00
+Thời gian ≈ 0.287739600 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test29: 2.50
+Thời gian ≈ 0.275144600 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test30: 2.50
+Thời gian ≈ 0.154605900 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test31: 2.50
+Thời gian ≈ 0.197512100 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test32: 0.00
+Thời gian ≈ 0.180930700 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test33: 0.00
+Thời gian ≈ 0.137771200 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test34: 2.50
+Thời gian ≈ 0.192983800 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test35: 2.50
+Thời gian ≈ 0.251668000 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test36: 2.50
+Thời gian ≈ 0.328474000 giây
+Kết quả khớp đáp án!
+phatvo‣report‣Test37: 0.00
+Thời gian ≈ 0.258464000 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test38: 0.00
+Thời gian ≈ 0.217394900 giây
+Kết quả KHÁC đáp án!
+phatvo‣report‣Test39: 0.00
+Thời gian ≈ 0.222004200 giây
+Kết quả KHÁC đáp án!

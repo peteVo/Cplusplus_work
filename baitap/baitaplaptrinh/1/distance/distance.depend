@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604635387 source:d:\it\baitaplaptrinh\distance\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

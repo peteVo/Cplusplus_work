@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604234724 source:d:\it\baitaplaptrinh\bulbs\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

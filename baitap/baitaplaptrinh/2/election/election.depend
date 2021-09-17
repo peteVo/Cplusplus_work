@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608383057 source:d:\it\baitaplaptrinh\election\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

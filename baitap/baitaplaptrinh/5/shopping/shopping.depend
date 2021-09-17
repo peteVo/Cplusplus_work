@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626247699 source:d:\it_related_files\baitap\baitaplaptrinh\shopping\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstdio>
+

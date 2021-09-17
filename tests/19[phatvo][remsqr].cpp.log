@@ -1,0 +1,38 @@
+ ﻿phatvo‣remsqr: 9.10
+remsqr.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "remsqr.cpp" -pipe -O2 -s -static -lm -x c++ -o"remsqr.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom3978\
+Dịch thành công.
+
+phatvo‣remsqr‣Test01: 0.00
+Thời gian ≈ 0.043340000 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test02: 0.00
+Thời gian ≈ 0.051509000 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test03: 9.10
+Thời gian ≈ 0.059389500 giây
+Kết quả khớp đáp án!
+phatvo‣remsqr‣Test04: 0.00
+Thời gian ≈ 0.048142300 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test05: 0.00
+Thời gian ≈ 0.040972400 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test06: 0.00
+Thời gian ≈ 0.042658000 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test07: 0.00
+Thời gian ≈ 0.041981100 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test08: 0.00
+Thời gian ≈ 0.050201800 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test09: 0.00
+Thời gian ≈ 0.041433800 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test10: 0.00
+Thời gian ≈ 0.134058200 giây
+Kết quả KHÁC đáp án!
+phatvo‣remsqr‣Test11: 0.00
+Thời gian ≈ 0.057710400 giây
+Kết quả KHÁC đáp án!

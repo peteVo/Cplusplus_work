@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605356107 source:d:\it\baitaplaptrinh\numpos\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

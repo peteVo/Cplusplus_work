@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601127762 source:d:\baitapham\bai9\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

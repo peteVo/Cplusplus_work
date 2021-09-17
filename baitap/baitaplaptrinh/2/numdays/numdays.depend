@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608385043 source:d:\it\baitaplaptrinh\numdays\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

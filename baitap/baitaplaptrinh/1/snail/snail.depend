@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604755985 source:d:\it\baitaplaptrinh\snail\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

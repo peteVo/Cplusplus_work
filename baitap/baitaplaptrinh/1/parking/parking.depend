@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605360193 source:d:\it\baitaplaptrinh\parking\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

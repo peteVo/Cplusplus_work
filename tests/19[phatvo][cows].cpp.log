@@ -1,0 +1,35 @@
+ ﻿phatvo‣cows: 10.00
+cows.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cows.cpp" -pipe -O2 -s -static -lm -x c++ -o"cows.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom26194\
+Dịch thành công.
+
+phatvo‣cows‣Test01: 10.00
+Thời gian ≈ 0.038287900 giây
+Kết quả khớp đáp án!
+phatvo‣cows‣Test02: 0.00
+Thời gian ≈ 0.041505000 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test03: 0.00
+Thời gian ≈ 0.041908500 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test04: 0.00
+Thời gian ≈ 0.038671700 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test05: 0.00
+Thời gian ≈ 0.039852200 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test06: 0.00
+Thời gian ≈ 0.040171000 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test07: 0.00
+Thời gian ≈ 0.039321400 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test08: 0.00
+Thời gian ≈ 0.043634800 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test09: 0.00
+Thời gian ≈ 0.090792800 giây
+Kết quả KHÁC đáp án!
+phatvo‣cows‣Test10: 0.00
+Thời gian ≈ 0.139101400 giây
+Kết quả KHÁC đáp án!

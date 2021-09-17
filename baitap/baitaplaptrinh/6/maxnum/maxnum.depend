@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629461195 source:d:\it_related_files\baitap\baitaplaptrinh\maxnum\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<algorithm>
+

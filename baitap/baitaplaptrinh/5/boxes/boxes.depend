@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623500056 source:d:\it_related_files\baitap\baitaplaptrinh\boxes\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

@@ -1,0 +1,63 @@
+ ﻿phatvo‣jnum: 75.00
+jnum.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "jnum.cpp" -pipe -O2 -s -static -lm -x c++ -o"jnum.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom1540\
+Dịch thành công.
+
+phatvo‣jnum‣Test01: 5.00
+Thời gian ≈ 0.044963800 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test02: 5.00
+Thời gian ≈ 0.049434100 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test03: 5.00
+Thời gian ≈ 0.045099000 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test04: 5.00
+Thời gian ≈ 0.047781900 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test05: 5.00
+Thời gian ≈ 0.048179000 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test06: 5.00
+Thời gian ≈ 0.046049400 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test07: 5.00
+Thời gian ≈ 0.046366400 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test08: 5.00
+Thời gian ≈ 0.046905000 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test09: 5.00
+Thời gian ≈ 0.042858200 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test10: 5.00
+Thời gian ≈ 0.045555200 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test11: 5.00
+Thời gian ≈ 0.045761600 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test12: 5.00
+Thời gian ≈ 0.046826700 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test13: 5.00
+Thời gian ≈ 0.046544800 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test14: 5.00
+Thời gian ≈ 0.046211500 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test15: 5.00
+Thời gian ≈ 0.044243200 giây
+Kết quả khớp đáp án!
+phatvo‣jnum‣Test16: 0.00
+Thời gian ≈ 0.887377600 giây
+Kết quả KHÁC đáp án!
+phatvo‣jnum‣Test17: 0.00
+Thời gian ≈ 0.923405300 giây
+Kết quả KHÁC đáp án!
+phatvo‣jnum‣Test18: 0.00
+Thời gian ≈ 0.987000300 giây
+Kết quả KHÁC đáp án!
+phatvo‣jnum‣Test19: 0.00
+Chạy quá thời gian
+phatvo‣jnum‣Test20: 0.00
+Chạy quá thời gian

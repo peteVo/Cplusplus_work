@@ -1,0 +1,125 @@
+ ﻿phatvo‣farm: 0.00
+farm.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "farm.cpp" -pipe -O2 -s -static -lm -x c++ -o"farm.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom10162\
+Dịch thành công.
+
+phatvo‣farm‣Test01: 0.00
+Thời gian ≈ 0.046299000 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test02: 0.00
+Thời gian ≈ 0.044156700 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test03: 0.00
+Thời gian ≈ 0.040844200 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test04: 0.00
+Thời gian ≈ 0.042797200 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test05: 0.00
+Thời gian ≈ 0.044514600 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test06: 0.00
+Thời gian ≈ 0.042663400 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test07: 0.00
+Thời gian ≈ 0.041862900 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test08: 0.00
+Thời gian ≈ 0.041430900 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test09: 0.00
+Thời gian ≈ 0.040674500 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test10: 0.00
+Thời gian ≈ 0.047973500 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test11: 0.00
+Thời gian ≈ 0.041645100 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test12: 0.00
+Thời gian ≈ 0.042630700 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test13: 0.00
+Thời gian ≈ 0.043508800 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test14: 0.00
+Thời gian ≈ 0.042523800 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test15: 0.00
+Thời gian ≈ 0.041355500 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test16: 0.00
+Thời gian ≈ 0.040132600 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test17: 0.00
+Thời gian ≈ 0.041551500 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test18: 0.00
+Thời gian ≈ 0.039902300 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test19: 0.00
+Thời gian ≈ 0.043043700 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test20: 0.00
+Thời gian ≈ 0.041016500 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test21: 0.00
+Thời gian ≈ 0.042261700 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test22: 0.00
+Thời gian ≈ 0.042858200 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test23: 0.00
+Thời gian ≈ 0.041072300 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test24: 0.00
+Thời gian ≈ 0.043809900 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test25: 0.00
+Thời gian ≈ 0.040716300 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test26: 0.00
+Thời gian ≈ 0.046500800 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test27: 0.00
+Thời gian ≈ 0.045268500 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test28: 0.00
+Thời gian ≈ 0.039216900 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test29: 0.00
+Thời gian ≈ 0.042578900 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test30: 0.00
+Thời gian ≈ 0.044743200 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test31: 0.00
+Thời gian ≈ 0.055805100 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test32: 0.00
+Thời gian ≈ 0.080275300 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test33: 0.00
+Thời gian ≈ 0.041928400 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test34: 0.00
+Thời gian ≈ 0.066149200 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test35: 0.00
+Thời gian ≈ 0.061497300 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test36: 0.00
+Thời gian ≈ 0.063929100 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test37: 0.00
+Thời gian ≈ 0.076682900 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test38: 0.00
+Thời gian ≈ 0.073477800 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test39: 0.00
+Thời gian ≈ 0.041170900 giây
+Kết quả KHÁC đáp án!
+phatvo‣farm‣Test40: 0.00
+Thời gian ≈ 0.171461300 giây
+Kết quả KHÁC đáp án!

@@ -1,0 +1,80 @@
+ ﻿phatvo‣beads: 0.00
+beads.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "beads.cpp" -pipe -O2 -s -static -lm -x c++ -o"beads.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom36560\
+Dịch thành công.
+
+phatvo‣beads‣Test01: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom11563\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test02: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom4610\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test03: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom29186\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test04: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom39407\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test05: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom52525\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test06: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom15285\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test07: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom29076\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test08: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom31963\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test09: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom38368\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test10: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom19833\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test11: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom31882\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test12: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom60434\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test13: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom37049\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test14: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom50508\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test15: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom21072\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test16: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom54233\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test17: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom1788\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test18: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom11560\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test19: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom61223\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test20: 0.00
+Thời gian ≈ 0.050370100 giây
+Kết quả KHÁC đáp án!
+phatvo‣beads‣Test21: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom25886\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test22: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom15380\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test23: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom41403\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test24: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom25625\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣beads‣Test25: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom13694\beads.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

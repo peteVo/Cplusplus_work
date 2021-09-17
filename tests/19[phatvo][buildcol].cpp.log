@@ -1,0 +1,65 @@
+ ﻿phatvo‣buildcol: 35.00
+buildcol.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "buildcol.cpp" -pipe -O2 -s -static -lm -x c++ -o"buildcol.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom23011\
+Dịch thành công.
+
+phatvo‣buildcol‣Test01: 0.00
+Thời gian ≈ 0.051346800 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test02: 0.00
+Thời gian ≈ 0.046421700 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test03: 0.00
+Thời gian ≈ 0.044676700 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test04: 5.00
+Thời gian ≈ 0.047398700 giây
+Kết quả khớp đáp án!
+phatvo‣buildcol‣Test05: 5.00
+Thời gian ≈ 0.042753500 giây
+Kết quả khớp đáp án!
+phatvo‣buildcol‣Test06: 0.00
+Thời gian ≈ 0.046207600 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test07: 0.00
+Thời gian ≈ 0.043443700 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test08: 5.00
+Thời gian ≈ 0.044060100 giây
+Kết quả khớp đáp án!
+phatvo‣buildcol‣Test09: 0.00
+Thời gian ≈ 0.044658100 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test10: 5.00
+Thời gian ≈ 0.040430800 giây
+Kết quả khớp đáp án!
+phatvo‣buildcol‣Test11: 0.00
+Thời gian ≈ 0.045550000 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test12: 0.00
+Thời gian ≈ 0.045387600 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test13: 5.00
+Thời gian ≈ 0.044101200 giây
+Kết quả khớp đáp án!
+phatvo‣buildcol‣Test14: 5.00
+Thời gian ≈ 0.044804900 giây
+Kết quả khớp đáp án!
+phatvo‣buildcol‣Test15: 0.00
+Thời gian ≈ 0.072822200 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test16: 0.00
+Thời gian ≈ 0.119312500 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test17: 0.00
+Thời gian ≈ 0.078071000 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test18: 5.00
+Thời gian ≈ 0.112689400 giây
+Kết quả khớp đáp án!
+phatvo‣buildcol‣Test19: 0.00
+Thời gian ≈ 0.165551700 giây
+Kết quả KHÁC đáp án!
+phatvo‣buildcol‣Test20: 0.00
+Thời gian ≈ 0.170261300 giây
+Kết quả KHÁC đáp án!

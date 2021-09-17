@@ -1,0 +1,44 @@
+ ﻿phatvo‣encode: 46.14
+encode.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "encode.cpp" -pipe -O2 -s -static -lm -x c++ -o"encode.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom6100\
+Dịch thành công.
+
+phatvo‣encode‣Test01: 7.69
+Thời gian ≈ 0.045676300 giây
+Kết quả khớp đáp án!
+phatvo‣encode‣Test02: 0.00
+Thời gian ≈ 0.044130100 giây
+Kết quả KHÁC đáp án!
+phatvo‣encode‣Test03: 0.00
+Thời gian ≈ 0.040622000 giây
+Kết quả KHÁC đáp án!
+phatvo‣encode‣Test04: 0.00
+Thời gian ≈ 0.043822700 giây
+Kết quả KHÁC đáp án!
+phatvo‣encode‣Test05: 7.69
+Thời gian ≈ 0.056009400 giây
+Kết quả khớp đáp án!
+phatvo‣encode‣Test06: 7.69
+Thời gian ≈ 0.059703900 giây
+Kết quả khớp đáp án!
+phatvo‣encode‣Test07: 0.00
+Thời gian ≈ 0.049753300 giây
+Kết quả KHÁC đáp án!
+phatvo‣encode‣Test08: 7.69
+Thời gian ≈ 0.043306500 giây
+Kết quả khớp đáp án!
+phatvo‣encode‣Test09: 7.69
+Thời gian ≈ 0.044803500 giây
+Kết quả khớp đáp án!
+phatvo‣encode‣Test10: 0.00
+Thời gian ≈ 0.046545200 giây
+Kết quả KHÁC đáp án!
+phatvo‣encode‣Test11: 7.69
+Thời gian ≈ 0.043812100 giây
+Kết quả khớp đáp án!
+phatvo‣encode‣Test12: 0.00
+Thời gian ≈ 0.046014700 giây
+Kết quả KHÁC đáp án!
+phatvo‣encode‣Test13: 0.00
+Thời gian ≈ 0.045415200 giây
+Kết quả KHÁC đáp án!

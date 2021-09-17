@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605361550 source:d:\it\baitaplaptrinh\seqlen\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

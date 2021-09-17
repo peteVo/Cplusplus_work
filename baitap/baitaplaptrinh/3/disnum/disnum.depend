@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612014553 source:d:\it\baitaplaptrinh\disnum\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

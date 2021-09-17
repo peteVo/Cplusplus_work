@@ -1,0 +1,68 @@
+ ﻿phatvo‣bp: 95.24
+bp.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "bp.cpp" -pipe -O2 -s -static -lm -x c++ -o"bp.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom65005\
+Dịch thành công.
+
+phatvo‣bp‣Test01: 4.76
+Thời gian ≈ 0.047216900 giây
+Ket qua dung!
+phatvo‣bp‣Test02: 4.76
+Thời gian ≈ 0.045415200 giây
+Ket qua dung!
+phatvo‣bp‣Test03: 4.76
+Thời gian ≈ 0.044168700 giây
+Ket qua dung!
+phatvo‣bp‣Test04: 0.00
+Thời gian ≈ 0.045274400 giây
+Ket qua khong hop le!
+phatvo‣bp‣Test05: 4.76
+Thời gian ≈ 0.042814000 giây
+Ket qua dung!
+phatvo‣bp‣Test06: 4.76
+Thời gian ≈ 0.048554000 giây
+Ket qua dung!
+phatvo‣bp‣Test07: 4.76
+Thời gian ≈ 0.043994400 giây
+Ket qua dung!
+phatvo‣bp‣Test08: 4.76
+Thời gian ≈ 0.045352500 giây
+Ket qua dung!
+phatvo‣bp‣Test09: 4.76
+Thời gian ≈ 0.045937000 giây
+Ket qua dung!
+phatvo‣bp‣Test10: 4.76
+Thời gian ≈ 0.043924000 giây
+Ket qua dung!
+phatvo‣bp‣Test11: 4.76
+Thời gian ≈ 0.047312100 giây
+Ket qua dung!
+phatvo‣bp‣Test12: 4.76
+Thời gian ≈ 0.090176500 giây
+Ket qua dung!
+phatvo‣bp‣Test13: 4.76
+Thời gian ≈ 0.084594000 giây
+Ket qua dung!
+phatvo‣bp‣Test14: 4.76
+Thời gian ≈ 0.095033200 giây
+Ket qua dung!
+phatvo‣bp‣Test15: 4.76
+Thời gian ≈ 0.100655600 giây
+Ket qua dung!
+phatvo‣bp‣Test16: 4.76
+Thời gian ≈ 0.112566600 giây
+Ket qua dung!
+phatvo‣bp‣Test17: 4.76
+Thời gian ≈ 0.156842800 giây
+Ket qua dung!
+phatvo‣bp‣Test18: 4.76
+Thời gian ≈ 0.176571300 giây
+Ket qua dung!
+phatvo‣bp‣Test19: 4.76
+Thời gian ≈ 0.181982600 giây
+Ket qua dung!
+phatvo‣bp‣Test20: 4.76
+Thời gian ≈ 0.178827200 giây
+Ket qua dung!
+phatvo‣bp‣Test21: 4.80
+Thời gian ≈ 0.196244900 giây
+Ket qua dung!

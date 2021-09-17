@@ -1,0 +1,35 @@
+ ﻿phatvo‣imperfect: 40.00
+imperfect.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "imperfect.cpp" -pipe -O2 -s -static -lm -x c++ -o"imperfect.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom5046\
+Dịch thành công.
+
+phatvo‣imperfect‣Test01: 10.00
+Thời gian ≈ 1.460618100 giây
+Kết quả khớp đáp án!
+phatvo‣imperfect‣Test02: 10.00
+Thời gian ≈ 1.446547400 giây
+Kết quả khớp đáp án!
+phatvo‣imperfect‣Test03: 10.00
+Thời gian ≈ 1.448755300 giây
+Kết quả khớp đáp án!
+phatvo‣imperfect‣Test04: 10.00
+Thời gian ≈ 1.488438400 giây
+Kết quả khớp đáp án!
+phatvo‣imperfect‣Test05: 0.00
+Thời gian ≈ 1.459503100 giây
+Kết quả KHÁC đáp án!
+phatvo‣imperfect‣Test06: 0.00
+Thời gian ≈ 1.444519600 giây
+Kết quả KHÁC đáp án!
+phatvo‣imperfect‣Test07: 0.00
+Thời gian ≈ 1.465240900 giây
+Kết quả KHÁC đáp án!
+phatvo‣imperfect‣Test08: 0.00
+Thời gian ≈ 1.461359300 giây
+Kết quả KHÁC đáp án!
+phatvo‣imperfect‣Test09: 0.00
+Thời gian ≈ 1.510409100 giây
+Kết quả KHÁC đáp án!
+phatvo‣imperfect‣Test10: 0.00
+Thời gian ≈ 1.460532000 giây
+Kết quả KHÁC đáp án!

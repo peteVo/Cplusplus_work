@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604144604 source:d:\it\mang_vector\mang06\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

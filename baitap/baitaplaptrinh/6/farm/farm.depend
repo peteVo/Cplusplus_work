@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1630073402 source:d:\it_related_files\baitap\baitaplaptrinh\new\farm\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1630676079 source:d:\it_related_files\baitap\baitaplaptrinh\farm\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
+1631257545 source:d:\it_related_files\baitap\baitaplaptrinh\6\farm\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
