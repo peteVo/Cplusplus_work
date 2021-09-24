@@ -31,7 +31,7 @@ void ReadData()
 
 void LongestString()
 {
-    sort(b,b+1+n,tang);
+    sort(b + 1, b + 1 + n, tang);
     ll startPoint = 0, longest = 0, endPoint = 0, length = 0;
     for(ll i = 1; i <= n; ++i){
         if(b[i].x == b[i-1].x){

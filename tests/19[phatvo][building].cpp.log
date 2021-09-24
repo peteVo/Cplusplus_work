@@ -1,0 +1,125 @@
+ ﻿phatvo‣building: 100.00
+building.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "building.cpp" -pipe -O2 -s -static -lm -x c++ -o"building.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom25878\
+Dịch thành công.
+
+phatvo‣building‣Test01: 2.50
+Thời gian ≈ 0.062628200 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test02: 2.50
+Thời gian ≈ 0.063957200 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test03: 2.50
+Thời gian ≈ 0.062498300 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test04: 2.50
+Thời gian ≈ 0.072134100 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test05: 2.50
+Thời gian ≈ 0.074228400 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test06: 2.50
+Thời gian ≈ 0.353213900 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test07: 2.50
+Thời gian ≈ 0.459694900 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test08: 2.50
+Thời gian ≈ 0.772715600 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test09: 2.50
+Thời gian ≈ 0.758611000 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test10: 2.50
+Thời gian ≈ 1.006202500 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test11: 2.50
+Thời gian ≈ 0.064723400 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test12: 2.50
+Thời gian ≈ 0.063018400 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test13: 2.50
+Thời gian ≈ 0.066283800 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test14: 2.50
+Thời gian ≈ 0.064094100 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test15: 2.50
+Thời gian ≈ 0.067046600 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test16: 2.50
+Thời gian ≈ 0.065273400 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test17: 2.50
+Thời gian ≈ 0.067037100 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test18: 2.50
+Thời gian ≈ 0.063024300 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test19: 2.50
+Thời gian ≈ 0.063885800 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test20: 2.50
+Thời gian ≈ 0.062072600 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test21: 2.50
+Thời gian ≈ 0.057538200 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test22: 2.50
+Thời gian ≈ 0.062091700 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test23: 2.50
+Thời gian ≈ 0.060910800 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test24: 2.50
+Thời gian ≈ 0.064707600 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test25: 2.50
+Thời gian ≈ 0.064318300 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test26: 2.50
+Thời gian ≈ 0.059159900 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test27: 2.50
+Thời gian ≈ 0.063288300 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test28: 2.50
+Thời gian ≈ 0.066445900 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test29: 2.50
+Thời gian ≈ 0.066177400 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test30: 2.50
+Thời gian ≈ 0.060725800 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test31: 2.50
+Thời gian ≈ 0.291563400 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test32: 2.50
+Thời gian ≈ 0.137509600 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test33: 2.50
+Thời gian ≈ 0.201182600 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test34: 2.50
+Thời gian ≈ 0.151416700 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test35: 2.50
+Thời gian ≈ 0.274812100 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test36: 2.50
+Thời gian ≈ 0.154172100 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test37: 2.50
+Thời gian ≈ 0.115896900 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test38: 2.50
+Thời gian ≈ 0.143356600 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test39: 2.50
+Thời gian ≈ 0.199087500 giây
+Kết quả khớp đáp án!
+phatvo‣building‣Test40: 2.50
+Thời gian ≈ 0.167048300 giây
+Kết quả khớp đáp án!

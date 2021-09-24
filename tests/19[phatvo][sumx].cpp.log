@@ -1,0 +1,80 @@
+ ﻿phatvo‣sumx: 40.00
+sumx.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "sumx.cpp" -pipe -O2 -s -static -lm -x c++ -o"sumx.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom2161\
+Dịch thành công.
+
+phatvo‣sumx‣Test01: 4.00
+Thời gian ≈ 0.064125200 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test02: 4.00
+Thời gian ≈ 0.069789500 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test03: 4.00
+Thời gian ≈ 0.068513600 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test04: 4.00
+Thời gian ≈ 0.058141000 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test05: 4.00
+Thời gian ≈ 0.058866400 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test06: 4.00
+Thời gian ≈ 0.098843100 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test07: 4.00
+Thời gian ≈ 0.103499700 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test08: 4.00
+Thời gian ≈ 0.126199300 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test09: 4.00
+Thời gian ≈ 0.155859400 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test10: 4.00
+Thời gian ≈ 0.180137000 giây
+Kết quả khớp đáp án!
+phatvo‣sumx‣Test11: 0.00
+Thời gian ≈ 0.161806900 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test12: 0.00
+Thời gian ≈ 0.162475800 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test13: 0.00
+Thời gian ≈ 0.156112000 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test14: 0.00
+Thời gian ≈ 0.158508500 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test15: 0.00
+Thời gian ≈ 0.148133800 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test16: 0.00
+Thời gian ≈ 0.151148100 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test17: 0.00
+Thời gian ≈ 0.156863300 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test18: 0.00
+Thời gian ≈ 0.168463300 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test19: 0.00
+Thời gian ≈ 0.166743100 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test20: 0.00
+Thời gian ≈ 0.170394800 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test21: 0.00
+Thời gian ≈ 0.170969700 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test22: 0.00
+Thời gian ≈ 0.172726400 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test23: 0.00
+Thời gian ≈ 0.161506200 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test24: 0.00
+Thời gian ≈ 0.157564500 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumx‣Test25: 0.00
+Thời gian ≈ 0.165292800 giây
+Kết quả KHÁC đáp án!
