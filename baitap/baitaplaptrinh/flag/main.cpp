@@ -4,18 +4,24 @@
 
 using namespace std;
 
-char flagMat[7][10];
+char flagMat[6][9];
 //int m, n, a[10][10];
 
 void ReadData()
 {
-    for(int i = 1; i <= 6; ++i){
+    for(int i = 0; i < 6; ++i){
         string s;
         cin >> s;
-        for(int j = 1; j <= 9; ++j){
-            flagMat[i][j] = s[j-1];
+        for(int j = 0; j < 9; ++j){
+            flagMat[i][j] = s[j];
         }
     }
+    //for(int i = 0; i < 6; ++i){
+    //    for(int j = 0; j < 9; ++j){
+    //        cout << flagMat[i][j];
+    //    }
+    //    cout << endl;
+    //}
 }
 
 int distVert(char x, char y, char z)
@@ -23,10 +29,10 @@ int distVert(char x, char y, char z)
     int cnt = 0;
     char c;
     //doc
-    for(int i = 1; i <= 6; ++i){
-        for(int j = 1; j <= 9; ++j){
-            if(i <= 3) c=x;
-            else if(i <= 6) c=y;
+    for(int i = 0; i < 6; ++i){
+        for(int j = 0; j < 9; ++j){
+            if(j < 3) c=x;
+            else if(j < 6) c=y;
             else c=z;
             if(flagMat[i][j]!=c) cnt++;
         }
@@ -39,10 +45,10 @@ int distHor(char x, char y, char z)
     int cnt = 0;
     char c;
     //ngang
-    for(int i = 1; i <= 6; ++i){
-        for(int j = 1; j <= 9; ++j){
-            if(i <= 2) c=x;
-            else if(i <= 4) c=y;
+    for(int i = 0; i < 6; ++i){
+        for(int j = 0; j < 9; ++j){
+            if(i < 2) c=x;
+            else if(i < 4) c=y;
             else c=z;
             if(flagMat[i][j]!=c) cnt++;
         }
@@ -70,9 +76,7 @@ int main()
     freopen("flag.out", "w", stdout);
 
     ReadData();
-    //Debug();
     cout << Solve();
-    //cout << minDist('Z', 'A', 'M');
 
     return 0;
 }

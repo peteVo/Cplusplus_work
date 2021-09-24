@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="building.inp" />
+		<Unit filename="building.out" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
