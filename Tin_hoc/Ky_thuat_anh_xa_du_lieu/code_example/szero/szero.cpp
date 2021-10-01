@@ -1,55 +1,51 @@
 #include <iostream>
-#include <cmath>
 #include <cstdio>
-#include <algorithm>
 #include <map>
+#include <cmath>
 
 using namespace std;
 typedef long long ll;
-ll n, k;
-ll a;
 typedef pair<ll, ll> pii;
 map<ll, pii> s;
-ll m[100001] = {0};
+ll n;
+ll a[100001];
 
 void ReadData()
 {
-    cin >> n >> k;
+    cin >> n;
     ll sum = 0;
     s[sum] = pii(0, 0);
     for(ll i = 1; i <= n; ++i){
-        m[i] = 1e6;
-        cin >> a;
-        a -= k;
-        sum += a;
+        cin >> a[i];
+        sum += a[i];
         if(s.find(sum) != s.end()){
-            s[sum].second = i;
+            s[sum] = pii(min(s[sum].first, i), max(s[sum].second, i));
         }
         else s[sum] = pii(i, i);
     }
 }
 
-void Cubics()
+void Solve()
 {
+    ll lo, hi;
     ll maxLen = -1;
     for(map<ll, pii>::iterator it = s.begin(); it != s.end(); ++it){
         if(it->second.second - it->second.first > maxLen){
             maxLen = it->second.second - it->second.first;
-            m[maxLen] = min(m[maxLen], it->second.first + 1);
+            lo = it->second.first + 1;
+            hi = it->second.second;
         }
     }
-    if(maxLen >= 0)
-        cout << maxLen << " " << m[maxLen];
-    else cout << 0;
+    cout << lo << " " << hi;
 }
 
 int main()
 {
-    freopen("cubics.inp", "r", stdin);
-    freopen("cubics.out", "w", stdout);
+    freopen("szero.inp", "r", stdin);
+    freopen("szero.out", "w", stdout);
 
     ReadData();
-    Cubics();
+    Solve();
 
     return 0;
 }

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1633073673 source:d:\it_related_files\tin_hoc\ky_thuat_anh_xa_du_lieu\code_example\sumx\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<algorithm>
+	<map>
+

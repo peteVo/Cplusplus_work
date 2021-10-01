@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633088185 source:d:\it_related_files\tin_hoc\ky_thuat_anh_xa_du_lieu\code_example\szero\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<cmath>
+

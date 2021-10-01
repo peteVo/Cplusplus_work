@@ -1,0 +1,105 @@
+ ﻿phatvo‣saw: 30.00
+saw.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "saw.cpp" -pipe -O2 -s -static -lm -x c++ -o"saw.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom13448\
+Dịch thành công.
+
+phatvo‣saw‣Test01: 0.00
+Thời gian ≈ 0.070457800 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test02: 2.50
+Thời gian ≈ 0.065161400 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test03: 0.00
+Thời gian ≈ 0.066611400 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test04: 0.00
+Thời gian ≈ 0.069549200 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test05: 0.00
+Thời gian ≈ 0.067934400 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test06: 2.50
+Thời gian ≈ 0.068360200 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test07: 0.00
+Thời gian ≈ 0.067664300 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test08: 0.00
+Thời gian ≈ 0.073104800 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test09: 0.00
+Thời gian ≈ 0.059848700 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test10: 2.50
+Thời gian ≈ 0.066476700 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test11: 2.50
+Thời gian ≈ 0.068491600 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test12: 0.00
+Thời gian ≈ 0.063518600 giây
+Kết quả KHÁC đáp án!
+phatvo‣saw‣Test13: 2.50
+Thời gian ≈ 0.069325700 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test14: 2.50
+Thời gian ≈ 0.069638900 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test15: 2.50
+Thời gian ≈ 0.066142200 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test16: 2.50
+Thời gian ≈ 0.068263100 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test17: 2.50
+Thời gian ≈ 0.070961900 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test18: 2.50
+Thời gian ≈ 0.071942200 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test19: 2.50
+Thời gian ≈ 0.065423100 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test20: 2.50
+Thời gian ≈ 0.067683300 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test21: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test22: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test23: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test24: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test25: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test26: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test27: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test28: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test29: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test30: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test31: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test32: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test33: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test34: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test35: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test36: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test37: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test38: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test39: 0.00
+Chạy quá thời gian
+phatvo‣saw‣Test40: 0.00
+Chạy quá thời gian

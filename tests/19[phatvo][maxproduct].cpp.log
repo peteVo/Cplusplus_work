@@ -1,0 +1,76 @@
+ ﻿phatvo‣maxproduct: 32.13
+maxproduct.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "maxproduct.cpp" -pipe -O2 -s -static -lm -x c++ -o"maxproduct.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom14415\
+Dịch thành công.
+
+phatvo‣maxproduct‣Test01: 3.57
+Thời gian ≈ 0.070394600 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test02: 0.00
+Thời gian ≈ 0.066339900 giây
+Ket qua khong toi uu!
+phatvo‣maxproduct‣Test03: 3.57
+Thời gian ≈ 0.070338000 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test04: 0.00
+Thời gian ≈ 0.069489800 giây
+Ket qua khong hop le!
+phatvo‣maxproduct‣Test05: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test06: 0.00
+Thời gian ≈ 0.063715400 giây
+Ket qua khong toi uu!
+phatvo‣maxproduct‣Test07: 0.00
+Thời gian ≈ 0.055723500 giây
+Ket qua khong toi uu!
+phatvo‣maxproduct‣Test08: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test09: 0.00
+Thời gian ≈ 0.075363900 giây
+Ket qua khong toi uu!
+phatvo‣maxproduct‣Test10: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test11: 3.57
+Thời gian ≈ 0.076709700 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test12: 3.57
+Thời gian ≈ 0.101041900 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test13: 3.57
+Thời gian ≈ 0.115735000 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test14: 3.57
+Thời gian ≈ 0.177802100 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test15: 3.57
+Thời gian ≈ 0.153879400 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test16: 0.00
+Thời gian ≈ 0.298749500 giây
+Ket qua khong toi uu!
+phatvo‣maxproduct‣Test17: 3.57
+Thời gian ≈ 0.250722900 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test18: 3.57
+Thời gian ≈ 0.678146000 giây
+Ket qua dung!
+phatvo‣maxproduct‣Test19: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test20: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test21: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test22: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test23: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test24: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test25: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test26: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test27: 0.00
+Chạy quá thời gian
+phatvo‣maxproduct‣Test28: 0.00
+Chạy quá thời gian

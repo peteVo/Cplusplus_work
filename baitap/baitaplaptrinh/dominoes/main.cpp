@@ -10,7 +10,7 @@ map<int, int> tree;
 bool sapxep(pii a, pii b)
 {
     return(a.second < b.second ||
-           (a.second == b.second && a.first < b.second));
+           (a.second == b.second && a.first < b.first));
 }
 
 void ReadData()

@@ -1,0 +1,305 @@
+ ﻿phatvo‣friends: 38.00
+friends.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "friends.cpp" -pipe -O2 -s -static -lm -x c++ -o"friends.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom2065\
+Dịch thành công.
+
+phatvo‣friends‣Test001: 1.00
+Thời gian ≈ 0.067745800 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test002: 0.00
+Thời gian ≈ 0.065565500 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test003: 0.00
+Thời gian ≈ 0.065729100 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test004: 0.00
+Thời gian ≈ 0.061767700 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test005: 0.00
+Thời gian ≈ 0.068078600 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test006: 1.00
+Thời gian ≈ 0.063661900 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test007: 1.00
+Thời gian ≈ 0.065747000 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test008: 0.00
+Thời gian ≈ 0.060935900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test009: 0.00
+Thời gian ≈ 0.068428200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test010: 0.00
+Thời gian ≈ 0.069889800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test011: 0.00
+Thời gian ≈ 0.069971800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test012: 0.00
+Thời gian ≈ 0.071737300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test013: 1.00
+Thời gian ≈ 0.071866000 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test014: 1.00
+Thời gian ≈ 0.078558000 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test015: 0.00
+Thời gian ≈ 0.067770800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test016: 0.00
+Thời gian ≈ 0.080062500 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test017: 1.00
+Thời gian ≈ 0.067334800 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test018: 1.00
+Thời gian ≈ 0.069117200 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test019: 0.00
+Thời gian ≈ 0.074042300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test020: 0.00
+Thời gian ≈ 0.079164000 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test021: 0.00
+Thời gian ≈ 0.068553500 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test022: 0.00
+Thời gian ≈ 0.077479300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test023: 0.00
+Thời gian ≈ 0.081746400 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test024: 0.00
+Thời gian ≈ 0.079901300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test025: 0.00
+Thời gian ≈ 0.080896200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test026: 1.00
+Thời gian ≈ 0.080376600 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test027: 0.00
+Thời gian ≈ 0.079394200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test028: 0.00
+Thời gian ≈ 0.072112600 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test029: 1.00
+Thời gian ≈ 0.077134600 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test030: 0.00
+Thời gian ≈ 0.074235700 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test031: 0.00
+Thời gian ≈ 0.088494600 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test032: 1.00
+Thời gian ≈ 0.092140900 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test033: 1.00
+Thời gian ≈ 0.079501300 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test034: 0.00
+Thời gian ≈ 0.083310600 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test035: 0.00
+Thời gian ≈ 0.100617800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test036: 1.00
+Thời gian ≈ 0.086182600 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test037: 1.00
+Thời gian ≈ 0.083288200 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test038: 1.00
+Thời gian ≈ 0.090464700 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test039: 0.00
+Thời gian ≈ 0.099876100 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test040: 0.00
+Thời gian ≈ 0.085704900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test041: 0.00
+Thời gian ≈ 0.086887300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test042: 0.00
+Thời gian ≈ 0.092905900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test043: 0.00
+Thời gian ≈ 0.102942500 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test044: 1.00
+Thời gian ≈ 0.082673300 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test045: 0.00
+Thời gian ≈ 0.088777200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test046: 0.00
+Thời gian ≈ 0.084687700 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test047: 0.00
+Thời gian ≈ 0.084400000 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test048: 0.00
+Thời gian ≈ 0.096456200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test049: 1.00
+Thời gian ≈ 0.091529200 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test050: 0.00
+Thời gian ≈ 0.099265500 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test051: 0.00
+Thời gian ≈ 0.094404900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test052: 0.00
+Thời gian ≈ 0.092793500 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test053: 0.00
+Thời gian ≈ 0.093425800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test054: 0.00
+Thời gian ≈ 0.098590800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test055: 0.00
+Thời gian ≈ 0.107239300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test056: 1.00
+Thời gian ≈ 0.097949900 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test057: 1.00
+Thời gian ≈ 0.095366400 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test058: 0.00
+Thời gian ≈ 0.102395900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test059: 0.00
+Thời gian ≈ 0.103321000 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test060: 0.00
+Thời gian ≈ 0.104470200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test061: 0.00
+Thời gian ≈ 0.108577400 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test062: 1.00
+Thời gian ≈ 0.100554900 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test063: 0.00
+Thời gian ≈ 0.101746900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test064: 0.00
+Thời gian ≈ 0.134229900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test065: 0.00
+Thời gian ≈ 0.113700300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test066: 1.00
+Thời gian ≈ 0.107371700 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test067: 1.00
+Thời gian ≈ 0.107065600 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test068: 0.00
+Thời gian ≈ 0.125458900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test069: 1.00
+Thời gian ≈ 0.119614700 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test070: 0.00
+Thời gian ≈ 0.119997800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test071: 1.00
+Thời gian ≈ 0.137957500 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test072: 1.00
+Thời gian ≈ 0.127041500 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test073: 1.00
+Thời gian ≈ 0.146560000 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test074: 1.00
+Thời gian ≈ 0.148623100 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test075: 0.00
+Thời gian ≈ 0.132667400 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test076: 1.00
+Thời gian ≈ 0.138847100 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test077: 0.00
+Thời gian ≈ 0.126561100 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test078: 0.00
+Thời gian ≈ 0.129612600 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test079: 1.00
+Thời gian ≈ 0.144141800 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test080: 0.00
+Thời gian ≈ 0.130138800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test081: 1.00
+Thời gian ≈ 0.164415600 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test082: 0.00
+Thời gian ≈ 0.140198900 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test083: 1.00
+Thời gian ≈ 0.128848900 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test084: 0.00
+Thời gian ≈ 0.153564800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test085: 0.00
+Thời gian ≈ 0.158533500 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test086: 1.00
+Thời gian ≈ 0.157146100 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test087: 0.00
+Thời gian ≈ 0.150256100 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test088: 1.00
+Thời gian ≈ 0.154435800 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test089: 1.00
+Thời gian ≈ 0.150475400 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test090: 0.00
+Thời gian ≈ 0.156051600 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test091: 1.00
+Thời gian ≈ 0.175561500 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test092: 0.00
+Thời gian ≈ 0.155110800 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test093: 1.00
+Thời gian ≈ 0.160378300 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test094: 1.00
+Thời gian ≈ 0.164565400 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test095: 0.00
+Thời gian ≈ 0.177063200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test096: 1.00
+Thời gian ≈ 0.165499700 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test097: 1.00
+Thời gian ≈ 0.182294900 giây
+Kết quả khớp đáp án!
+phatvo‣friends‣Test098: 0.00
+Thời gian ≈ 0.166721200 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test099: 0.00
+Thời gian ≈ 0.171895300 giây
+Kết quả KHÁC đáp án!
+phatvo‣friends‣Test100: 0.00
+Thời gian ≈ 0.168569600 giây
+Kết quả KHÁC đáp án!

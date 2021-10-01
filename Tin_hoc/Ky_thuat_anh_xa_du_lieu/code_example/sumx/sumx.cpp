@@ -8,28 +8,31 @@ using namespace std;
 
 typedef long long ll;
 
-int n;
+ll n;
 ll x;
-map<ll, int> a;
+map<ll, ll> a;
 
 void ReadData()
 {
     cin >> n;
     ll temp;
-    for(int i = 1; i <= n; ++i){
+    for(ll i = 1; i <= n; ++i){
         cin >> temp;
-        a[temp]++;
+        if(a.find(temp) != a.end())
+            a[temp]++;
+        else a[temp] = 1;
     }
     cin >> x;
 }
 
 ll Solve()
 {
-    int cnt = 0;
-    for(map<ll, int>::iterator it = a.begin(); it != a.end(); ++it){
-        if(a.find(x - it->first) != a.end()) cnt = cnt + it->second * a[x - it->first];
+    ll cnt = 0;
+    for(map<ll, ll>::iterator it = a.begin(); it != a.end(); ++it){
+        if(x - it->first > it->first && a.find(x - it->first) != a.end()) cnt = cnt + it->second * a[x - it->first];
+        else if (x - it->first == it->first) cnt = cnt + it->second * (it->second - 1) / 2;
     }
-    return cnt/2;
+    return cnt;
 }
 
 int main()
