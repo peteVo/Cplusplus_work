@@ -31,15 +31,22 @@ void ReadData()
 
 void Cubics()
 {
+    ll pos = 1e9;
     ll maxLen = -1;
     for(map<ll, pii>::iterator it = s.begin(); it != s.end(); ++it){
-        if(it->second.second - it->second.first > maxLen){
-            maxLen = it->second.second - it->second.first;
-            m[maxLen] = min(m[maxLen], it->second.first + 1);
+        ll dif = it->second.second - it->second.first;
+        ll firstpos = it->second.first + 1;
+        if(dif > maxLen){
+            pos = 1e9;
+            maxLen = dif;
+            pos = firstpos;
+        }
+        else if(dif == maxLen && pos > firstpos){
+            pos = firstpos;
         }
     }
-    if(maxLen >= 0)
-        cout << maxLen << " " << m[maxLen];
+    if(maxLen > -1)
+        cout << maxLen << " " << pos;
     else cout << 0;
 }
 

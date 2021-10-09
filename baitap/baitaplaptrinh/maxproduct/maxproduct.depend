@@ -1,8 +1,7 @@
 # depslib dependency file v1.0
-1633093365 source:d:\it_related_files\baitap\baitaplaptrinh\maxproduct\main.cpp
+1633593295 source:d:\it_related_files\baitap\baitaplaptrinh\maxproduct\main.cpp
 	<iostream>
 	<cstdio>
 	<cmath>
 	<algorithm>
-	<map>
 

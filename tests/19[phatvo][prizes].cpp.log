@@ -1,0 +1,155 @@
+ ﻿phatvo‣prizes: 32.00
+prizes.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "prizes.cpp" -pipe -O2 -s -static -lm -x c++ -o"prizes.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom47650\
+Dịch thành công.
+
+phatvo‣prizes‣Test01: 2.00
+Thời gian ≈ 0.068643300 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test02: 0.00
+Thời gian ≈ 0.067830500 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test03: 0.00
+Thời gian ≈ 0.068765700 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test04: 2.00
+Thời gian ≈ 0.066751000 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test05: 0.00
+Thời gian ≈ 0.066055200 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test06: 0.00
+Thời gian ≈ 0.071999800 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test07: 2.00
+Thời gian ≈ 0.060163200 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test08: 0.00
+Thời gian ≈ 0.069949000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test09: 2.00
+Thời gian ≈ 0.070326900 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test10: 0.00
+Thời gian ≈ 0.062102400 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test11: 0.00
+Thời gian ≈ 0.065988600 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test12: 0.00
+Thời gian ≈ 0.063886300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test13: 0.00
+Thời gian ≈ 0.066515100 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test14: 0.00
+Thời gian ≈ 0.073139000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test15: 0.00
+Thời gian ≈ 0.076673900 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test16: 0.00
+Thời gian ≈ 0.081049000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test17: 2.00
+Thời gian ≈ 0.076196800 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test18: 2.00
+Thời gian ≈ 0.079264200 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test19: 2.00
+Thời gian ≈ 0.076232600 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test20: 2.00
+Thời gian ≈ 0.080329000 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test21: 2.00
+Thời gian ≈ 0.072396500 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test22: 0.00
+Thời gian ≈ 0.077070300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test23: 0.00
+Thời gian ≈ 0.108645300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test24: 2.00
+Thời gian ≈ 0.086827700 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test25: 0.00
+Thời gian ≈ 0.080540600 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test26: 0.00
+Thời gian ≈ 0.078428400 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test27: 0.00
+Thời gian ≈ 0.104421000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test28: 0.00
+Thời gian ≈ 0.074708100 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test29: 0.00
+Thời gian ≈ 0.109362800 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test30: 0.00
+Thời gian ≈ 0.073289100 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test31: 0.00
+Thời gian ≈ 0.173119300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test32: 0.00
+Thời gian ≈ 0.175453900 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test33: 0.00
+Thời gian ≈ 0.182540700 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test34: 2.00
+Thời gian ≈ 0.173122800 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test35: 2.00
+Thời gian ≈ 0.173226800 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test36: 2.00
+Thời gian ≈ 0.174534900 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test37: 2.00
+Thời gian ≈ 0.170843600 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test38: 2.00
+Thời gian ≈ 0.166859600 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test39: 0.00
+Thời gian ≈ 0.173249000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test40: 0.00
+Thời gian ≈ 0.173686300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test41: 2.00
+Thời gian ≈ 0.177206300 giây
+Kết quả khớp đáp án!
+phatvo‣prizes‣Test42: 0.00
+Thời gian ≈ 0.169919000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test43: 0.00
+Thời gian ≈ 0.175915700 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test44: 0.00
+Thời gian ≈ 0.171858500 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test45: 0.00
+Thời gian ≈ 0.118002000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test46: 0.00
+Thời gian ≈ 0.173253900 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test47: 0.00
+Thời gian ≈ 0.171188400 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test48: 0.00
+Thời gian ≈ 0.164281100 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test49: 0.00
+Thời gian ≈ 0.114260200 giây
+Kết quả KHÁC đáp án!
+phatvo‣prizes‣Test50: 0.00
+Thời gian ≈ 0.168445000 giây
+Kết quả KHÁC đáp án!

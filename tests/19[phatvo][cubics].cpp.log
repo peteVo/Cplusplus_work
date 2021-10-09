@@ -1,155 +1,155 @@
- ﻿phatvo‣cubics: 88.00
+ ﻿phatvo‣cubics: 28.00
 cubics.cpp
-"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cubics.cpp" -pipe -O2 -s -static -lm -x c++ -o"cubics.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom45171\
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cubics.cpp" -pipe -O2 -s -static -lm -x c++ -o"cubics.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom61905\
 Dịch thành công.
 
 phatvo‣cubics‣Test01: 2.00
-Thời gian ≈ 0.073878500 giây
+Thời gian ≈ 0.070179000 giây
 Kết quả khớp đáp án!
 phatvo‣cubics‣Test02: 0.00
-Thời gian ≈ 0.061045000 giây
+Thời gian ≈ 0.059837100 giây
 Kết quả KHÁC đáp án!
-phatvo‣cubics‣Test03: 2.00
-Thời gian ≈ 0.063895500 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test04: 2.00
-Thời gian ≈ 0.066976200 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test03: 0.00
+Thời gian ≈ 0.060986000 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test04: 0.00
+Thời gian ≈ 0.064331900 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test05: 2.00
-Thời gian ≈ 0.075549200 giây
+Thời gian ≈ 0.090966700 giây
 Kết quả khớp đáp án!
 phatvo‣cubics‣Test06: 0.00
-Thời gian ≈ 0.063242500 giây
+Thời gian ≈ 0.058387500 giây
 Kết quả KHÁC đáp án!
-phatvo‣cubics‣Test07: 2.00
-Thời gian ≈ 0.069501700 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test07: 0.00
+Thời gian ≈ 0.062011200 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test08: 2.00
-Thời gian ≈ 0.060266500 giây
+Thời gian ≈ 0.065220200 giây
 Kết quả khớp đáp án!
-phatvo‣cubics‣Test09: 2.00
-Thời gian ≈ 0.064025400 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test10: 2.00
-Thời gian ≈ 0.069556500 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test11: 2.00
-Thời gian ≈ 0.082649300 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test12: 2.00
-Thời gian ≈ 0.061946700 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test09: 0.00
+Thời gian ≈ 0.063125900 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test10: 0.00
+Thời gian ≈ 0.068300900 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test11: 0.00
+Thời gian ≈ 0.059908900 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test12: 0.00
+Thời gian ≈ 0.067675300 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test13: 2.00
-Thời gian ≈ 0.062622500 giây
+Thời gian ≈ 0.062963700 giây
 Kết quả khớp đáp án!
-phatvo‣cubics‣Test14: 2.00
-Thời gian ≈ 0.067622600 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test15: 2.00
-Thời gian ≈ 0.074418500 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test16: 2.00
-Thời gian ≈ 0.067650600 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test17: 2.00
-Thời gian ≈ 0.070095100 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test14: 0.00
+Thời gian ≈ 0.064675100 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test15: 0.00
+Thời gian ≈ 0.061780400 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test16: 0.00
+Thời gian ≈ 0.077237200 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test17: 0.00
+Thời gian ≈ 0.064908300 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test18: 2.00
-Thời gian ≈ 0.070508200 giây
+Thời gian ≈ 0.064904400 giây
 Kết quả khớp đáp án!
 phatvo‣cubics‣Test19: 2.00
-Thời gian ≈ 0.076568400 giây
+Thời gian ≈ 0.062508800 giây
 Kết quả khớp đáp án!
 phatvo‣cubics‣Test20: 0.00
-Thời gian ≈ 0.064532700 giây
+Thời gian ≈ 0.065676800 giây
 Kết quả KHÁC đáp án!
-phatvo‣cubics‣Test21: 2.00
-Thời gian ≈ 0.072224700 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test21: 0.00
+Thời gian ≈ 0.069974400 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test22: 2.00
-Thời gian ≈ 0.063524600 giây
+Thời gian ≈ 0.064394900 giây
 Kết quả khớp đáp án!
-phatvo‣cubics‣Test23: 2.00
-Thời gian ≈ 0.072424100 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test24: 2.00
-Thời gian ≈ 0.070970100 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test25: 2.00
-Thời gian ≈ 0.077095600 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test26: 2.00
-Thời gian ≈ 0.071135700 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test27: 2.00
-Thời gian ≈ 0.069091100 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test28: 0.00
-Thời gian ≈ 0.068042400 giây
+phatvo‣cubics‣Test23: 0.00
+Thời gian ≈ 0.067843200 giây
 Kết quả KHÁC đáp án!
-phatvo‣cubics‣Test29: 2.00
-Thời gian ≈ 0.076364100 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test30: 2.00
-Thời gian ≈ 0.075779200 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test24: 0.00
+Thời gian ≈ 0.068934800 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test25: 0.00
+Thời gian ≈ 0.062756700 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test26: 0.00
+Thời gian ≈ 0.066607600 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test27: 0.00
+Thời gian ≈ 0.062439400 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test28: 0.00
+Thời gian ≈ 0.066293000 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test29: 0.00
+Thời gian ≈ 0.080081800 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test30: 0.00
+Thời gian ≈ 0.071025900 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test31: 2.00
-Thời gian ≈ 0.145703400 giây
+Thời gian ≈ 0.149333300 giây
 Kết quả khớp đáp án!
 phatvo‣cubics‣Test32: 2.00
-Thời gian ≈ 0.116639800 giây
+Thời gian ≈ 0.116099200 giây
 Kết quả khớp đáp án!
-phatvo‣cubics‣Test33: 2.00
-Thời gian ≈ 0.132713700 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test34: 2.00
-Thời gian ≈ 0.140728000 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test35: 2.00
-Thời gian ≈ 0.171511500 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test36: 2.00
-Thời gian ≈ 0.111631800 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test37: 2.00
-Thời gian ≈ 0.150294300 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test38: 2.00
-Thời gian ≈ 0.169619200 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test39: 0.00
-Thời gian ≈ 0.118693700 giây
+phatvo‣cubics‣Test33: 0.00
+Thời gian ≈ 0.135021000 giây
 Kết quả KHÁC đáp án!
-phatvo‣cubics‣Test40: 2.00
-Thời gian ≈ 0.122173300 giây
+phatvo‣cubics‣Test34: 0.00
+Thời gian ≈ 0.140472200 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test35: 0.00
+Thời gian ≈ 0.164192400 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test36: 2.00
+Thời gian ≈ 0.109458200 giây
 Kết quả khớp đáp án!
-phatvo‣cubics‣Test41: 2.00
-Thời gian ≈ 0.146530500 giây
+phatvo‣cubics‣Test37: 0.00
+Thời gian ≈ 0.147820600 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test38: 0.00
+Thời gian ≈ 0.162740700 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test39: 2.00
+Thời gian ≈ 0.108516200 giây
 Kết quả khớp đáp án!
+phatvo‣cubics‣Test40: 0.00
+Thời gian ≈ 0.152061100 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test41: 0.00
+Thời gian ≈ 0.143590300 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test42: 2.00
-Thời gian ≈ 0.103578900 giây
+Thời gian ≈ 0.103652400 giây
 Kết quả khớp đáp án!
-phatvo‣cubics‣Test43: 2.00
-Thời gian ≈ 0.164103500 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test44: 2.00
-Thời gian ≈ 0.151377700 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test45: 2.00
-Thời gian ≈ 0.136750200 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test43: 0.00
+Thời gian ≈ 0.163118900 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test44: 0.00
+Thời gian ≈ 0.146992900 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test45: 0.00
+Thời gian ≈ 0.144252900 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test46: 2.00
-Thời gian ≈ 0.214613500 giây
+Thời gian ≈ 0.253435200 giây
 Kết quả khớp đáp án!
-phatvo‣cubics‣Test47: 2.00
-Thời gian ≈ 0.204945400 giây
-Kết quả khớp đáp án!
-phatvo‣cubics‣Test48: 2.00
-Thời gian ≈ 0.204035400 giây
-Kết quả khớp đáp án!
+phatvo‣cubics‣Test47: 0.00
+Thời gian ≈ 0.198830200 giây
+Kết quả KHÁC đáp án!
+phatvo‣cubics‣Test48: 0.00
+Thời gian ≈ 0.203590600 giây
+Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test49: 0.00
-Thời gian ≈ 0.195814700 giây
+Thời gian ≈ 0.261809000 giây
 Kết quả KHÁC đáp án!
 phatvo‣cubics‣Test50: 2.00
-Thời gian ≈ 0.202569600 giây
+Thời gian ≈ 0.182058800 giây
 Kết quả khớp đáp án!

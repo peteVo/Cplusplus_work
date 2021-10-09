@@ -2,19 +2,19 @@
 #include <cstdio>
 #include <cmath>
 #include <algorithm>
+//#include <map>
 
 using namespace std;
 typedef long long ll;
 typedef pair<ll, ll> pii;
+//map<ll, pii> a;
 
 pii a[200001];
-int n;
-ll T;
+ll n, T;
 
 bool sorter(pii x, pii y)
 {
-    return (x.first < y.first ||
-            (x.first == y.first && x.second < y.second));
+    return x.first < y.first || (x.first == y.first && x.second < y.second);
 }
 
 void ReadData()
@@ -27,48 +27,37 @@ void ReadData()
     sort(a + 1, a + 1 + n, sorter);
 }
 
-bool notOverflow(ll x, ll y)
+ll BinarySearch(ll x, ll lo, ll hi)
 {
-    ll product = x * y;
-    return product >= x && product >= y;
-}
-
-bool isValid(ll x, ll y)
-{
-    return x * y <= T;
-}
-
-int BinarySearch(ll x, int lo, int hi)
-{
-    int pos = -1;
+    ll pos = -1;
     while(lo <= hi)
     {
-        int m = (lo + hi) / 2;
-        if(notOverflow(x, a[m].first && isValid(x, a[m].first))){
+        ll m = (lo + hi) / 2;
+        if(a[m].first <= x){
             pos = m;
             lo = m + 1;
-            if(a[m].first * x == T) return m;
         }
         else hi = m - 1;
-    }
-    return pos;
+    }  
+    return pos;  
 }
 
 void Solve()
 {
-    ll maxVal = -1;
+    ll ans = -1;
     ll pos1 = -1, pos2 = -1;
     for(int i = 1; i <= n; ++i){
-        int pos = BinarySearch(a[i].first, i+1, n);
-        if(pos == -1) continue;
-        if(a[i].first * a[pos].first > maxVal){
-            maxVal = a[i].first * a[pos].first;
-            pos1 = a[i].second;
-            pos2 = a[pos].second;
+        ll pos = BinarySearch(T / a[i].first, i + 1, n);
+        if(pos > 0 && ans < a[pos].first * a[i].first){
+            ans = a[pos].first * a[i].first;
+            pos1 = a[i].second, pos2 = a[pos].second;
         }
     }
-    cout << maxVal << endl;
-    cout << pos1 << " " << pos2 << endl;
+    if(ans == -1 && pos1 == -1 && pos2 == -1) cout << 0;
+    else{
+        cout << ans << endl;
+        cout << pos2 << " " << pos1 << endl; 
+    }
 }
 
 int main()

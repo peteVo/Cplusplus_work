@@ -1,67 +1,67 @@
  ﻿phatvo‣saw: 30.00
 saw.cpp
-"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "saw.cpp" -pipe -O2 -s -static -lm -x c++ -o"saw.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom13448\
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "saw.cpp" -pipe -O2 -s -static -lm -x c++ -o"saw.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom42163\
 Dịch thành công.
 
 phatvo‣saw‣Test01: 0.00
-Thời gian ≈ 0.070457800 giây
+Thời gian ≈ 0.087450500 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test02: 2.50
-Thời gian ≈ 0.065161400 giây
+Thời gian ≈ 0.076186700 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test03: 0.00
-Thời gian ≈ 0.066611400 giây
+Thời gian ≈ 0.074901700 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test04: 0.00
-Thời gian ≈ 0.069549200 giây
+Thời gian ≈ 0.070667500 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test05: 0.00
-Thời gian ≈ 0.067934400 giây
+Thời gian ≈ 0.073971300 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test06: 2.50
-Thời gian ≈ 0.068360200 giây
+Thời gian ≈ 0.118813600 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test07: 0.00
-Thời gian ≈ 0.067664300 giây
+Thời gian ≈ 0.062083600 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test08: 0.00
-Thời gian ≈ 0.073104800 giây
+Thời gian ≈ 0.071735500 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test09: 0.00
-Thời gian ≈ 0.059848700 giây
+Thời gian ≈ 0.070576800 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test10: 2.50
-Thời gian ≈ 0.066476700 giây
+Thời gian ≈ 0.074158100 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test11: 2.50
-Thời gian ≈ 0.068491600 giây
+Thời gian ≈ 0.063203800 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test12: 0.00
-Thời gian ≈ 0.063518600 giây
+Thời gian ≈ 0.073874600 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test13: 2.50
-Thời gian ≈ 0.069325700 giây
+Thời gian ≈ 0.072328400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test14: 2.50
-Thời gian ≈ 0.069638900 giây
+Thời gian ≈ 0.079018900 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test15: 2.50
-Thời gian ≈ 0.066142200 giây
+Thời gian ≈ 0.093371200 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test16: 2.50
-Thời gian ≈ 0.068263100 giây
+Thời gian ≈ 0.073145400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test17: 2.50
-Thời gian ≈ 0.070961900 giây
+Thời gian ≈ 0.077388200 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test18: 2.50
-Thời gian ≈ 0.071942200 giây
+Thời gian ≈ 0.085839500 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test19: 2.50
-Thời gian ≈ 0.065423100 giây
+Thời gian ≈ 0.058588400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test20: 2.50
-Thời gian ≈ 0.067683300 giây
+Thời gian ≈ 0.074872400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test21: 0.00
 Chạy quá thời gian
