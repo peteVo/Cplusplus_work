@@ -5,34 +5,38 @@
 using namespace std;
 
 typedef long long ll;
-int n, k;
+ll n, k;
 ll a[100001];
-ll s[100001];
+ll s[100001] = {0};
+ll l[100001] = {0};
+ll r[100001] = {0};
 
 void ReadData()
 {
     cin >> n >> k;
-    s[0] = 0;
-    for(int i = 1; i <= n; ++i){
+    for(ll i = 1; i <= n; ++i){
         cin >> a[i];
         s[i] = s[i - 1] + a[i];
     }
 }
 
-ll maxPrize()
+ll Solve()
 {
-    ll max1 = -1, max2 = -1;
-    for(int i = 1; i <= n - k + 1; ++i){
-        ll val = s[i + k - 1] - s[i - 1];
-        if(max1 < val){
-            max2 = max1, max1 = val;
-        }
-        else if(max2 < val){
-            max2 = val;
-        }
-        //cout << "max1: " << max1 << ", max2: " << max2 << endl;
+    ll subans = -1, ans = 1e18;
+    for(ll i = k; i <= n; ++i){
+        l[i] = max(l[i-1], s[i] - s[i-k]);
+        //cout << "l[" << i << "] = " << l[i] << endl;
     }
-    return max2;
+    for(ll i = n-k+1; i >= 1; --i){
+        r[i] = max(r[i+1], s[i+k-1] - s[i-1]);
+        //cout << "r[" << i << "] = " << r[i] << endl;
+    }
+    for(ll i = 1; i <= n-k+1; ++i){
+        //cout << "max(l[" << i << "], r[" << i << "]) = " << max(l[i], r[i]) << endl;
+        subans = max(l[i-1], r[i+k]);
+        ans = min(ans, subans);
+    }
+    return ans;
 }
 
 int main()
@@ -41,7 +45,7 @@ int main()
     freopen("prizes.out", "w", stdout);
 
     ReadData();
-    cout << maxPrize();
+    cout << Solve();
 
     return 0;
 }

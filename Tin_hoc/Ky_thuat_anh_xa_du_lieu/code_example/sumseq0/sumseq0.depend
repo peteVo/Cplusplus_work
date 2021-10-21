@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634222059 source:d:\it_related_files\tin_hoc\ky_thuat_anh_xa_du_lieu\code_example\sumseq0\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+

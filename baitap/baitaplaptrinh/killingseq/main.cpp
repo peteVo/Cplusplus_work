@@ -10,13 +10,15 @@ int n;
 
 void ReadData()
 {
+    ll x;
     cin >> n;
-    for(int i = 0; i <= n; ++i){
-        ll x;
+    for(int i = 0; i < n; ++i){
         cin >> x;
         p.push_back(x);
     }
     sort(p.begin(), p.end());
+    //for(int i = 0; i < p.size(); ++i) cout << p[i] << " ";
+    //cout << endl;
 }
 
 int median()
@@ -31,7 +33,7 @@ int median()
 
 void PrintP()
 {
-    for(int i = )
+//    for(int i = )
 }
 
 void Solve()
@@ -41,6 +43,8 @@ void Solve()
         ll tmp = p[pos];
         p.erase(p.begin() + pos);
         cout << tmp << " ";
+        //for(int i = 0; i < p.size(); ++i) cout << p[i] << " ";
+        //cout << endl;
     }
 }
 

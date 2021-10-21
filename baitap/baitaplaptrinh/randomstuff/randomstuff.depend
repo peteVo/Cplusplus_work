@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633771438 source:d:\it_related_files\baitap\baitaplaptrinh\randomstuff\main.cpp
+	<iostream>
+	<map>
+	<cmath>
+
