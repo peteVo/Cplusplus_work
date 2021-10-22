@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633072890 source:d:\it_related_files\baitap\baitaplaptrinh\saw\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
+1634903185 source:d:\it_related_files\baitap\baitaplaptrinh\7\saw\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+

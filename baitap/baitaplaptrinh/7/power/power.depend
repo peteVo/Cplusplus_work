@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634803671 source:d:\it_related_files\baitap\baitaplaptrinh\power\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+
+1634912292 source:d:\it_related_files\baitap\baitaplaptrinh\7\power\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+

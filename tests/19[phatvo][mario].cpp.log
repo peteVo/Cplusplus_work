@@ -1,0 +1,125 @@
+ ﻿phatvo‣mario: 15.00
+mario.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "mario.cpp" -pipe -O2 -s -static -lm -x c++ -o"mario.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom9928\
+Dịch thành công.
+
+phatvo‣mario‣Test01: 0.00
+Thời gian ≈ 0.064645200 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test02: 0.00
+Thời gian ≈ 0.062279800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test03: 2.50
+Thời gian ≈ 0.063026300 giây
+Kết quả khớp đáp án!
+phatvo‣mario‣Test04: 0.00
+Thời gian ≈ 0.066448000 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test05: 0.00
+Thời gian ≈ 0.066989500 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test06: 2.50
+Thời gian ≈ 0.063830400 giây
+Kết quả khớp đáp án!
+phatvo‣mario‣Test07: 0.00
+Thời gian ≈ 0.062522000 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test08: 0.00
+Thời gian ≈ 0.061891900 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test09: 0.00
+Thời gian ≈ 0.066568300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test10: 0.00
+Thời gian ≈ 0.066469500 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test11: 0.00
+Thời gian ≈ 0.068050900 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test12: 2.50
+Thời gian ≈ 0.065889200 giây
+Kết quả khớp đáp án!
+phatvo‣mario‣Test13: 0.00
+Thời gian ≈ 0.065495100 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test14: 0.00
+Thời gian ≈ 0.070713300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test15: 0.00
+Thời gian ≈ 0.063988800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test16: 2.50
+Thời gian ≈ 0.065185400 giây
+Kết quả khớp đáp án!
+phatvo‣mario‣Test17: 0.00
+Thời gian ≈ 0.058750600 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test18: 0.00
+Thời gian ≈ 0.066656200 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test19: 2.50
+Thời gian ≈ 0.063167400 giây
+Kết quả khớp đáp án!
+phatvo‣mario‣Test20: 2.50
+Thời gian ≈ 0.069879900 giây
+Kết quả khớp đáp án!
+phatvo‣mario‣Test21: 0.00
+Thời gian ≈ 0.079505300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test22: 0.00
+Thời gian ≈ 0.074802300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test23: 0.00
+Thời gian ≈ 0.094439800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test24: 0.00
+Thời gian ≈ 0.069752700 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test25: 0.00
+Thời gian ≈ 0.073172900 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test26: 0.00
+Thời gian ≈ 0.063020600 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test27: 0.00
+Thời gian ≈ 0.074909100 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test28: 0.00
+Thời gian ≈ 0.076062800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test29: 0.00
+Thời gian ≈ 0.095932300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test30: 0.00
+Thời gian ≈ 0.066209400 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test31: 0.00
+Thời gian ≈ 0.212170400 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test32: 0.00
+Thời gian ≈ 0.585664600 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test33: 0.00
+Thời gian ≈ 0.280302600 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test34: 0.00
+Thời gian ≈ 0.663247800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test35: 0.00
+Thời gian ≈ 0.151035500 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test36: 0.00
+Thời gian ≈ 0.684141100 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test37: 0.00
+Thời gian ≈ 0.718471000 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test38: 0.00
+Thời gian ≈ 0.241542900 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test39: 0.00
+Thời gian ≈ 0.418286300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mario‣Test40: 0.00
+Thời gian ≈ 0.151166000 giây
+Kết quả KHÁC đáp án!

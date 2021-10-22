@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634910930 source:d:\it_related_files\baitap\baitaplaptrinh\mario\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

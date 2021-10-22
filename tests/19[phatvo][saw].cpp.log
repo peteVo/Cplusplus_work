@@ -1,105 +1,125 @@
- ﻿phatvo‣saw: 30.00
+ ﻿phatvo‣saw: 80.00
 saw.cpp
-"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "saw.cpp" -pipe -O2 -s -static -lm -x c++ -o"saw.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom42163\
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "saw.cpp" -pipe -O2 -s -static -lm -x c++ -o"saw.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom57524\
 Dịch thành công.
 
 phatvo‣saw‣Test01: 0.00
-Thời gian ≈ 0.087450500 giây
+Thời gian ≈ 0.067752700 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test02: 2.50
-Thời gian ≈ 0.076186700 giây
+Thời gian ≈ 0.069553300 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test03: 0.00
-Thời gian ≈ 0.074901700 giây
+Thời gian ≈ 0.069491100 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test04: 0.00
-Thời gian ≈ 0.070667500 giây
+Thời gian ≈ 0.068415800 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test05: 0.00
-Thời gian ≈ 0.073971300 giây
+Thời gian ≈ 0.060692200 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test06: 2.50
-Thời gian ≈ 0.118813600 giây
+Thời gian ≈ 0.069407900 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test07: 0.00
-Thời gian ≈ 0.062083600 giây
+Thời gian ≈ 0.069407700 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test08: 0.00
-Thời gian ≈ 0.071735500 giây
+Thời gian ≈ 0.071513800 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test09: 0.00
-Thời gian ≈ 0.070576800 giây
+Thời gian ≈ 0.067484400 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test10: 2.50
-Thời gian ≈ 0.074158100 giây
+Thời gian ≈ 0.071113400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test11: 2.50
-Thời gian ≈ 0.063203800 giây
+Thời gian ≈ 0.070437200 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test12: 0.00
-Thời gian ≈ 0.073874600 giây
+Thời gian ≈ 0.065992300 giây
 Kết quả KHÁC đáp án!
 phatvo‣saw‣Test13: 2.50
-Thời gian ≈ 0.072328400 giây
+Thời gian ≈ 0.065525400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test14: 2.50
-Thời gian ≈ 0.079018900 giây
+Thời gian ≈ 0.068881400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test15: 2.50
-Thời gian ≈ 0.093371200 giây
+Thời gian ≈ 0.066871000 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test16: 2.50
-Thời gian ≈ 0.073145400 giây
+Thời gian ≈ 0.070353200 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test17: 2.50
-Thời gian ≈ 0.077388200 giây
+Thời gian ≈ 0.065508700 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test18: 2.50
-Thời gian ≈ 0.085839500 giây
+Thời gian ≈ 0.065755400 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test19: 2.50
-Thời gian ≈ 0.058588400 giây
+Thời gian ≈ 0.069144100 giây
 Kết quả khớp đáp án!
 phatvo‣saw‣Test20: 2.50
-Thời gian ≈ 0.074872400 giây
+Thời gian ≈ 0.066680200 giây
 Kết quả khớp đáp án!
-phatvo‣saw‣Test21: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test22: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test23: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test24: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test25: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test26: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test27: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test28: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test29: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test30: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test31: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test32: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test33: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test34: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test35: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test36: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test37: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test38: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test39: 0.00
-Chạy quá thời gian
-phatvo‣saw‣Test40: 0.00
-Chạy quá thời gian
+phatvo‣saw‣Test21: 2.50
+Thời gian ≈ 0.320657300 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test22: 2.50
+Thời gian ≈ 0.230232800 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test23: 2.50
+Thời gian ≈ 0.217315800 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test24: 2.50
+Thời gian ≈ 0.219947000 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test25: 2.50
+Thời gian ≈ 0.258096800 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test26: 2.50
+Thời gian ≈ 0.233443600 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test27: 2.50
+Thời gian ≈ 0.466339200 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test28: 2.50
+Thời gian ≈ 0.195161000 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test29: 2.50
+Thời gian ≈ 0.287645100 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test30: 2.50
+Thời gian ≈ 0.105155900 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test31: 2.50
+Thời gian ≈ 0.189343100 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test32: 2.50
+Thời gian ≈ 0.333123700 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test33: 2.50
+Thời gian ≈ 0.368505400 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test34: 2.50
+Thời gian ≈ 0.407324600 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test35: 2.50
+Thời gian ≈ 0.463615500 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test36: 2.50
+Thời gian ≈ 0.420427500 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test37: 2.50
+Thời gian ≈ 0.381480500 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test38: 2.50
+Thời gian ≈ 0.372719500 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test39: 2.50
+Thời gian ≈ 0.278694600 giây
+Kết quả khớp đáp án!
+phatvo‣saw‣Test40: 2.50
+Thời gian ≈ 0.404280100 giây
+Kết quả khớp đáp án!
