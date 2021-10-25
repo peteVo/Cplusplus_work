@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635080383 source:d:\it_related_files\baitap\baitaplaptrinh\maxpiece\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cmath>
+

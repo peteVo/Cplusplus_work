@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635076771 source:d:\it_related_files\baitap\baitaplaptrinh\kthsum\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<map>
+

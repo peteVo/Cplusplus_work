@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635062080 source:d:\it_related_files\baitap\baitaplaptrinh\guitar\main.cpp
+	<iostream>
+	<cstdio>
+	<stack>
+
