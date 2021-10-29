@@ -1,155 +1,305 @@
- ﻿phatvo‣power: 78.00
+ ﻿phatvo‣power: 2.00
 power.cpp
-"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "power.cpp" -pipe -O2 -s -static -lm -x c++ -o"power.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom59501\
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "power.cpp" -pipe -O2 -s -static -lm -x c++ -o"power.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom60983\
 Dịch thành công.
 
-phatvo‣power‣Test01: 2.00
-Thời gian ≈ 0.077420500 giây
+phatvo‣power‣Test001: 1.00
+Thời gian ≈ 0.063523900 giây
 Kết quả khớp đáp án!
-phatvo‣power‣Test02: 2.00
-Thời gian ≈ 0.066068800 giây
+phatvo‣power‣Test002: 1.00
+Thời gian ≈ 0.062982600 giây
 Kết quả khớp đáp án!
-phatvo‣power‣Test03: 2.00
-Thời gian ≈ 0.074135100 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test04: 2.00
-Thời gian ≈ 0.078912800 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test05: 2.00
-Thời gian ≈ 0.098227300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test06: 2.00
-Thời gian ≈ 0.074893600 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test07: 2.00
-Thời gian ≈ 0.065893100 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test08: 2.00
-Thời gian ≈ 0.071855900 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test09: 2.00
-Thời gian ≈ 0.073019000 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test10: 2.00
-Thời gian ≈ 0.074449100 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test11: 2.00
-Thời gian ≈ 0.068866800 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test12: 2.00
-Thời gian ≈ 0.066826600 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test13: 2.00
-Thời gian ≈ 0.065569300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test14: 2.00
-Thời gian ≈ 0.077584300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test15: 2.00
-Thời gian ≈ 0.071161000 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test16: 0.00
-Thời gian ≈ 0.075243800 giây
+phatvo‣power‣Test003: 0.00
+Thời gian ≈ 0.062567800 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test17: 0.00
-Thời gian ≈ 0.071846000 giây
+phatvo‣power‣Test004: 0.00
+Thời gian ≈ 0.068364600 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test18: 2.00
-Thời gian ≈ 0.073180100 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test19: 2.00
-Thời gian ≈ 0.065916300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test20: 0.00
-Thời gian ≈ 0.071540000 giây
+phatvo‣power‣Test005: 0.00
+Thời gian ≈ 0.064825800 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test21: 2.00
-Thời gian ≈ 0.066993700 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test22: 2.00
-Thời gian ≈ 0.071085500 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test23: 2.00
-Thời gian ≈ 0.066653800 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test24: 0.00
-Thời gian ≈ 0.072048500 giây
+phatvo‣power‣Test006: 0.00
+Thời gian ≈ 0.072456200 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test25: 0.00
-Thời gian ≈ 0.068610600 giây
+phatvo‣power‣Test007: 0.00
+Thời gian ≈ 0.082508900 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test26: 0.00
-Thời gian ≈ 0.065191500 giây
+phatvo‣power‣Test008: 0.00
+Thời gian ≈ 0.072989200 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test27: 0.00
-Thời gian ≈ 0.064436700 giây
+phatvo‣power‣Test009: 0.00
+Thời gian ≈ 0.071336300 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test28: 2.00
-Thời gian ≈ 0.071448600 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test29: 0.00
-Thời gian ≈ 0.071547000 giây
+phatvo‣power‣Test010: 0.00
+Thời gian ≈ 0.066351600 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test30: 2.00
-Thời gian ≈ 0.070793100 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test31: 2.00
-Thời gian ≈ 0.069000300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test32: 2.00
-Thời gian ≈ 0.076596800 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test33: 0.00
-Thời gian ≈ 0.065558900 giây
+phatvo‣power‣Test011: 0.00
+Thời gian ≈ 0.063030600 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test34: 2.00
-Thời gian ≈ 0.068457400 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test35: 2.00
-Thời gian ≈ 0.066182900 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test36: 2.00
-Thời gian ≈ 0.075233500 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test37: 2.00
-Thời gian ≈ 0.069876300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test38: 2.00
-Thời gian ≈ 0.065827700 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test39: 2.00
-Thời gian ≈ 0.071913000 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test40: 2.00
-Thời gian ≈ 0.071965200 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test41: 2.00
-Thời gian ≈ 0.080339300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test42: 2.00
-Thời gian ≈ 0.068109600 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test43: 2.00
-Thời gian ≈ 0.074784500 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test44: 2.00
-Thời gian ≈ 0.065408600 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test45: 2.00
-Thời gian ≈ 0.081597000 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test46: 2.00
-Thời gian ≈ 0.072878900 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test47: 2.00
-Thời gian ≈ 0.083122500 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test48: 0.00
-Thời gian ≈ 0.075604500 giây
+phatvo‣power‣Test012: 0.00
+Thời gian ≈ 0.078553500 giây
 Kết quả KHÁC đáp án!
-phatvo‣power‣Test49: 2.00
-Thời gian ≈ 0.072211300 giây
-Kết quả khớp đáp án!
-phatvo‣power‣Test50: 0.00
-Thời gian ≈ 0.082318600 giây
+phatvo‣power‣Test013: 0.00
+Thời gian ≈ 0.076041200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test014: 0.00
+Thời gian ≈ 0.068200800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test015: 0.00
+Thời gian ≈ 0.071903500 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test016: 0.00
+Thời gian ≈ 0.070533000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test017: 0.00
+Thời gian ≈ 0.088284300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test018: 0.00
+Thời gian ≈ 0.063812400 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test019: 0.00
+Thời gian ≈ 0.061308000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test020: 0.00
+Thời gian ≈ 0.071987200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test021: 0.00
+Thời gian ≈ 0.063342400 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test022: 0.00
+Thời gian ≈ 0.076066500 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test023: 0.00
+Thời gian ≈ 0.071594400 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test024: 0.00
+Thời gian ≈ 0.070502700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test025: 0.00
+Thời gian ≈ 0.064044200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test026: 0.00
+Thời gian ≈ 0.064397000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test027: 0.00
+Thời gian ≈ 0.076941600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test028: 0.00
+Thời gian ≈ 0.062162700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test029: 0.00
+Thời gian ≈ 0.074490800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test030: 0.00
+Thời gian ≈ 0.077336200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test031: 0.00
+Thời gian ≈ 0.064423800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test032: 0.00
+Thời gian ≈ 0.074638900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test033: 0.00
+Thời gian ≈ 0.066523300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test034: 0.00
+Thời gian ≈ 0.079619600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test035: 0.00
+Thời gian ≈ 0.074328000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test036: 0.00
+Thời gian ≈ 0.067826700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test037: 0.00
+Thời gian ≈ 0.068630700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test038: 0.00
+Thời gian ≈ 0.073319200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test039: 0.00
+Thời gian ≈ 0.076247700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test040: 0.00
+Thời gian ≈ 0.066596700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test041: 0.00
+Thời gian ≈ 0.074666700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test042: 0.00
+Thời gian ≈ 0.062188000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test043: 0.00
+Thời gian ≈ 0.071136900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test044: 0.00
+Thời gian ≈ 0.068749600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test045: 0.00
+Thời gian ≈ 0.075773200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test046: 0.00
+Thời gian ≈ 0.063474200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test047: 0.00
+Thời gian ≈ 0.072230800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test048: 0.00
+Thời gian ≈ 0.077423900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test049: 0.00
+Thời gian ≈ 0.070963600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test050: 0.00
+Thời gian ≈ 0.066030000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test051: 0.00
+Thời gian ≈ 0.063182800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test052: 0.00
+Thời gian ≈ 0.070539600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test053: 0.00
+Thời gian ≈ 0.077334000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test054: 0.00
+Thời gian ≈ 0.072289600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test055: 0.00
+Thời gian ≈ 0.073012000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test056: 0.00
+Thời gian ≈ 0.070408600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test057: 0.00
+Thời gian ≈ 0.068730700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test058: 0.00
+Thời gian ≈ 0.070053800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test059: 0.00
+Thời gian ≈ 0.090118700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test060: 0.00
+Thời gian ≈ 0.079286000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test061: 0.00
+Thời gian ≈ 0.074460600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test062: 0.00
+Thời gian ≈ 0.066540300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test063: 0.00
+Thời gian ≈ 0.070878700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test064: 0.00
+Thời gian ≈ 0.062680300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test065: 0.00
+Thời gian ≈ 0.079242900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test066: 0.00
+Thời gian ≈ 0.068783700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test067: 0.00
+Thời gian ≈ 0.064263400 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test068: 0.00
+Thời gian ≈ 0.063175800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test069: 0.00
+Thời gian ≈ 0.071841600 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test070: 0.00
+Thời gian ≈ 0.062517000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test071: 0.00
+Thời gian ≈ 0.070804000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test072: 0.00
+Thời gian ≈ 0.073718100 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test073: 0.00
+Thời gian ≈ 0.063808300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test074: 0.00
+Thời gian ≈ 0.065722700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test075: 0.00
+Thời gian ≈ 0.065837300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test076: 0.00
+Thời gian ≈ 0.072948100 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test077: 0.00
+Thời gian ≈ 0.072844100 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test078: 0.00
+Thời gian ≈ 0.069102100 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test079: 0.00
+Thời gian ≈ 0.067407900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test080: 0.00
+Thời gian ≈ 0.066509000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test081: 0.00
+Thời gian ≈ 0.066349300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test082: 0.00
+Thời gian ≈ 0.069931500 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test083: 0.00
+Thời gian ≈ 0.075920100 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test084: 0.00
+Thời gian ≈ 0.078968900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test085: 0.00
+Thời gian ≈ 0.076370900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test086: 0.00
+Thời gian ≈ 0.071337300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test087: 0.00
+Thời gian ≈ 0.068019400 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test088: 0.00
+Thời gian ≈ 0.068034400 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test089: 0.00
+Thời gian ≈ 0.068678400 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test090: 0.00
+Thời gian ≈ 0.076247500 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test091: 0.00
+Thời gian ≈ 0.074069200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test092: 0.00
+Thời gian ≈ 0.069864700 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test093: 0.00
+Thời gian ≈ 0.066761800 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test094: 0.00
+Thời gian ≈ 0.068423000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test095: 0.00
+Thời gian ≈ 0.080630900 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test096: 0.00
+Thời gian ≈ 0.076380200 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test097: 0.00
+Thời gian ≈ 0.066934000 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test098: 0.00
+Thời gian ≈ 0.066745500 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test099: 0.00
+Thời gian ≈ 0.068141300 giây
+Kết quả KHÁC đáp án!
+phatvo‣power‣Test100: 0.00
+Thời gian ≈ 0.069729600 giây
 Kết quả KHÁC đáp án!

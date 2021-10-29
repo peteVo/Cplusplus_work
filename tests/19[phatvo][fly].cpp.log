@@ -1,0 +1,176 @@
+ ﻿phatvo‣fly: 9.00
+fly.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "fly.cpp" -pipe -O2 -s -static -lm -x c++ -o"fly.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom6472\
+Dịch thành công.
+
+phatvo‣fly‣Test01: 1.75
+Thời gian ≈ 0.049168200 giây
+Kết quả khớp đáp án!
+phatvo‣fly‣Test02: 0.00
+Thời gian ≈ 0.050539400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test03: 1.75
+Thời gian ≈ 0.052706300 giây
+Kết quả khớp đáp án!
+phatvo‣fly‣Test04: 0.00
+Thời gian ≈ 0.051497000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test05: 0.00
+Thời gian ≈ 0.060033400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test06: 0.00
+Thời gian ≈ 0.063267400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test07: 0.00
+Thời gian ≈ 0.060698400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test08: 0.00
+Thời gian ≈ 0.056499100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test09: 0.00
+Thời gian ≈ 0.048779300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test10: 0.00
+Thời gian ≈ 0.066102400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test11: 0.00
+Thời gian ≈ 0.056652600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test12: 0.00
+Thời gian ≈ 0.049530000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test13: 0.00
+Thời gian ≈ 0.051750600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test14: 0.00
+Thời gian ≈ 0.055419500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test15: 0.00
+Thời gian ≈ 0.061245300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test16: 0.00
+Thời gian ≈ 0.058440500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test17: 0.00
+Thời gian ≈ 0.048293500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test18: 0.00
+Thời gian ≈ 0.062378000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test19: 1.75
+Thời gian ≈ 0.062770000 giây
+Kết quả khớp đáp án!
+phatvo‣fly‣Test20: 0.00
+Thời gian ≈ 0.062057900 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test21: 0.00
+Thời gian ≈ 0.069161500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test22: 0.00
+Thời gian ≈ 0.056418500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test23: 0.00
+Thời gian ≈ 0.053045000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test24: 0.00
+Thời gian ≈ 0.058084600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test25: 0.00
+Thời gian ≈ 0.050511300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test26: 0.00
+Thời gian ≈ 0.055895700 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test27: 0.00
+Thời gian ≈ 0.055591200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test28: 0.00
+Thời gian ≈ 0.056402700 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test29: 0.00
+Thời gian ≈ 0.114914900 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test30: 0.00
+Thời gian ≈ 0.067910500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test31: 0.00
+Thời gian ≈ 0.057932200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test32: 0.00
+Thời gian ≈ 0.062297200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test33: 0.00
+Thời gian ≈ 0.064586100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test34: 0.00
+Thời gian ≈ 0.070883600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test35: 0.00
+Thời gian ≈ 0.058025300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test36: 0.00
+Thời gian ≈ 0.062397200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test37: 0.00
+Thời gian ≈ 0.062008100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test38: 1.75
+Thời gian ≈ 0.057684600 giây
+Kết quả khớp đáp án!
+phatvo‣fly‣Test39: 0.00
+Thời gian ≈ 0.123028900 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test40: 0.00
+Thời gian ≈ 0.115920500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test41: 0.00
+Thời gian ≈ 0.204377500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test42: 0.00
+Thời gian ≈ 0.209209000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test43: 0.00
+Thời gian ≈ 0.263705300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test44: 0.00
+Thời gian ≈ 0.170118300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test45: 0.00
+Thời gian ≈ 0.170237800 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test46: 0.00
+Thời gian ≈ 0.164518400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test47: 0.00
+Thời gian ≈ 0.217767800 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test48: 0.00
+Thời gian ≈ 0.102561200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test49: 0.00
+Thời gian ≈ 0.238117200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test50: 0.00
+Thời gian ≈ 0.154183400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test51: 0.00
+Thời gian ≈ 0.147821200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test52: 0.00
+Thời gian ≈ 0.158299200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test53: 0.00
+Thời gian ≈ 0.213394500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test54: 0.00
+Thời gian ≈ 0.097981000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test55: 0.00
+Thời gian ≈ 0.159857500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test56: 0.00
+Thời gian ≈ 0.163969900 giây
+Kết quả KHÁC đáp án!
+phatvo‣fly‣Test57: 2.00
+Thời gian ≈ 0.222191200 giây
+Kết quả khớp đáp án!

@@ -1,0 +1,65 @@
+ ﻿phatvo‣lyrics: 0.00
+lyrics.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "lyrics.cpp" -pipe -O2 -s -static -lm -x c++ -o"lyrics.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom54479\
+Dịch thành công.
+
+phatvo‣lyrics‣Test01: 0.00
+Thời gian ≈ 0.059350900 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test02: 0.00
+Thời gian ≈ 0.068146600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test03: 0.00
+Thời gian ≈ 0.070828200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test04: 0.00
+Thời gian ≈ 0.070640700 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test05: 0.00
+Thời gian ≈ 0.072075600 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test06: 0.00
+Thời gian ≈ 0.073718000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test07: 0.00
+Thời gian ≈ 0.086343200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test08: 0.00
+Thời gian ≈ 0.080422300 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test09: 0.00
+Thời gian ≈ 0.084448300 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test10: 0.00
+Thời gian ≈ 0.082491300 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test11: 0.00
+Thời gian ≈ 0.068064900 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test12: 0.00
+Thời gian ≈ 0.075614100 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test13: 0.00
+Thời gian ≈ 0.084500200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test14: 0.00
+Thời gian ≈ 0.071487500 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test15: 0.00
+Thời gian ≈ 0.074736800 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test16: 0.00
+Thời gian ≈ 0.092076200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test17: 0.00
+Thời gian ≈ 0.134924200 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test18: 0.00
+Thời gian ≈ 0.129587000 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test19: 0.00
+Thời gian ≈ 0.126369400 giây
+Kết quả KHÁC đáp án!
+phatvo‣lyrics‣Test20: 0.00
+Thời gian ≈ 0.127241800 giây
+Kết quả KHÁC đáp án!

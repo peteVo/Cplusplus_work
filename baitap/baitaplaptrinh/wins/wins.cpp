@@ -4,51 +4,46 @@
 
 using namespace std;
 
-struct Point {
-    int x, y;
-};
-struct Window{
-    Point a, b;
-    int index;
-}windows[1001];
-int n;
-Point ClosePoint;
-
-stack<Window> stak;
-
-bool isBlocking(Window w)
+struct Window
 {
-    return w.a.x <= ClosePoint.x &&
-           w.a.y <= ClosePoint.y &&
-           w.b.x >= ClosePoint.x &&
-           w.b.y >= ClosePoint.y;
-}
+    int x1, y1, x2, y2;
+} windows[1001];
+int n;
+bool closed[1001] = {false};
+
+stack<int> stak;
+int ans = 0;
 
 void ReadData()
 {
     cin >> n;
 
-    cin >> windows[1].a.x >> windows[1].a.y >> windows[1].b.x >> windows[1].b.y;
-    ClosePoint.x = windows[1].b.x, ClosePoint.y = windows[1].a.y;
-    windows[1].index = 1;
-    stak.push(windows[1]);
-
-    for(int i = 2; i <= n; ++i){
-        cin >> windows[i].a.x >> windows[i].a.y >> windows[i].b.x >> windows[i].b.y;
-        windows[i].index = i;
-        
-        if(isBlocking(windows[i])) stak.push(windows[i]);
+    for (int i = 1; i <= n; ++i)
+    {
+        cin >> windows[i].x1 >> windows[i].y1 >> windows[i].x2 >> windows[i].y2;
     }
 }
 
-void Solve()
+bool isOverlap(Window a, Window b) // Return true if window b overlaps a's close button
 {
-    cout << stak.size() << endl;
-    while(!stak.empty()){
-        cout << stak.top().index << " ";
-        stak.pop();
+    return b.x1 <= a.x2 &&
+           b.x2 >= a.x2 &&
+           b.y1 <= a.y1 &&
+           b.y2 >= a.y1;
+}
+
+void Solve(int i)
+{
+    for (int j = i; j <= n; ++j)
+    {
+        if (isOverlap(windows[i], windows[j]) && !closed[j])
+        {
+            ans++;
+            stak.push(j);
+            closed[j] = true;
+            Solve(j);
+        }
     }
-    cout << endl;
 }
 
 int main()
@@ -57,7 +52,14 @@ int main()
     freopen("wins.out", "w", stdout);
 
     ReadData();
-    Solve();
+    Solve(1);
+    cout << ans << endl;
+    while (!stak.empty())
+    {
+        cout << stak.top() << " ";
+        stak.pop();
+    }
+    //Debug();
 
     return 0;
 }
