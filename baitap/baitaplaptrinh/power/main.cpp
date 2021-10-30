@@ -4,15 +4,16 @@
 using namespace std;
 typedef long long ll;
 
-ll Solve(ll n)
+ll Solve(ll n, ll curpow)
 {
-    ll ans = 0;
-    while (n > 0)
+    if (n == 1)
+        return 0;
+    if (n > curpow)
     {
-        ans++;
-        n /= 2;
+        return 1 + Solve(n - curpow, curpow * 2);
     }
-    return ans;
+    else
+        return 1 + Solve(n - 1, curpow);
 }
 
 int main()
@@ -22,7 +23,7 @@ int main()
 
     ll n = 0;
     cin >> n;
-    cout << Solve(n);
+    cout << Solve(n, 1);
 
     return 0;
 }
