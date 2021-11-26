@@ -1,0 +1,180 @@
+ ﻿phatvo‣race: 0.00
+race.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "race.cpp" -pipe -O2 -s -static -lm -x c++ -o"race.exe" -Wl,--stack,66060288|@WorkDir=d:\ProgramData\ThemisWorkSpace\WaitRoom29422\
+Dịch thành công.
+
+phatvo‣race‣Test01: 0.00
+Thời gian ≈ 0.082644200 giây
+Tien thuong: 
++ Dap An: 293240
++ Tra loi: 293240
++ Ket qua kiem tra: 155960
+Loi giai khong toi uu!
+phatvo‣race‣Test02: 0.00
+Thời gian ≈ 0.085414800 giây
+Tien thuong: 
++ Dap An: 867458
++ Tra loi: 867458
++ Ket qua kiem tra: 339557
+Loi giai khong toi uu!
+phatvo‣race‣Test03: 0.00
+Thời gian ≈ 0.098833000 giây
+Tien thuong: 
++ Dap An: 4452586
++ Tra loi: 4452586
++ Ket qua kiem tra: 1460842
+Loi giai khong toi uu!
+phatvo‣race‣Test04: 0.00
+Thời gian ≈ 0.106260900 giây
+Tien thuong: 
++ Dap An: 8664917
++ Tra loi: 8664917
++ Ket qua kiem tra: 3199311
+Loi giai khong toi uu!
+phatvo‣race‣Test05: 0.00
+Thời gian ≈ 0.141045600 giây
+Tien thuong: 
++ Dap An: 27937773
++ Tra loi: 27937773
++ Ket qua kiem tra: 9324603
+Loi giai khong toi uu!
+phatvo‣race‣Test06: 0.00
+Thời gian ≈ 0.154160900 giây
+Tien thuong: 
++ Dap An: 35314213
++ Tra loi: 35314213
++ Ket qua kiem tra: 9791687
+Loi giai khong toi uu!
+phatvo‣race‣Test07: 0.00
+Thời gian ≈ 0.184741600 giây
+Tien thuong: 
++ Dap An: 53790203
++ Tra loi: 53790203
++ Ket qua kiem tra: 15460950
+Loi giai khong toi uu!
+phatvo‣race‣Test08: 0.00
+Thời gian ≈ 0.199733900 giây
+Tien thuong: 
++ Dap An: 64840999
++ Tra loi: 64840999
++ Ket qua kiem tra: 22668857
+Loi giai khong toi uu!
+phatvo‣race‣Test09: 0.00
+Thời gian ≈ 0.264956300 giây
+Tien thuong: 
++ Dap An: 115840244
++ Tra loi: 115840244
++ Ket qua kiem tra: 35594880
+Loi giai khong toi uu!
+phatvo‣race‣Test10: 0.00
+Thời gian ≈ 0.287252100 giây
+Tien thuong: 
++ Dap An: 136102946
++ Tra loi: 136102946
++ Ket qua kiem tra: 42896681
+Loi giai khong toi uu!
+phatvo‣race‣Test11: 0.00
+Thời gian ≈ 0.353655700 giây
+Tien thuong: 
++ Dap An: 161869933
++ Tra loi: 161869933
++ Ket qua kiem tra: 53190321
+Loi giai khong toi uu!
+phatvo‣race‣Test12: 0.00
+Thời gian ≈ 0.354497500 giây
+Tien thuong: 
++ Dap An: 182073046
++ Tra loi: 182073046
++ Ket qua kiem tra: 55570996
+Loi giai khong toi uu!
+phatvo‣race‣Test13: 0.00
+Thời gian ≈ 0.440115500 giây
+Tien thuong: 
++ Dap An: 219398628
++ Tra loi: 219398628
++ Ket qua kiem tra: 66084538
+Loi giai khong toi uu!
+phatvo‣race‣Test14: 0.00
+Thời gian ≈ 0.413021200 giây
+Tien thuong: 
++ Dap An: 235811541
++ Tra loi: 235811541
++ Ket qua kiem tra: 68333004
+Loi giai khong toi uu!
+phatvo‣race‣Test15: 0.00
+Thời gian ≈ 0.447727700 giây
+Tien thuong: 
++ Dap An: 284210521
++ Tra loi: 284210521
++ Ket qua kiem tra: 93339401
+Loi giai khong toi uu!
+phatvo‣race‣Test16: 0.00
+Thời gian ≈ 0.460677700 giây
+Tien thuong: 
++ Dap An: 296033764
++ Tra loi: 296033764
++ Ket qua kiem tra: 95031586
+Loi giai khong toi uu!
+phatvo‣race‣Test17: 0.00
+Thời gian ≈ 0.508072300 giây
+Tien thuong: 
++ Dap An: 361389738
++ Tra loi: 361389738
++ Ket qua kiem tra: 104670147
+Loi giai khong toi uu!
+phatvo‣race‣Test18: 0.00
+Thời gian ≈ 0.526285900 giây
+Tien thuong: 
++ Dap An: 399126350
++ Tra loi: 399126350
++ Ket qua kiem tra: 124396815
+Loi giai khong toi uu!
+phatvo‣race‣Test19: 0.00
+Thời gian ≈ 0.596148400 giây
+Tien thuong: 
++ Dap An: 447321508
++ Tra loi: 447321508
++ Ket qua kiem tra: 134377571
+Loi giai khong toi uu!
+phatvo‣race‣Test20: 0.00
+Thời gian ≈ 0.622228700 giây
+Tien thuong: 
++ Dap An: 481613528
++ Tra loi: 481613528
++ Ket qua kiem tra: 141844274
+Loi giai khong toi uu!
+phatvo‣race‣Test21: 0.00
+Thời gian ≈ 0.708745400 giây
+Tien thuong: 
++ Dap An: 555789363
++ Tra loi: 555789363
++ Ket qua kiem tra: 178492159
+Loi giai khong toi uu!
+phatvo‣race‣Test22: 0.00
+Thời gian ≈ 0.700471900 giây
+Tien thuong: 
++ Dap An: 559153292
++ Tra loi: 559153292
++ Ket qua kiem tra: 168347715
+Loi giai khong toi uu!
+phatvo‣race‣Test23: 0.00
+Thời gian ≈ 0.677813900 giây
+Tien thuong: 
++ Dap An: 553643938
++ Tra loi: 553643938
++ Ket qua kiem tra: 170440459
+Loi giai khong toi uu!
+phatvo‣race‣Test24: 0.00
+Thời gian ≈ 0.684396200 giây
+Tien thuong: 
++ Dap An: 559004813
++ Tra loi: 559004813
++ Ket qua kiem tra: 171196142
+Loi giai khong toi uu!
+phatvo‣race‣Test25: 0.00
+Thời gian ≈ 0.681008300 giây
+Tien thuong: 
++ Dap An: 556061664
++ Tra loi: 556061664
++ Ket qua kiem tra: 167379694
+Loi giai khong toi uu!

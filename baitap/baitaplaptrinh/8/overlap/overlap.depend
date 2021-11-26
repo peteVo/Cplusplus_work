@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636721378 source:d:\it_related_files\baitap\baitaplaptrinh\overlap\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+	<vector>
+

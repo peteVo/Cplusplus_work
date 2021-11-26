@@ -1,0 +1,125 @@
+ ﻿phatvo‣light: 17.50
+light.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "light.cpp" -pipe -O2 -s -static -lm -x c++ -o"light.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom28248\
+Dịch thành công.
+
+phatvo‣light‣Test01: 0.00
+Thời gian ≈ 0.062878200 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test02: 0.00
+Thời gian ≈ 0.078241200 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test03: 2.50
+Thời gian ≈ 0.060902100 giây
+Kết quả khớp đáp án!
+phatvo‣light‣Test04: 2.50
+Thời gian ≈ 0.059800900 giây
+Kết quả khớp đáp án!
+phatvo‣light‣Test05: 0.00
+Thời gian ≈ 0.062108300 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test06: 0.00
+Thời gian ≈ 0.060590400 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test07: 0.00
+Thời gian ≈ 0.060022200 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test08: 0.00
+Thời gian ≈ 0.057850400 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test09: 0.00
+Thời gian ≈ 0.061863100 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test10: 2.50
+Thời gian ≈ 0.060350300 giây
+Kết quả khớp đáp án!
+phatvo‣light‣Test11: 0.00
+Thời gian ≈ 0.059437300 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test12: 0.00
+Thời gian ≈ 0.057090700 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test13: 0.00
+Thời gian ≈ 0.061927800 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test14: 2.50
+Thời gian ≈ 0.060001900 giây
+Kết quả khớp đáp án!
+phatvo‣light‣Test15: 0.00
+Thời gian ≈ 0.059426100 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test16: 0.00
+Thời gian ≈ 0.058613500 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test17: 0.00
+Thời gian ≈ 0.059411400 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test18: 2.50
+Thời gian ≈ 0.060497300 giây
+Kết quả khớp đáp án!
+phatvo‣light‣Test19: 0.00
+Thời gian ≈ 0.057398400 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test20: 0.00
+Thời gian ≈ 0.061797500 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test21: 0.00
+Thời gian ≈ 0.061793600 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test22: 0.00
+Thời gian ≈ 0.064532700 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test23: 0.00
+Thời gian ≈ 0.065060100 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test24: 0.00
+Thời gian ≈ 0.060900500 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test25: 2.50
+Thời gian ≈ 0.066800000 giây
+Kết quả khớp đáp án!
+phatvo‣light‣Test26: 0.00
+Thời gian ≈ 0.061680300 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test27: 0.00
+Thời gian ≈ 0.060940200 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test28: 0.00
+Thời gian ≈ 0.063215400 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test29: 0.00
+Thời gian ≈ 0.068244700 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test30: 0.00
+Thời gian ≈ 0.060954400 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test31: 0.00
+Thời gian ≈ 0.060286700 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test32: 0.00
+Thời gian ≈ 0.060677600 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test33: 0.00
+Thời gian ≈ 0.059163200 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test34: 0.00
+Thời gian ≈ 0.062545400 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test35: 0.00
+Thời gian ≈ 0.062338900 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test36: 0.00
+Thời gian ≈ 0.056014500 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test37: 0.00
+Thời gian ≈ 0.059441800 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test38: 0.00
+Thời gian ≈ 0.082921100 giây
+Kết quả KHÁC đáp án!
+phatvo‣light‣Test39: 2.50
+Thời gian ≈ 0.064952700 giây
+Kết quả khớp đáp án!
+phatvo‣light‣Test40: 0.00
+Thời gian ≈ 0.058791000 giây
+Kết quả KHÁC đáp án!

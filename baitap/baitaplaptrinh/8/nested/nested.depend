@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636722595 source:d:\it_related_files\baitap\baitaplaptrinh\nested\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	<vector>
+

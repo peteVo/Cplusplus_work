@@ -1,0 +1,65 @@
+ ﻿phatvo‣cointower: 90.00
+cointower.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cointower.cpp" -pipe -O2 -s -static -lm -x c++ -o"cointower.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom37760\
+Dịch thành công.
+
+phatvo‣cointower‣Test01: 5.00
+Thời gian ≈ 0.066958700 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test02: 0.00
+Thời gian ≈ 0.067028800 giây
+Kết quả KHÁC đáp án!
+phatvo‣cointower‣Test03: 5.00
+Thời gian ≈ 0.074549600 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test04: 5.00
+Thời gian ≈ 0.066834900 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test05: 5.00
+Thời gian ≈ 0.080055200 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test06: 5.00
+Thời gian ≈ 0.069260600 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test07: 5.00
+Thời gian ≈ 0.085512200 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test08: 5.00
+Thời gian ≈ 0.068463000 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test09: 5.00
+Thời gian ≈ 0.078382000 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test10: 5.00
+Thời gian ≈ 0.067363200 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test11: 5.00
+Thời gian ≈ 0.078433700 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test12: 5.00
+Thời gian ≈ 0.067857900 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test13: 5.00
+Thời gian ≈ 0.081146100 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test14: 5.00
+Thời gian ≈ 0.091170900 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test15: 5.00
+Thời gian ≈ 0.064928600 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test16: 0.00
+Thời gian ≈ 0.078762200 giây
+Kết quả KHÁC đáp án!
+phatvo‣cointower‣Test17: 5.00
+Thời gian ≈ 0.066233400 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test18: 5.00
+Thời gian ≈ 0.081972800 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test19: 5.00
+Thời gian ≈ 0.068793600 giây
+Kết quả khớp đáp án!
+phatvo‣cointower‣Test20: 5.00
+Thời gian ≈ 0.074036200 giây
+Kết quả khớp đáp án!

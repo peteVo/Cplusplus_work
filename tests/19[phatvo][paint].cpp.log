@@ -1,0 +1,35 @@
+ ﻿phatvo‣paint: 100.00
+paint.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "paint.cpp" -pipe -O2 -s -static -lm -x c++ -o"paint.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom38427\
+Dịch thành công.
+
+phatvo‣paint‣paint0: 10.00
+Thời gian ≈ 0.074458800 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint1: 10.00
+Thời gian ≈ 0.090119100 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint2: 10.00
+Thời gian ≈ 0.081572000 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint3: 10.00
+Thời gian ≈ 0.382005700 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint4: 10.00
+Thời gian ≈ 0.470996800 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint5: 10.00
+Thời gian ≈ 0.559818000 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint6: 10.00
+Thời gian ≈ 0.624782400 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint7: 10.00
+Thời gian ≈ 0.718034400 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint8: 10.00
+Thời gian ≈ 0.787199800 giây
+Kết quả khớp đáp án!
+phatvo‣paint‣paint9: 10.00
+Thời gian ≈ 0.854959900 giây
+Kết quả khớp đáp án!

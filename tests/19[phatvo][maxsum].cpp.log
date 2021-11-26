@@ -1,0 +1,34 @@
+ ﻿phatvo‣maxsum: 90.00
+maxsum.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "maxsum.cpp" -pipe -O2 -s -static -lm -x c++ -o"maxsum.exe" -Wl,--stack,66060288|@WorkDir=d:\ProgramData\ThemisWorkSpace\WaitRoom18455\
+Dịch thành công.
+
+phatvo‣maxsum‣Test01: 10.00
+Thời gian ≈ 0.063639800 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test02: 10.00
+Thời gian ≈ 0.062532700 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test03: 10.00
+Thời gian ≈ 0.062209200 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test04: 10.00
+Thời gian ≈ 0.061561200 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test05: 10.00
+Thời gian ≈ 0.076972600 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test06: 10.00
+Thời gian ≈ 0.218986800 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test07: 10.00
+Thời gian ≈ 0.341719500 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test08: 10.00
+Thời gian ≈ 0.673558600 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test09: 10.00
+Thời gian ≈ 0.882150400 giây
+Kết quả khớp đáp án!
+phatvo‣maxsum‣Test10: 0.00
+Chạy quá thời gian

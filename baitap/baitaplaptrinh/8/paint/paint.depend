@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636117227 source:d:\it_related_files\baitap\baitaplaptrinh\paint\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

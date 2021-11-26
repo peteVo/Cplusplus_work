@@ -1,0 +1,255 @@
+ ﻿phatvo‣dinosaur: 0.00
+dinosaur.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "dinosaur.cpp" -pipe -O2 -s -static -lm -x c++ -o"dinosaur.exe" -Wl,--stack,66060288|@WorkDir=d:\ProgramData\ThemisWorkSpace\WaitRoom11141\
+Dịch thành công.
+
+phatvo‣dinosaur‣test01: 0.00
+Thời gian ≈ 0.070329000 giây
+Loi giai khong toi uu!
+Ket qua: 4
+Dap an: 4
+phatvo‣dinosaur‣test02: 0.00
+Thời gian ≈ 0.066900800 giây
+Loi giai khong toi uu!
+Ket qua: 7
+Dap an: 7
+phatvo‣dinosaur‣test03: 0.00
+Thời gian ≈ 0.071488200 giây
+Loi giai khong toi uu!
+Ket qua: 8
+Dap an: 8
+phatvo‣dinosaur‣test04: 0.00
+Thời gian ≈ 0.068637600 giây
+Loi giai khong toi uu!
+Ket qua: 13
+Dap an: 13
+phatvo‣dinosaur‣test05: 0.00
+Thời gian ≈ 0.065355400 giây
+Loi giai khong toi uu!
+Ket qua: 13
+Dap an: 13
+phatvo‣dinosaur‣test06: 0.00
+Thời gian ≈ 0.067502600 giây
+Loi giai khong toi uu!
+Ket qua: 11
+Dap an: 11
+phatvo‣dinosaur‣test07: 0.00
+Thời gian ≈ 0.069862600 giây
+Loi giai khong toi uu!
+Ket qua: 14
+Dap an: 14
+phatvo‣dinosaur‣test08: 0.00
+Thời gian ≈ 0.068270900 giây
+Loi giai khong toi uu!
+Ket qua: 13
+Dap an: 13
+phatvo‣dinosaur‣test09: 0.00
+Thời gian ≈ 0.067811400 giây
+Loi giai khong toi uu!
+Ket qua: 15
+Dap an: 15
+phatvo‣dinosaur‣test10: 0.00
+Thời gian ≈ 0.071483000 giây
+Loi giai khong toi uu!
+Ket qua: 16
+Dap an: 16
+phatvo‣dinosaur‣test11: 0.00
+Thời gian ≈ 0.070998700 giây
+Loi giai khong toi uu!
+Ket qua: 20
+Dap an: 20
+phatvo‣dinosaur‣test12: 0.00
+Thời gian ≈ 0.070854600 giây
+Loi giai khong toi uu!
+Ket qua: 23
+Dap an: 23
+phatvo‣dinosaur‣test13: 0.00
+Thời gian ≈ 0.072831600 giây
+Loi giai khong toi uu!
+Ket qua: 24
+Dap an: 24
+phatvo‣dinosaur‣test14: 0.00
+Thời gian ≈ 0.066301200 giây
+Loi giai khong toi uu!
+Ket qua: 25
+Dap an: 25
+phatvo‣dinosaur‣test15: 0.00
+Thời gian ≈ 0.072003000 giây
+Loi giai khong toi uu!
+Ket qua: 32
+Dap an: 32
+phatvo‣dinosaur‣test16: 0.00
+Thời gian ≈ 0.075369500 giây
+Loi giai khong toi uu!
+Ket qua: 30
+Dap an: 30
+phatvo‣dinosaur‣test17: 0.00
+Thời gian ≈ 0.073590100 giây
+Loi giai khong toi uu!
+Ket qua: 30
+Dap an: 30
+phatvo‣dinosaur‣test18: 0.00
+Thời gian ≈ 0.074230600 giây
+Loi giai khong toi uu!
+Ket qua: 31
+Dap an: 31
+phatvo‣dinosaur‣test19: 0.00
+Thời gian ≈ 0.075026900 giây
+Loi giai khong toi uu!
+Ket qua: 33
+Dap an: 33
+phatvo‣dinosaur‣test20: 0.00
+Thời gian ≈ 0.089686600 giây
+Loi giai khong toi uu!
+Ket qua: 33
+Dap an: 33
+phatvo‣dinosaur‣test21: 0.00
+Thời gian ≈ 0.076402300 giây
+Loi giai khong toi uu!
+Ket qua: 34
+Dap an: 34
+phatvo‣dinosaur‣test22: 0.00
+Thời gian ≈ 0.071742100 giây
+Loi giai khong toi uu!
+Ket qua: 41
+Dap an: 41
+phatvo‣dinosaur‣test23: 0.00
+Thời gian ≈ 0.072604900 giây
+Loi giai khong toi uu!
+Ket qua: 41
+Dap an: 41
+phatvo‣dinosaur‣test24: 0.00
+Thời gian ≈ 0.078938700 giây
+Loi giai khong toi uu!
+Ket qua: 43
+Dap an: 43
+phatvo‣dinosaur‣test25: 0.00
+Thời gian ≈ 0.083895100 giây
+Loi giai khong toi uu!
+Ket qua: 47
+Dap an: 47
+phatvo‣dinosaur‣test26: 0.00
+Thời gian ≈ 0.072055200 giây
+Loi giai khong toi uu!
+Ket qua: 51
+Dap an: 51
+phatvo‣dinosaur‣test27: 0.00
+Thời gian ≈ 0.093071300 giây
+Loi giai khong toi uu!
+Ket qua: 49
+Dap an: 49
+phatvo‣dinosaur‣test28: 0.00
+Thời gian ≈ 0.088514500 giây
+Loi giai khong toi uu!
+Ket qua: 48
+Dap an: 48
+phatvo‣dinosaur‣test29: 0.00
+Thời gian ≈ 0.091850700 giây
+Loi giai khong toi uu!
+Ket qua: 51
+Dap an: 51
+phatvo‣dinosaur‣test30: 0.00
+Thời gian ≈ 0.081519600 giây
+Loi giai khong toi uu!
+Ket qua: 49
+Dap an: 49
+phatvo‣dinosaur‣test31: 0.00
+Thời gian ≈ 0.070192700 giây
+Loi giai khong toi uu!
+Ket qua: 48
+Dap an: 48
+phatvo‣dinosaur‣test32: 0.00
+Thời gian ≈ 0.085727900 giây
+Loi giai khong toi uu!
+Ket qua: 51
+Dap an: 51
+phatvo‣dinosaur‣test33: 0.00
+Thời gian ≈ 0.073601600 giây
+Loi giai khong toi uu!
+Ket qua: 52
+Dap an: 52
+phatvo‣dinosaur‣test34: 0.00
+Thời gian ≈ 0.073850500 giây
+Loi giai khong toi uu!
+Ket qua: 56
+Dap an: 56
+phatvo‣dinosaur‣test35: 0.00
+Thời gian ≈ 0.082745100 giây
+Loi giai khong toi uu!
+Ket qua: 56
+Dap an: 56
+phatvo‣dinosaur‣test36: 0.00
+Thời gian ≈ 0.079835800 giây
+Loi giai khong toi uu!
+Ket qua: 53
+Dap an: 53
+phatvo‣dinosaur‣test37: 0.00
+Thời gian ≈ 0.077794500 giây
+Loi giai khong toi uu!
+Ket qua: 55
+Dap an: 55
+phatvo‣dinosaur‣test38: 0.00
+Thời gian ≈ 0.072175400 giây
+Loi giai khong toi uu!
+Ket qua: 54
+Dap an: 54
+phatvo‣dinosaur‣test39: 0.00
+Thời gian ≈ 0.073474200 giây
+Loi giai khong toi uu!
+Ket qua: 58
+Dap an: 58
+phatvo‣dinosaur‣test40: 0.00
+Thời gian ≈ 0.080670000 giây
+Loi giai khong toi uu!
+Ket qua: 60
+Dap an: 60
+phatvo‣dinosaur‣test41: 0.00
+Thời gian ≈ 0.077761100 giây
+Loi giai khong toi uu!
+Ket qua: 58
+Dap an: 58
+phatvo‣dinosaur‣test42: 0.00
+Thời gian ≈ 0.069245200 giây
+Loi giai khong toi uu!
+Ket qua: 64
+Dap an: 64
+phatvo‣dinosaur‣test43: 0.00
+Thời gian ≈ 0.083627000 giây
+Loi giai khong toi uu!
+Ket qua: 54
+Dap an: 54
+phatvo‣dinosaur‣test44: 0.00
+Thời gian ≈ 0.078907500 giây
+Loi giai khong toi uu!
+Ket qua: 58
+Dap an: 58
+phatvo‣dinosaur‣test45: 0.00
+Thời gian ≈ 0.081599700 giây
+Loi giai khong toi uu!
+Ket qua: 59
+Dap an: 59
+phatvo‣dinosaur‣test46: 0.00
+Thời gian ≈ 0.088561400 giây
+Loi giai khong toi uu!
+Ket qua: 58
+Dap an: 58
+phatvo‣dinosaur‣test47: 0.00
+Thời gian ≈ 0.105347800 giây
+Loi giai khong toi uu!
+Ket qua: 55
+Dap an: 55
+phatvo‣dinosaur‣test48: 0.00
+Thời gian ≈ 0.084685400 giây
+Loi giai khong toi uu!
+Ket qua: 55
+Dap an: 55
+phatvo‣dinosaur‣test49: 0.00
+Thời gian ≈ 0.080532800 giây
+Loi giai khong toi uu!
+Ket qua: 59
+Dap an: 59
+phatvo‣dinosaur‣test50: 0.00
+Thời gian ≈ 0.078795700 giây
+Loi giai khong toi uu!
+Ket qua: 58
+Dap an: 58
