@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637928533 source:d:\it_related_files\baitap\baitaplaptrinh\triple\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	<map>
+

@@ -1,0 +1,125 @@
+ ﻿phatvo‣valley: 92.68
+valley.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "valley.cpp" -pipe -O2 -s -static -lm -x c++ -o"valley.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom62771\
+Dịch thành công.
+
+phatvo‣valley‣Test00: 2.40
+Thời gian ≈ 0.066982900 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test01: 2.44
+Thời gian ≈ 0.074663300 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test02: 2.44
+Thời gian ≈ 0.068298800 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test03: 2.44
+Thời gian ≈ 0.076682000 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test04: 2.44
+Thời gian ≈ 0.077493400 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test05: 2.44
+Thời gian ≈ 0.082070600 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test06: 2.44
+Thời gian ≈ 0.516833800 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test07: 2.44
+Thời gian ≈ 0.680277100 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test08: 0.00
+Chạy quá thời gian
+phatvo‣valley‣Test09: 0.00
+Chạy quá thời gian
+phatvo‣valley‣Test10: 0.00
+Chạy quá thời gian
+phatvo‣valley‣Test11: 2.44
+Thời gian ≈ 0.066357000 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test12: 2.44
+Thời gian ≈ 0.066065800 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test13: 2.44
+Thời gian ≈ 0.077503900 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test14: 2.44
+Thời gian ≈ 0.068603400 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test15: 2.44
+Thời gian ≈ 0.067380100 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test16: 2.44
+Thời gian ≈ 0.066336700 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test17: 2.44
+Thời gian ≈ 0.080908900 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test18: 2.44
+Thời gian ≈ 0.104637500 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test19: 2.44
+Thời gian ≈ 0.072491800 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test20: 2.44
+Thời gian ≈ 0.075060100 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test21: 2.44
+Thời gian ≈ 0.107641400 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test22: 2.44
+Thời gian ≈ 0.090236400 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test23: 2.44
+Thời gian ≈ 0.091140100 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test24: 2.44
+Thời gian ≈ 0.067449400 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test25: 2.44
+Thời gian ≈ 0.080980000 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test26: 2.44
+Thời gian ≈ 0.087056300 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test27: 2.44
+Thời gian ≈ 0.070691000 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test28: 2.44
+Thời gian ≈ 0.070531400 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test29: 2.44
+Thời gian ≈ 0.070156300 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test30: 2.44
+Thời gian ≈ 0.109707200 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test31: 2.44
+Thời gian ≈ 0.416483700 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test32: 2.44
+Thời gian ≈ 0.184276100 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test33: 2.44
+Thời gian ≈ 0.307770800 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test34: 2.44
+Thời gian ≈ 0.207367600 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test35: 2.44
+Thời gian ≈ 0.523832900 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test36: 2.44
+Thời gian ≈ 0.211199100 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test37: 2.44
+Thời gian ≈ 0.154009200 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test38: 2.44
+Thời gian ≈ 0.204418600 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test39: 2.44
+Thời gian ≈ 0.265252900 giây
+Kết quả khớp đáp án!
+phatvo‣valley‣Test40: 2.44
+Thời gian ≈ 0.220880600 giây
+Kết quả khớp đáp án!

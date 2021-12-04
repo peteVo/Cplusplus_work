@@ -1,0 +1,155 @@
+ ﻿phatvo‣gcdlcm: 72.00
+gcdlcm.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "gcdlcm.cpp" -pipe -O2 -s -static -lm -x c++ -o"gcdlcm.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom2184\
+Dịch thành công.
+
+phatvo‣gcdlcm‣Test01: 2.00
+Thời gian ≈ 0.097435500 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test02: 2.00
+Thời gian ≈ 0.091129800 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test03: 2.00
+Thời gian ≈ 0.088047100 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test04: 2.00
+Thời gian ≈ 0.087929000 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test05: 2.00
+Thời gian ≈ 0.085644400 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test06: 2.00
+Thời gian ≈ 0.092592600 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test07: 2.00
+Thời gian ≈ 0.087217900 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test08: 2.00
+Thời gian ≈ 0.085995700 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test09: 2.00
+Thời gian ≈ 0.085057000 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test10: 2.00
+Thời gian ≈ 0.125440400 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test11: 2.00
+Thời gian ≈ 0.098638700 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test12: 2.00
+Thời gian ≈ 0.093915200 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test13: 2.00
+Thời gian ≈ 0.095467600 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test14: 2.00
+Thời gian ≈ 0.098461000 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test15: 2.00
+Thời gian ≈ 0.095851600 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test16: 2.00
+Thời gian ≈ 0.230401000 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test17: 2.00
+Thời gian ≈ 0.107580400 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test18: 2.00
+Thời gian ≈ 0.104388000 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test19: 2.00
+Thời gian ≈ 0.105207400 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test20: 2.00
+Thời gian ≈ 0.118872600 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test21: 2.00
+Thời gian ≈ 0.122888400 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test22: 2.00
+Thời gian ≈ 0.131220100 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test23: 2.00
+Thời gian ≈ 0.149522800 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test24: 2.00
+Thời gian ≈ 0.147927400 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test25: 2.00
+Thời gian ≈ 0.146652100 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test26: 2.00
+Thời gian ≈ 0.142905200 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test27: 2.00
+Thời gian ≈ 0.153923300 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test28: 2.00
+Thời gian ≈ 0.164497300 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test29: 2.00
+Thời gian ≈ 0.164387000 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test30: 2.00
+Thời gian ≈ 0.166478700 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test31: 2.00
+Thời gian ≈ 0.214950100 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test32: 0.00
+Thời gian ≈ 0.262485300 giây
+Kết quả KHÁC đáp án!
+phatvo‣gcdlcm‣Test33: 0.00
+Thời gian ≈ 0.292371900 giây
+Kết quả KHÁC đáp án!
+phatvo‣gcdlcm‣Test34: 0.00
+Thời gian ≈ 0.323434000 giây
+Kết quả KHÁC đáp án!
+phatvo‣gcdlcm‣Test35: 0.00
+Thời gian ≈ 0.317133500 giây
+Kết quả KHÁC đáp án!
+phatvo‣gcdlcm‣Test36: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom34430\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test37: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom14308\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test38: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom22928\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test39: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom61277\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test40: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom47089\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test41: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom17984\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test42: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom16042\gcdlcm.exe" terminated with exit code: 3221225622 (Hexadecimal: C0000096)
+phatvo‣gcdlcm‣Test43: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom19495\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test44: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom3075\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test45: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom57859\gcdlcm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣gcdlcm‣Test46: 2.00
+Thời gian ≈ 0.263158600 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test47: 2.00
+Thời gian ≈ 0.271829100 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test48: 2.00
+Thời gian ≈ 0.304188000 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test49: 2.00
+Thời gian ≈ 0.311195600 giây
+Kết quả khớp đáp án!
+phatvo‣gcdlcm‣Test50: 2.00
+Thời gian ≈ 0.275560600 giây
+Kết quả khớp đáp án!

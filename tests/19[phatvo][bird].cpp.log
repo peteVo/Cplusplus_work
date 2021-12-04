@@ -1,0 +1,34 @@
+ ﻿phatvo‣bird: 60.00
+bird.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "bird.cpp" -pipe -O2 -s -static -lm -x c++ -o"bird.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom33387\
+Dịch thành công.
+
+phatvo‣bird‣Test01: 10.00
+Thời gian ≈ 0.074528500 giây
+Ket qua dung!
+phatvo‣bird‣Test02: 10.00
+Thời gian ≈ 0.066927900 giây
+Ket qua dung!
+phatvo‣bird‣Test03: 10.00
+Thời gian ≈ 0.073591500 giây
+Ket qua dung!
+phatvo‣bird‣Test04: 10.00
+Thời gian ≈ 0.080345800 giây
+Ket qua dung!
+phatvo‣bird‣Test05: 10.00
+Thời gian ≈ 0.218883700 giây
+Ket qua dung!
+phatvo‣bird‣Test06: 10.00
+Thời gian ≈ 0.418804600 giây
+Ket qua dung!
+phatvo‣bird‣Test07: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom38881\bird.exe" terminated with exit code: 3 (Hexadecimal: 3)
+phatvo‣bird‣Test08: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom8621\bird.exe" terminated with exit code: 3 (Hexadecimal: 3)
+phatvo‣bird‣Test09: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom47357\bird.exe" terminated with exit code: 3 (Hexadecimal: 3)
+phatvo‣bird‣Test10: 0.00
+Chạy quá thời gian

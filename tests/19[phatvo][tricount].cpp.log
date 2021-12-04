@@ -1,0 +1,68 @@
+ ﻿phatvo‣tricount: 86.35
+tricount.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "tricount.cpp" -pipe -O2 -s -static -lm -x c++ -o"tricount.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom24408\
+Dịch thành công.
+
+phatvo‣tricount‣Test01: 4.54
+Thời gian ≈ 0.128936100 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test02: 4.54
+Thời gian ≈ 0.126308100 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test03: 4.54
+Thời gian ≈ 0.108427800 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test04: 4.54
+Thời gian ≈ 0.090405000 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test05: 4.54
+Thời gian ≈ 0.104415800 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test06: 4.54
+Thời gian ≈ 0.090569900 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test07: 4.54
+Thời gian ≈ 0.080913800 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test08: 4.54
+Thời gian ≈ 0.130233300 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test09: 4.54
+Thời gian ≈ 0.085377100 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test10: 4.54
+Thời gian ≈ 0.124570400 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test11: 4.54
+Thời gian ≈ 0.122232000 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test12: 4.54
+Thời gian ≈ 0.121992100 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test13: 4.54
+Thời gian ≈ 0.132589000 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test14: 4.54
+Thời gian ≈ 0.276850300 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test15: 4.54
+Thời gian ≈ 0.369959100 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test16: 4.54
+Thời gian ≈ 0.370124300 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test17: 4.54
+Thời gian ≈ 0.436900600 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test18: 4.54
+Thời gian ≈ 0.693988200 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test19: 0.00
+Chạy quá thời gian
+phatvo‣tricount‣Test20: 4.54
+Thời gian ≈ 0.947172700 giây
+Kết quả khớp đáp án!
+phatvo‣tricount‣Test21: 0.00
+Chạy quá thời gian
+phatvo‣tricount‣Test22: 0.00
+Chạy quá thời gian

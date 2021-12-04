@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637913013 source:d:\it_related_files\baitap\baitaplaptrinh\telefon\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<deque>
+

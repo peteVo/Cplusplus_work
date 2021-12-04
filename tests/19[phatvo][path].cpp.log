@@ -1,0 +1,35 @@
+ ﻿phatvo‣path: 100.00
+path.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "path.cpp" -pipe -O2 -s -static -lm -x c++ -o"path.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom53224\
+Dịch thành công.
+
+phatvo‣path‣test1: 10.00
+Thời gian ≈ 0.063532000 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test10: 10.00
+Thời gian ≈ 0.073136300 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test2: 10.00
+Thời gian ≈ 0.064978600 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test3: 10.00
+Thời gian ≈ 0.091216200 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test4: 10.00
+Thời gian ≈ 0.064137700 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test5: 10.00
+Thời gian ≈ 0.070063000 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test6: 10.00
+Thời gian ≈ 0.070992200 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test7: 10.00
+Thời gian ≈ 0.062756000 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test8: 10.00
+Thời gian ≈ 0.065358900 giây
+Kết quả khớp đáp án!
+phatvo‣path‣test9: 10.00
+Thời gian ≈ 0.062145900 giây
+Kết quả khớp đáp án!

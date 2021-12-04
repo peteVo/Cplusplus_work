@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638579357 source:d:\it_related_files\baitap\baitaplaptrinh\multiple\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<set>
+

@@ -1,0 +1,155 @@
+ ﻿phatvo‣fridlist: 30.00
+fridlist.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "fridlist.cpp" -pipe -O2 -s -static -lm -x c++ -o"fridlist.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom12851\
+Dịch thành công.
+
+phatvo‣fridlist‣Test01: 0.00
+Thời gian ≈ 0.072993100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test02: 0.00
+Thời gian ≈ 0.079258300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test03: 2.00
+Thời gian ≈ 0.071046100 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test04: 2.00
+Thời gian ≈ 0.073906900 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test05: 0.00
+Thời gian ≈ 0.087284500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test06: 0.00
+Thời gian ≈ 0.089583100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test07: 0.00
+Thời gian ≈ 0.094840800 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test08: 0.00
+Thời gian ≈ 0.079912600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test09: 2.00
+Thời gian ≈ 0.078826800 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test10: 0.00
+Thời gian ≈ 0.073475800 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test11: 0.00
+Thời gian ≈ 0.074094900 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test12: 0.00
+Thời gian ≈ 0.064244700 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test13: 2.00
+Thời gian ≈ 0.077341500 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test14: 2.00
+Thời gian ≈ 0.075414700 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test15: 0.00
+Thời gian ≈ 0.063168500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test16: 0.00
+Thời gian ≈ 0.066418700 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test17: 0.00
+Thời gian ≈ 0.073038100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test18: 0.00
+Thời gian ≈ 0.074514500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test19: 2.00
+Thời gian ≈ 0.071445900 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test20: 0.00
+Thời gian ≈ 0.063285100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test21: 0.00
+Thời gian ≈ 0.071116000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test22: 0.00
+Thời gian ≈ 0.074624200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test23: 2.00
+Thời gian ≈ 0.066232400 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test24: 2.00
+Thời gian ≈ 0.061130100 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test25: 0.00
+Thời gian ≈ 0.066703500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test26: 0.00
+Thời gian ≈ 0.073218400 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test27: 0.00
+Thời gian ≈ 0.139491200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test28: 0.00
+Thời gian ≈ 0.062468300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test29: 2.00
+Thời gian ≈ 0.069072500 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test30: 0.00
+Thời gian ≈ 0.068287500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test31: 0.00
+Thời gian ≈ 0.060357700 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test32: 0.00
+Thời gian ≈ 0.074973800 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test33: 2.00
+Thời gian ≈ 0.073994600 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test34: 2.00
+Thời gian ≈ 0.083141700 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test35: 0.00
+Thời gian ≈ 0.068881300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test36: 0.00
+Thời gian ≈ 0.064342200 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test37: 0.00
+Thời gian ≈ 0.071036600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test38: 0.00
+Thời gian ≈ 0.067166000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test39: 2.00
+Thời gian ≈ 0.069543900 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test40: 0.00
+Thời gian ≈ 0.063944800 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test41: 0.00
+Thời gian ≈ 0.065429000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test42: 0.00
+Thời gian ≈ 0.064511700 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test43: 2.00
+Thời gian ≈ 0.062453000 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test44: 2.00
+Thời gian ≈ 0.074679700 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test45: 0.00
+Thời gian ≈ 0.076152000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test46: 0.00
+Thời gian ≈ 0.074968900 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test47: 0.00
+Thời gian ≈ 0.075717600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test48: 0.00
+Thời gian ≈ 0.065680500 giây
+Kết quả KHÁC đáp án!
+phatvo‣fridlist‣Test49: 2.00
+Thời gian ≈ 0.068017900 giây
+Kết quả khớp đáp án!
+phatvo‣fridlist‣Test50: 0.00
+Thời gian ≈ 0.071984300 giây
+Kết quả KHÁC đáp án!

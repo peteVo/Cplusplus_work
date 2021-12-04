@@ -61,7 +61,7 @@ bool Valid(int x, int y)
 int Solve()
 {
     int ans = 1e8;
-    for(int i = 0, lena = a.size(); i < lenb; ++i){
+    for(int i = 0, lena = a.size(); i < lena; ++i){
         for(int j = 0, lenb = b.size(); j < lenb; ++j){
             ans = min(ans, (int)abs(b[j].first - a[i].first) + (int)abs(b[j].second - a[i].second) - 1);
         }
