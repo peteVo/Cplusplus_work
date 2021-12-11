@@ -1,0 +1,39 @@
+ ﻿phatvo‣checkrect: 80.00
+checkrect.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "checkrect.cpp" -pipe -O2 -s -static -lm -x c++ -o"checkrect.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom36241\
+checkrect.cpp: In function 'll CheckRect()':
+checkrect.cpp:37:10: warning: control reaches end of non-void function [-Wreturn-type]
+     check(a[1], a[2], a[3], a[0]);
+     ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+Dịch thành công.
+
+phatvo‣checkrect‣Test01: 10.00
+Thời gian ≈ 0.082661800 giây
+Kết quả khớp đáp án!
+phatvo‣checkrect‣Test02: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom17951\checkrect.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣checkrect‣Test03: 10.00
+Thời gian ≈ 0.073813800 giây
+Kết quả khớp đáp án!
+phatvo‣checkrect‣Test04: 10.00
+Thời gian ≈ 0.074260500 giây
+Kết quả khớp đáp án!
+phatvo‣checkrect‣Test05: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom52264\checkrect.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣checkrect‣Test06: 10.00
+Thời gian ≈ 0.068805600 giây
+Kết quả khớp đáp án!
+phatvo‣checkrect‣Test07: 10.00
+Thời gian ≈ 0.070131700 giây
+Kết quả khớp đáp án!
+phatvo‣checkrect‣Test08: 10.00
+Thời gian ≈ 0.078812700 giây
+Kết quả khớp đáp án!
+phatvo‣checkrect‣Test09: 10.00
+Thời gian ≈ 0.080156500 giây
+Kết quả khớp đáp án!
+phatvo‣checkrect‣Test10: 10.00
+Thời gian ≈ 0.070847200 giây
+Kết quả khớp đáp án!

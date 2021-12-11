@@ -1,155 +1,155 @@
- ﻿phatvo‣nosimple: 50.00
+ ﻿phatvo‣nosimple: 76.00
 nosimple.cpp
-"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "nosimple.cpp" -pipe -O2 -s -static -lm -x c++ -o"nosimple.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom35116\
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "nosimple.cpp" -pipe -O2 -s -static -lm -x c++ -o"nosimple.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom27102\
 Dịch thành công.
 
-phatvo‣nosimple‣Test01: 0.00
-Thời gian ≈ 0.064709600 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test01: 2.00
+Thời gian ≈ 0.062342600 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test02: 2.00
-Thời gian ≈ 0.061447400 giây
+Thời gian ≈ 0.063281300 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test03: 2.00
-Thời gian ≈ 0.059325100 giây
+Thời gian ≈ 0.060834700 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test04: 2.00
-Thời gian ≈ 0.060952400 giây
+Thời gian ≈ 0.064127100 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test05: 0.00
-Thời gian ≈ 0.060625800 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test05: 2.00
+Thời gian ≈ 0.061669900 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test06: 2.00
-Thời gian ≈ 0.062919300 giây
+Thời gian ≈ 0.062896300 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test07: 0.00
-Thời gian ≈ 0.060901600 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test07: 2.00
+Thời gian ≈ 0.060942800 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test08: 2.00
-Thời gian ≈ 0.064913600 giây
+Thời gian ≈ 0.062532700 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test09: 2.00
-Thời gian ≈ 0.064561000 giây
+Thời gian ≈ 0.065939400 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test10: 2.00
-Thời gian ≈ 0.061599400 giây
+Thời gian ≈ 0.063773100 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test11: 2.00
-Thời gian ≈ 0.061129900 giây
+Thời gian ≈ 0.063052300 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test12: 0.00
-Thời gian ≈ 0.061843200 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test12: 2.00
+Thời gian ≈ 0.064863300 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test13: 2.00
-Thời gian ≈ 0.056669800 giây
+Thời gian ≈ 0.064702600 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test14: 2.00
-Thời gian ≈ 0.060504500 giây
+Thời gian ≈ 0.065771200 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test15: 2.00
-Thời gian ≈ 0.067063900 giây
+Thời gian ≈ 0.068522900 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test16: 0.00
-Thời gian ≈ 0.064205900 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test16: 2.00
+Thời gian ≈ 0.073954700 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test17: 2.00
-Thời gian ≈ 0.066124500 giây
+Thời gian ≈ 0.077887600 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test18: 0.00
-Thời gian ≈ 0.069493400 giây
-Kết quả KHÁC đáp án!
-phatvo‣nosimple‣Test19: 0.00
-Thời gian ≈ 0.070932900 giây
-Kết quả KHÁC đáp án!
-phatvo‣nosimple‣Test20: 0.00
-Thời gian ≈ 0.066948400 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test18: 2.00
+Thời gian ≈ 0.078624100 giây
+Kết quả khớp đáp án!
+phatvo‣nosimple‣Test19: 2.00
+Thời gian ≈ 0.078280700 giây
+Kết quả khớp đáp án!
+phatvo‣nosimple‣Test20: 2.00
+Thời gian ≈ 0.072334100 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test21: 2.00
-Thời gian ≈ 0.064412000 giây
+Thời gian ≈ 0.075654000 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test22: 0.00
-Thời gian ≈ 0.071356400 giây
+Thời gian ≈ 0.077460200 giây
 Kết quả KHÁC đáp án!
 phatvo‣nosimple‣Test23: 2.00
-Thời gian ≈ 0.065208400 giây
+Thời gian ≈ 0.078319000 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test24: 2.00
-Thời gian ≈ 0.067548300 giây
+Thời gian ≈ 0.072215100 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test25: 2.00
-Thời gian ≈ 0.065980300 giây
+Thời gian ≈ 0.077688600 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test26: 0.00
-Thời gian ≈ 0.071136800 giây
+Thời gian ≈ 0.075156600 giây
 Kết quả KHÁC đáp án!
 phatvo‣nosimple‣Test27: 0.00
-Thời gian ≈ 0.066138700 giây
+Thời gian ≈ 0.069753100 giây
 Kết quả KHÁC đáp án!
 phatvo‣nosimple‣Test28: 0.00
 Chạy sinh lỗi
-Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom30826\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom30610\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
 phatvo‣nosimple‣Test29: 0.00
 Chạy sinh lỗi
-Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom60102\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom35893\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
 phatvo‣nosimple‣Test30: 0.00
 Chạy sinh lỗi
-Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom46974\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom61613\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
 phatvo‣nosimple‣Test31: 2.00
-Thời gian ≈ 0.062452500 giây
+Thời gian ≈ 0.071954100 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test32: 0.00
-Thời gian ≈ 0.065546300 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test32: 2.00
+Thời gian ≈ 0.065110800 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test33: 2.00
-Thời gian ≈ 0.059128400 giây
+Thời gian ≈ 0.069817800 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test34: 2.00
-Thời gian ≈ 0.063003700 giây
+Thời gian ≈ 0.071178500 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test35: 2.00
-Thời gian ≈ 0.062809500 giây
+Thời gian ≈ 0.089090300 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test36: 0.00
-Thời gian ≈ 0.065804200 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test36: 2.00
+Thời gian ≈ 0.076978600 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test37: 2.00
-Thời gian ≈ 0.075495500 giây
+Thời gian ≈ 0.066835500 giây
 Kết quả khớp đáp án!
-phatvo‣nosimple‣Test38: 0.00
-Thời gian ≈ 0.072396300 giây
-Kết quả KHÁC đáp án!
-phatvo‣nosimple‣Test39: 0.00
-Thời gian ≈ 0.067247100 giây
-Kết quả KHÁC đáp án!
-phatvo‣nosimple‣Test40: 0.00
-Thời gian ≈ 0.065470200 giây
-Kết quả KHÁC đáp án!
+phatvo‣nosimple‣Test38: 2.00
+Thời gian ≈ 0.091984900 giây
+Kết quả khớp đáp án!
+phatvo‣nosimple‣Test39: 2.00
+Thời gian ≈ 0.078332000 giây
+Kết quả khớp đáp án!
+phatvo‣nosimple‣Test40: 2.00
+Thời gian ≈ 0.075002400 giây
+Kết quả khớp đáp án!
 phatvo‣nosimple‣Test41: 2.00
-Thời gian ≈ 0.066150500 giây
+Thời gian ≈ 0.067827700 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test42: 0.00
-Thời gian ≈ 0.066868000 giây
+Thời gian ≈ 0.077558000 giây
 Kết quả KHÁC đáp án!
 phatvo‣nosimple‣Test43: 2.00
-Thời gian ≈ 0.062345300 giây
+Thời gian ≈ 0.071293100 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test44: 2.00
-Thời gian ≈ 0.079544500 giây
+Thời gian ≈ 0.096187800 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test45: 2.00
-Thời gian ≈ 0.067896900 giây
+Thời gian ≈ 0.075866900 giây
 Kết quả khớp đáp án!
 phatvo‣nosimple‣Test46: 0.00
-Thời gian ≈ 0.065359000 giây
+Thời gian ≈ 0.072630500 giây
 Kết quả KHÁC đáp án!
 phatvo‣nosimple‣Test47: 0.00
-Thời gian ≈ 0.068181700 giây
+Thời gian ≈ 0.070572600 giây
 Kết quả KHÁC đáp án!
 phatvo‣nosimple‣Test48: 0.00
 Chạy sinh lỗi
-Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom19652\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom2658\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
 phatvo‣nosimple‣Test49: 0.00
 Chạy sinh lỗi
-Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom37551\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom31344\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
 phatvo‣nosimple‣Test50: 0.00
 Chạy sinh lỗi
-Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom30854\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom27498\nosimple.exe" terminated with exit code: 3221225620 (Hexadecimal: C0000094)

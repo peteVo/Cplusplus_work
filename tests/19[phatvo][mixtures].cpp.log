@@ -1,0 +1,65 @@
+ ﻿phatvo‣mixtures: 0.00
+mixtures.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "mixtures.cpp" -pipe -O2 -s -static -lm -x c++ -o"mixtures.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom2491\
+Dịch thành công.
+
+phatvo‣mixtures‣Test01: 0.00
+Thời gian ≈ 0.064308300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test02: 0.00
+Thời gian ≈ 0.071927100 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test03: 0.00
+Thời gian ≈ 0.066337200 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test04: 0.00
+Thời gian ≈ 0.069876200 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test05: 0.00
+Thời gian ≈ 0.059861700 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test06: 0.00
+Thời gian ≈ 0.065718800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test07: 0.00
+Thời gian ≈ 0.067251500 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test08: 0.00
+Thời gian ≈ 0.065737600 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test09: 0.00
+Thời gian ≈ 0.065684900 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test10: 0.00
+Thời gian ≈ 0.068021400 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test11: 0.00
+Thời gian ≈ 0.076155100 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test12: 0.00
+Thời gian ≈ 0.068213900 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test13: 0.00
+Thời gian ≈ 0.070218800 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test14: 0.00
+Thời gian ≈ 0.062261300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test15: 0.00
+Thời gian ≈ 0.070615100 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test16: 0.00
+Thời gian ≈ 0.070345600 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test17: 0.00
+Thời gian ≈ 0.069263300 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test18: 0.00
+Thời gian ≈ 0.072352600 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test19: 0.00
+Thời gian ≈ 0.075151400 giây
+Kết quả KHÁC đáp án!
+phatvo‣mixtures‣Test20: 0.00
+Thời gian ≈ 0.064853800 giây
+Kết quả KHÁC đáp án!

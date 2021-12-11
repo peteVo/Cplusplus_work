@@ -1,0 +1,120 @@
+ ﻿phatvo‣convexhull: 10.00
+convexhull.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "convexhull.cpp" -pipe -O2 -s -static -lm -x c++ -o"convexhull.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom859\
+Dịch thành công.
+
+phatvo‣convexhull‣Test01: 2.50
+Thời gian ≈ 0.102981900 giây
+Kết quả khớp đáp án!
+phatvo‣convexhull‣Test02: 2.50
+Thời gian ≈ 0.068046300 giây
+Kết quả khớp đáp án!
+phatvo‣convexhull‣Test03: 0.00
+Thời gian ≈ 0.079393500 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test04: 2.50
+Thời gian ≈ 0.076787300 giây
+Kết quả khớp đáp án!
+phatvo‣convexhull‣Test05: 2.50
+Thời gian ≈ 0.079834400 giây
+Kết quả khớp đáp án!
+phatvo‣convexhull‣Test06: 0.00
+Thời gian ≈ 0.100686100 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test07: 0.00
+Thời gian ≈ 0.939342600 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test08: 0.00
+Thời gian ≈ 0.812866400 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test09: 0.00
+Chạy quá thời gian
+phatvo‣convexhull‣Test10: 0.00
+Chạy quá thời gian
+phatvo‣convexhull‣Test11: 0.00
+Thời gian ≈ 0.078020300 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test12: 0.00
+Thời gian ≈ 0.073438500 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test13: 0.00
+Thời gian ≈ 0.071965700 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test14: 0.00
+Thời gian ≈ 0.070538800 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test15: 0.00
+Thời gian ≈ 0.072103700 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test16: 0.00
+Thời gian ≈ 0.103573000 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test17: 0.00
+Thời gian ≈ 0.099489400 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test18: 0.00
+Thời gian ≈ 0.074079300 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test19: 0.00
+Thời gian ≈ 0.071371600 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test20: 0.00
+Thời gian ≈ 0.078843100 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test21: 0.00
+Thời gian ≈ 0.092304700 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test22: 0.00
+Thời gian ≈ 0.072300000 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test23: 0.00
+Thời gian ≈ 0.074432300 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test24: 0.00
+Thời gian ≈ 0.072494200 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test25: 0.00
+Thời gian ≈ 0.075389100 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test26: 0.00
+Thời gian ≈ 0.810045900 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test27: 0.00
+Thời gian ≈ 0.221300400 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test28: 0.00
+Chạy quá thời gian
+phatvo‣convexhull‣Test29: 0.00
+Thời gian ≈ 0.244170100 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test30: 0.00
+Chạy quá thời gian
+phatvo‣convexhull‣Test31: 0.00
+Chạy quá thời gian
+phatvo‣convexhull‣Test32: 0.00
+Thời gian ≈ 0.789701000 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test33: 0.00
+Thời gian ≈ 0.187220200 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test34: 0.00
+Thời gian ≈ 0.500132100 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test35: 0.00
+Thời gian ≈ 0.555306100 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test36: 0.00
+Thời gian ≈ 0.466828000 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test37: 0.00
+Thời gian ≈ 0.673288900 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test38: 0.00
+Thời gian ≈ 0.208290300 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test39: 0.00
+Thời gian ≈ 1.009244500 giây
+Kết quả KHÁC đáp án!
+phatvo‣convexhull‣Test40: 0.00
+Thời gian ≈ 0.296892400 giây
+Kết quả KHÁC đáp án!

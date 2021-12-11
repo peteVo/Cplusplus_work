@@ -1,0 +1,56 @@
+ ﻿phatvo‣fs: 35.28
+fs.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "fs.cpp" -pipe -O2 -s -static -lm -x c++ -o"fs.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom65204\
+Dịch thành công.
+
+phatvo‣fs‣Test01: 0.00
+Thời gian ≈ 0.068397200 giây
+Ket Qua Khac Dap An!
+phatvo‣fs‣Test02: 5.88
+Thời gian ≈ 0.070152700 giây
+Ket Qua Dung!
+phatvo‣fs‣Test03: 5.88
+Thời gian ≈ 0.066518800 giây
+Ket Qua Dung!
+phatvo‣fs‣Test04: 5.88
+Thời gian ≈ 0.074298000 giây
+Ket Qua Dung!
+phatvo‣fs‣Test05: 0.00
+Thời gian ≈ 0.073051200 giây
+Ket Qua Khong Hop Le!
+phatvo‣fs‣Test06: 0.00
+Thời gian ≈ 0.065196100 giây
+Ket Qua Khong Hop Le!
+phatvo‣fs‣Test07: 0.00
+Thời gian ≈ 0.075618100 giây
+Ket Qua Khong Hop Le!
+phatvo‣fs‣Test08: 0.00
+Thời gian ≈ 0.066673000 giây
+Ket Qua Khac Dap An!
+phatvo‣fs‣Test09: 5.88
+Thời gian ≈ 0.061139400 giây
+Ket Qua Dung!
+phatvo‣fs‣Test10: 0.00
+Thời gian ≈ 0.073357900 giây
+Ket Qua Khac Dap An!
+phatvo‣fs‣Test11: 0.00
+Thời gian ≈ 0.067296100 giây
+Ket Qua Khac Dap An!
+phatvo‣fs‣Test12: 0.00
+Thời gian ≈ 0.071314600 giây
+Ket Qua Khac Dap An!
+phatvo‣fs‣Test13: 0.00
+Thời gian ≈ 0.073799600 giây
+Ket Qua Khac Dap An!
+phatvo‣fs‣Test14: 5.88
+Thời gian ≈ 0.065086800 giây
+Ket Qua Dung!
+phatvo‣fs‣Test15: 0.00
+Thời gian ≈ 0.070254100 giây
+Ket Qua Khong Hop Le!
+phatvo‣fs‣Test16: 5.88
+Thời gian ≈ 0.063734700 giây
+Ket Qua Dung!
+phatvo‣fs‣Test17: 0.00
+Thời gian ≈ 0.067091600 giây
+Ket Qua Khac Dap An!

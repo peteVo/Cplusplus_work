@@ -2,31 +2,31 @@
 #include <cstdio>
 
 using namespace std;
-typedef long long ll;
+typedef unsigned long long ull;
 
-ll c;
+ull c;
 
-ll add(ll a, ll b)
+ull add(ull a, ull b)
 {
-    if(b == 0) return a;
-    ll t = add(a, b/2) % c;
-    if(b % 2 == 0) return t + b/2;
-    else return t + b/2 + 1;
+    if(b == 0) return a % c;
+    ull t = add(a, b/2) % c;
+    if(b % 2 == 0) return (t + b/2) % c;
+    else return (t + b/2 + 1) % c;
 }
 
-ll mul(ll a, ll b)
+ull mul(ull a, ull b)
 {
     if(b == 0) return 0;
-    ll t = mul(a, b/2) % c;
+    ull t = mul(a, b/2) % c;
     t = add(t, t);
     if(b % 2 == 0) return t;
     else return add(t, a);
 }
 
-ll power(ll a, ll b)
+ull power(ull a, ull b)
 {
     if(b == 0) return 1 % c;
-    ll t = power(a, b/2) % c;
+    ull t = power(a, b/2) % c;
     t = mul(t, t);
     if(b % 2 == 0) return t;
     return mul(t, a);
@@ -37,7 +37,7 @@ int main()
     freopen("nosimple.inp", "r", stdin);
     freopen("nosimple.out", "w", stdout);
 
-    ll a, b;
+    ull a, b;
     cin >> a >> b >> c;
     cout << power(a, b);
 

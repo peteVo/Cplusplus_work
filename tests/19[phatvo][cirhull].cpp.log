@@ -1,0 +1,155 @@
+ ﻿phatvo‣cirhull: 82.00
+cirhull.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cirhull.cpp" -pipe -O2 -s -static -lm -x c++ -o"cirhull.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom45627\
+Dịch thành công.
+
+phatvo‣cirhull‣Test01: 2.00
+Thời gian ≈ 0.076653500 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test02: 2.00
+Thời gian ≈ 0.073910900 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test03: 2.00
+Thời gian ≈ 0.072749500 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test04: 2.00
+Thời gian ≈ 0.074523300 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test05: 0.00
+Thời gian ≈ 0.076227200 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test06: 2.00
+Thời gian ≈ 0.078587600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test07: 0.00
+Thời gian ≈ 0.070664300 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test08: 2.00
+Thời gian ≈ 0.077107200 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test09: 2.00
+Thời gian ≈ 0.077731800 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test10: 0.00
+Thời gian ≈ 0.083960700 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test11: 2.00
+Thời gian ≈ 0.068374100 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test12: 2.00
+Thời gian ≈ 0.072310800 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test13: 0.00
+Thời gian ≈ 0.065428000 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test14: 2.00
+Thời gian ≈ 0.068779800 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test15: 2.00
+Thời gian ≈ 0.077772400 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test16: 0.00
+Thời gian ≈ 0.067242300 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test17: 2.00
+Thời gian ≈ 0.075491000 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test18: 2.00
+Thời gian ≈ 0.073693700 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test19: 2.00
+Thời gian ≈ 0.070213600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test20: 2.00
+Thời gian ≈ 0.067247500 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test21: 0.00
+Thời gian ≈ 0.065221500 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test22: 2.00
+Thời gian ≈ 0.082408300 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test23: 2.00
+Thời gian ≈ 0.067813000 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test24: 2.00
+Thời gian ≈ 0.107849300 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test25: 2.00
+Thời gian ≈ 0.083042100 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test26: 2.00
+Thời gian ≈ 0.079884900 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test27: 2.00
+Thời gian ≈ 0.076253600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test28: 2.00
+Thời gian ≈ 0.070279700 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test29: 0.00
+Thời gian ≈ 0.075618700 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test30: 2.00
+Thời gian ≈ 0.077230700 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test31: 2.00
+Thời gian ≈ 0.081283600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test32: 2.00
+Thời gian ≈ 0.077826300 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test33: 2.00
+Thời gian ≈ 0.070046400 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test34: 0.00
+Thời gian ≈ 0.073545000 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test35: 2.00
+Thời gian ≈ 0.075861700 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test36: 2.00
+Thời gian ≈ 0.098800000 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test37: 2.00
+Thời gian ≈ 0.083866300 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test38: 2.00
+Thời gian ≈ 0.075158600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test39: 2.00
+Thời gian ≈ 0.075404600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test40: 2.00
+Thời gian ≈ 0.072017000 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test41: 2.00
+Thời gian ≈ 0.076177300 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test42: 2.00
+Thời gian ≈ 0.066586600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test43: 2.00
+Thời gian ≈ 0.080051900 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test44: 2.00
+Thời gian ≈ 0.069185400 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test45: 2.00
+Thời gian ≈ 0.083950700 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test46: 2.00
+Thời gian ≈ 0.071410600 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test47: 0.00
+Thời gian ≈ 0.073215700 giây
+Kết quả KHÁC đáp án!
+phatvo‣cirhull‣Test48: 2.00
+Thời gian ≈ 0.067472100 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test49: 2.00
+Thời gian ≈ 0.081771300 giây
+Kết quả khớp đáp án!
+phatvo‣cirhull‣Test50: 2.00
+Thời gian ≈ 0.082585300 giây
+Kết quả khớp đáp án!
