@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1639639260 source:d:\it_related_files\baitap\baitaplaptrinh\cirhull\main.cpp
+	<iostream>
+	<cstdio>
+	<iomanip>
+	<cmath>
+	<vector>
+
+1639748221 source:d:\it_related_files\baitap\baitaplaptrinh\9\cirhull\main.cpp
+	<iostream>
+	<cstdio>
+	<iomanip>
+	<cmath>
+	<vector>
+

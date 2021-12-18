@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="envel.inp" />
+		<Unit filename="envel.out" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

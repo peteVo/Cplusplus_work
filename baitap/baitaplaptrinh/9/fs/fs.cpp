@@ -31,7 +31,7 @@ int main()
     cout << "0 0" << endl;
     cout << ans.first << " " << ans.second << endl;
     cout << ans.first - ans.second << " " << ans.second + ans.first << endl;
-    cout << -ans.second << " " << -ans.first << endl;
+    cout << -ans.second << " " << ans.first << endl;
 
 
     return 0;

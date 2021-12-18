@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1639212408 source:d:\it_related_files\baitap\baitaplaptrinh\convexhull\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<vector>
+	<algorithm>
+	<set>
+	<iomanip>
+
+1639212932 source:d:\it_related_files\baitap\baitaplaptrinh\9\convexhull\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<vector>
+	<algorithm>
+	<set>
+	<iomanip>
+
