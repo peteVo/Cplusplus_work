@@ -1,0 +1,294 @@
+ ﻿phatvo‣kbased: 89.00
+kbased.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "kbased.cpp" -pipe -O2 -s -static -lm -x c++ -o"kbased.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom41109\
+Dịch thành công.
+
+phatvo‣kbased‣test001: 1.00
+Thời gian ≈ 0.076188400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test002: 1.00
+Thời gian ≈ 0.065120400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test003: 1.00
+Thời gian ≈ 0.068905800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test004: 1.00
+Thời gian ≈ 0.066910400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test005: 1.00
+Thời gian ≈ 0.065822200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test006: 1.00
+Thời gian ≈ 0.063103400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test007: 1.00
+Thời gian ≈ 0.068123500 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test008: 1.00
+Thời gian ≈ 0.060825800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test009: 1.00
+Thời gian ≈ 0.072526800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test010: 1.00
+Thời gian ≈ 0.061403100 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test011: 1.00
+Thời gian ≈ 0.086672800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test012: 1.00
+Thời gian ≈ 0.078020700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test013: 1.00
+Thời gian ≈ 0.083893900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test014: 1.00
+Thời gian ≈ 0.091196900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test015: 1.00
+Thời gian ≈ 0.107984500 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test016: 1.00
+Thời gian ≈ 0.105894600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test017: 1.00
+Thời gian ≈ 0.106221600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test018: 1.00
+Thời gian ≈ 0.111019300 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test019: 1.00
+Thời gian ≈ 0.080392100 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test020: 1.00
+Thời gian ≈ 0.087506000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test021: 1.00
+Thời gian ≈ 0.088359700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test022: 1.00
+Thời gian ≈ 0.121780600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test023: 1.00
+Thời gian ≈ 0.132600200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test024: 1.00
+Thời gian ≈ 0.128946300 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test025: 1.00
+Thời gian ≈ 0.119236100 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test026: 1.00
+Thời gian ≈ 0.139628100 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test027: 1.00
+Thời gian ≈ 0.141614100 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test028: 1.00
+Thời gian ≈ 0.130896500 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test029: 1.00
+Thời gian ≈ 0.122922200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test030: 1.00
+Thời gian ≈ 0.153042400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test031: 1.00
+Thời gian ≈ 0.123586300 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test032: 1.00
+Thời gian ≈ 0.122797500 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test033: 1.00
+Thời gian ≈ 0.128525900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test034: 1.00
+Thời gian ≈ 0.131972400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test035: 1.00
+Thời gian ≈ 0.097197600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test036: 1.00
+Thời gian ≈ 0.096229600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test037: 1.00
+Thời gian ≈ 0.301155900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test038: 1.00
+Thời gian ≈ 0.090158400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test039: 1.00
+Thời gian ≈ 0.332682900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test040: 1.00
+Thời gian ≈ 0.099333900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test041: 1.00
+Thời gian ≈ 0.100433800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test042: 1.00
+Thời gian ≈ 0.098303800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test043: 1.00
+Thời gian ≈ 0.109509500 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test044: 1.00
+Thời gian ≈ 0.591441200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test045: 1.00
+Thời gian ≈ 0.252112700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test046: 1.00
+Thời gian ≈ 0.113946400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test047: 1.00
+Thời gian ≈ 0.367294900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test048: 1.00
+Thời gian ≈ 0.171608900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test049: 1.00
+Thời gian ≈ 0.158102700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test050: 1.00
+Thời gian ≈ 0.117772000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test051: 1.00
+Thời gian ≈ 0.392586100 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test052: 1.00
+Thời gian ≈ 0.187780800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test053: 1.00
+Thời gian ≈ 0.265222600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test054: 1.00
+Thời gian ≈ 0.596783000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test055: 1.00
+Thời gian ≈ 0.356210700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test056: 1.00
+Thời gian ≈ 0.235092700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test057: 1.00
+Thời gian ≈ 0.379629900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test058: 1.00
+Thời gian ≈ 0.520070600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test059: 1.00
+Thời gian ≈ 0.352336700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test060: 1.00
+Thời gian ≈ 0.294356300 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test061: 1.00
+Thời gian ≈ 0.159160900 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test062: 1.00
+Thời gian ≈ 0.234658800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test063: 1.00
+Thời gian ≈ 0.360823400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test064: 1.00
+Thời gian ≈ 0.501212400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test065: 1.00
+Thời gian ≈ 0.318094500 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test066: 1.00
+Thời gian ≈ 0.447955600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test067: 1.00
+Thời gian ≈ 0.305057700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test068: 1.00
+Thời gian ≈ 0.425780700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test069: 1.00
+Thời gian ≈ 0.298305200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test070: 1.00
+Thời gian ≈ 0.322834000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test071: 1.00
+Thời gian ≈ 0.230679200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test072: 1.00
+Thời gian ≈ 0.171345000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test073: 1.00
+Thời gian ≈ 0.647168200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test074: 1.00
+Thời gian ≈ 0.182793000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test075: 1.00
+Thời gian ≈ 0.945943800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test076: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test077: 1.00
+Thời gian ≈ 0.314632400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test078: 1.00
+Thời gian ≈ 0.322790300 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test079: 1.00
+Thời gian ≈ 0.885615300 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test080: 1.00
+Thời gian ≈ 0.457924700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test081: 1.00
+Thời gian ≈ 0.986327200 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test082: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test083: 1.00
+Thời gian ≈ 0.869372400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test084: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test085: 1.00
+Thời gian ≈ 0.976081000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test086: 1.00
+Thời gian ≈ 0.535246500 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test087: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test088: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test089: 1.00
+Thời gian ≈ 0.827720700 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test090: 1.00
+Thời gian ≈ 0.600350600 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test091: 1.00
+Thời gian ≈ 0.868752300 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test092: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test093: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test094: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test095: 1.00
+Thời gian ≈ 0.933339000 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test096: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test097: 1.00
+Thời gian ≈ 0.791059400 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test098: 0.00
+Chạy quá thời gian
+phatvo‣kbased‣test099: 1.00
+Thời gian ≈ 0.892923800 giây
+Kết quả khớp đáp án!
+phatvo‣kbased‣test100: 0.00
+Chạy quá thời gian

@@ -1,0 +1,38 @@
+ ﻿phatvo‣gene: 90.90
+gene.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "gene.cpp" -pipe -O2 -s -static -lm -x c++ -o"gene.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom18444\
+Dịch thành công.
+
+phatvo‣gene‣Test01: 9.00
+Thời gian ≈ 0.072189100 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test02: 9.10
+Thời gian ≈ 0.077628900 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test03: 0.00
+Thời gian ≈ 0.084233100 giây
+Kết quả KHÁC đáp án!
+phatvo‣gene‣Test04: 9.10
+Thời gian ≈ 0.071136200 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test05: 9.10
+Thời gian ≈ 0.082224700 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test06: 9.10
+Thời gian ≈ 0.082432000 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test07: 9.10
+Thời gian ≈ 0.094719300 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test08: 9.10
+Thời gian ≈ 0.096832700 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test09: 9.10
+Thời gian ≈ 0.116534000 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test10: 9.10
+Thời gian ≈ 0.116970000 giây
+Kết quả khớp đáp án!
+phatvo‣gene‣Test11: 9.10
+Thời gian ≈ 0.116794400 giây
+Kết quả khớp đáp án!

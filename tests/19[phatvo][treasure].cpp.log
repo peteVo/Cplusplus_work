@@ -1,0 +1,155 @@
+ ﻿phatvo‣treasure: 44.00
+treasure.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "treasure.cpp" -pipe -O2 -s -static -lm -x c++ -o"treasure.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom61438\
+Dịch thành công.
+
+phatvo‣treasure‣test01: 2.00
+Thời gian ≈ 0.085233600 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test02: 2.00
+Thời gian ≈ 0.070207500 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test03: 2.00
+Thời gian ≈ 0.078032900 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test04: 2.00
+Thời gian ≈ 0.085033800 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test05: 2.00
+Thời gian ≈ 0.068828900 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test06: 2.00
+Thời gian ≈ 0.078735900 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test07: 2.00
+Thời gian ≈ 0.069745400 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test08: 2.00
+Thời gian ≈ 0.080462400 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test09: 2.00
+Thời gian ≈ 0.090281400 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test10: 2.00
+Thời gian ≈ 0.069718100 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test11: 2.00
+Thời gian ≈ 0.071718900 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test12: 2.00
+Thời gian ≈ 0.069398700 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test13: 2.00
+Thời gian ≈ 0.081456100 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test14: 2.00
+Thời gian ≈ 0.076495500 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test15: 2.00
+Thời gian ≈ 0.075072300 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test16: 2.00
+Thời gian ≈ 0.073599200 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test17: 2.00
+Thời gian ≈ 0.078645100 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test18: 2.00
+Thời gian ≈ 0.080971700 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test19: 2.00
+Thời gian ≈ 0.090243500 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test20: 2.00
+Thời gian ≈ 0.084527600 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test21: 2.00
+Thời gian ≈ 0.097456200 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test22: 0.00
+Thời gian ≈ 0.101449100 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test23: 2.00
+Thời gian ≈ 0.111140200 giây
+Kết quả khớp đáp án!
+phatvo‣treasure‣test24: 0.00
+Thời gian ≈ 0.131778800 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test25: 0.00
+Thời gian ≈ 0.160325600 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test26: 0.00
+Thời gian ≈ 0.276514800 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test27: 0.00
+Thời gian ≈ 0.326031100 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test28: 0.00
+Thời gian ≈ 0.362322900 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test29: 0.00
+Thời gian ≈ 0.389047300 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test30: 0.00
+Thời gian ≈ 0.432405300 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test31: 0.00
+Thời gian ≈ 0.459171900 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test32: 0.00
+Thời gian ≈ 0.461206800 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test33: 0.00
+Thời gian ≈ 0.462171500 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test34: 0.00
+Thời gian ≈ 0.454706600 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test35: 0.00
+Thời gian ≈ 0.447676600 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test36: 0.00
+Thời gian ≈ 0.446281900 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test37: 0.00
+Thời gian ≈ 0.440645100 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test38: 0.00
+Thời gian ≈ 0.454173800 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test39: 0.00
+Thời gian ≈ 0.458318700 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test40: 0.00
+Thời gian ≈ 0.460370700 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test41: 0.00
+Thời gian ≈ 0.464023200 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test42: 0.00
+Thời gian ≈ 0.471161100 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test43: 0.00
+Thời gian ≈ 0.460344700 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test44: 0.00
+Thời gian ≈ 0.472128500 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test45: 0.00
+Thời gian ≈ 0.463283000 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test46: 0.00
+Thời gian ≈ 0.461971600 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test47: 0.00
+Thời gian ≈ 0.483283500 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test48: 0.00
+Thời gian ≈ 0.476678200 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test49: 0.00
+Thời gian ≈ 0.507752900 giây
+Kết quả KHÁC đáp án!
+phatvo‣treasure‣test50: 0.00
+Thời gian ≈ 0.468314300 giây
+Kết quả KHÁC đáp án!
