@@ -1,0 +1,61 @@
+ ﻿phatvo‣ando: 66.67
+ando.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "ando.cpp" -pipe -O2 -s -static -lm -x c++ -o"ando.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom27266\
+Dịch thành công.
+
+phatvo‣ando‣Test01: 4.76
+Thời gian ≈ 0.076736800 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test02: 4.76
+Thời gian ≈ 0.094458100 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test03: 4.76
+Thời gian ≈ 0.078543800 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test04: 4.76
+Thời gian ≈ 0.146347700 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test05: 4.76
+Thời gian ≈ 0.179423900 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test06: 4.76
+Thời gian ≈ 0.094306800 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test07: 4.76
+Thời gian ≈ 0.126092400 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test08: 4.76
+Thời gian ≈ 0.089251600 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test09: 4.76
+Thời gian ≈ 0.090433300 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test10: 4.76
+Thời gian ≈ 0.119862700 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test11: 4.76
+Thời gian ≈ 0.368841600 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test12: 0.00
+Chạy quá thời gian
+phatvo‣ando‣Test13: 4.76
+Thời gian ≈ 0.108529700 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test14: 4.76
+Thời gian ≈ 0.112990900 giây
+Kết quả khớp đáp án!
+phatvo‣ando‣Test15: 0.00
+Chạy quá thời gian
+phatvo‣ando‣Test16: 0.00
+Chạy quá thời gian
+phatvo‣ando‣Test17: 0.00
+Chạy quá thời gian
+phatvo‣ando‣Test18: 0.00
+Chạy quá thời gian
+phatvo‣ando‣Test19: 0.00
+Chạy quá thời gian
+phatvo‣ando‣Test20: 0.00
+Chạy quá thời gian
+phatvo‣ando‣Test21: 4.76
+Thời gian ≈ 0.064913800 giây
+Kết quả khớp đáp án!

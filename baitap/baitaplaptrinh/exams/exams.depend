@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642160008 source:d:\it_related_files\baitap\baitaplaptrinh\exams\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

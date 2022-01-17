@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641616625 source:d:\it_related_files\baitap\baitaplaptrinh\minarrows\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

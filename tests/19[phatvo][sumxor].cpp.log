@@ -1,0 +1,35 @@
+ ﻿phatvo‣sumxor: 0.00
+sumxor.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "sumxor.cpp" -pipe -O2 -s -static -lm -x c++ -o"sumxor.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom51117\
+Dịch thành công.
+
+phatvo‣sumxor‣Test1: 0.00
+Thời gian ≈ 0.076635000 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test10: 0.00
+Thời gian ≈ 0.308866300 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test2: 0.00
+Thời gian ≈ 0.080994400 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test3: 0.00
+Thời gian ≈ 0.074021400 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test4: 0.00
+Thời gian ≈ 0.080802000 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test5: 0.00
+Thời gian ≈ 0.076797100 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test6: 0.00
+Thời gian ≈ 0.095952500 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test7: 0.00
+Thời gian ≈ 0.096329000 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test8: 0.00
+Thời gian ≈ 0.190834100 giây
+Kết quả KHÁC đáp án!
+phatvo‣sumxor‣Test9: 0.00
+Thời gian ≈ 0.307558500 giây
+Kết quả KHÁC đáp án!

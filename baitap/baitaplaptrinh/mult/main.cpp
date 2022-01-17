@@ -5,35 +5,41 @@
 using namespace std;
 typedef long long ll;
 
-ll base_trans(ll n, ll base)
+int base_trans(int n, int base)
 {
-    ll ans = 0;
-    ll mul = 1;
+    int ans = 0, mul = 1;
     while(n > 0){
-        ll rem = n % base;
-        if(rem > 9) return -1;
-        ans = ans + rem * mul;
-        mul *= 10, n /= base;
+        ans = ans + n % 10 * mul;
+        mul *= base, n /= 10;
     }
     return ans;
 }
 
-void Solve()
+int Solve()
 {
-    ll p, q, r; cin >> p >> q >> r;
-    ll x = r;
-    ll min_base = 2;
-    while(x > 0){
-        min_base = max(min_base, x % 10 + 1);
-        x /= 10;
+    int min_base = 0;
+    int a, b, c, temp; cin >> a >> b >> c;
+    temp = a;
+    while(temp > 0){
+        min_base = max(min_base, temp % 10 + 1);
+        temp /= 10;
+    }
+    temp = b;
+    while(temp > 0){
+        min_base = max(min_base, temp % 10 + 1);
+        temp /= 10;
+    }
+    temp = c;
+    while(temp > 0){
+        min_base = max(min_base, temp % 10 + 1);
+        temp /= 10;
     }
 
-    for(ll base = min_base; base <= 16; ++base){
-        ll num = base_trans(p * q, base);
-        if(num == r){
-            cout << base << "\n";
-        }
+    for(int base = min_base; base <= 16; ++base){
+        int x = base_trans(a, base), y = base_trans(b, base), z = base_trans(c, base);
+        if(x * y == z) return base;
     }
+    return 0;
 }
 
 int main()
@@ -43,7 +49,7 @@ int main()
     freopen("mult.inp", "r", stdin);
     freopen("mult.out", "w", stdout);
 
-    Solve();
+    cout << Solve();
 
     return 0;
 }

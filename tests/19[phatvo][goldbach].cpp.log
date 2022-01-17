@@ -1,0 +1,65 @@
+ ﻿phatvo‣goldbach: 0.00
+goldbach.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "goldbach.cpp" -pipe -O2 -s -static -lm -x c++ -o"goldbach.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom12944\
+Dịch thành công.
+
+phatvo‣goldbach‣Test01: 0.00
+Thời gian ≈ 0.129919000 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test02: 0.00
+Thời gian ≈ 0.106450500 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test03: 0.00
+Thời gian ≈ 0.086788800 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test04: 0.00
+Thời gian ≈ 0.101679300 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test05: 0.00
+Thời gian ≈ 0.095562600 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test06: 0.00
+Thời gian ≈ 0.079290000 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test07: 0.00
+Thời gian ≈ 0.073380500 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test08: 0.00
+Thời gian ≈ 0.094314300 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test09: 0.00
+Thời gian ≈ 0.107925100 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test10: 0.00
+Thời gian ≈ 0.077522000 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test11: 0.00
+Thời gian ≈ 0.078321000 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test12: 0.00
+Thời gian ≈ 0.086402800 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test13: 0.00
+Thời gian ≈ 0.083200700 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test14: 0.00
+Thời gian ≈ 0.097489800 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test15: 0.00
+Thời gian ≈ 0.094683900 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test16: 0.00
+Thời gian ≈ 0.089151300 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test17: 0.00
+Thời gian ≈ 0.082281400 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test18: 0.00
+Thời gian ≈ 0.084882100 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test19: 0.00
+Thời gian ≈ 0.101947500 giây
+Kết quả KHÁC đáp án!
+phatvo‣goldbach‣Test20: 0.00
+Thời gian ≈ 0.113690400 giây
+Kết quả KHÁC đáp án!

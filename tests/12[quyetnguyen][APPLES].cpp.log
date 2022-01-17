@@ -1,0 +1,125 @@
+ ﻿quyetnguyen‣APPLES: 95.00
+APPLES.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "APPLES.cpp" -pipe -O2 -s -static -lm -x c++ -o"APPLES.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom15374\
+Dịch thành công.
+
+quyetnguyen‣APPLES‣T01: 5.00
+Thời gian ≈ 0.086511200 giây
+n = 6
+Output: 4 3
+Checking balance: 2 vs. 2
+Correct!
+quyetnguyen‣APPLES‣T02: 5.00
+Thời gian ≈ 0.064332200 giây
+n = 10
+Output: 1 4
+Checking balance: 4 vs. 4
+Correct!
+quyetnguyen‣APPLES‣T03: 5.00
+Thời gian ≈ 0.077412000 giây
+n = 10
+Output: 1 3
+Checking balance: 4 vs. 4
+Correct!
+quyetnguyen‣APPLES‣T04: 5.00
+Thời gian ≈ 0.066859000 giây
+n = 20
+Output: 6 15
+Checking balance: 9 vs. 9
+Correct!
+quyetnguyen‣APPLES‣T05: 5.00
+Thời gian ≈ 0.075725200 giây
+n = 20
+Output: 13 14
+Checking balance: 9 vs. 9
+Correct!
+quyetnguyen‣APPLES‣T06: 0.00
+Thời gian ≈ 0.083720600 giây
+n = 600
+Output: 548 230
+Checking balance: 300 vs. 298
+Unblalanced!
+quyetnguyen‣APPLES‣T07: 5.00
+Thời gian ≈ 0.078896100 giây
+n = 700
+Output: 240 410
+Checking balance: 349 vs. 349
+Correct!
+quyetnguyen‣APPLES‣T08: 5.00
+Thời gian ≈ 0.094492600 giây
+n = 800
+Output: 650 732
+Checking balance: 399 vs. 399
+Correct!
+quyetnguyen‣APPLES‣T09: 5.00
+Thời gian ≈ 0.086822600 giây
+n = 900
+Output: 204 228
+Checking balance: 449 vs. 449
+Correct!
+quyetnguyen‣APPLES‣T10: 5.00
+Thời gian ≈ 0.090532500 giây
+n = 1000
+Output: 749 600
+Checking balance: 499 vs. 499
+Correct!
+quyetnguyen‣APPLES‣T11: 5.00
+Thời gian ≈ 0.087745300 giây
+n = 10000
+Output: 227 7435
+Checking balance: 4999 vs. 4999
+Correct!
+quyetnguyen‣APPLES‣T12: 5.00
+Thời gian ≈ 0.090031000 giây
+n = 22222
+Output: 1495 12834
+Checking balance: 11110 vs. 11110
+Correct!
+quyetnguyen‣APPLES‣T13: 5.00
+Thời gian ≈ 0.120473400 giây
+n = 30000
+Output: 7105 17293
+Checking balance: 14999 vs. 14999
+Correct!
+quyetnguyen‣APPLES‣T14: 5.00
+Thời gian ≈ 0.125642900 giây
+n = 44444
+Output: 17816 33606
+Checking balance: 22221 vs. 22221
+Correct!
+quyetnguyen‣APPLES‣T15: 5.00
+Thời gian ≈ 0.123967500 giây
+n = 50000
+Output: 41122 12338
+Checking balance: 24999 vs. 24999
+Correct!
+quyetnguyen‣APPLES‣T16: 5.00
+Thời gian ≈ 0.160792600 giây
+n = 66666
+Output: 62558 29678
+Checking balance: 33332 vs. 33332
+Correct!
+quyetnguyen‣APPLES‣T17: 5.00
+Thời gian ≈ 0.206879700 giây
+n = 70000
+Output: 31510 20810
+Checking balance: 34999 vs. 34999
+Correct!
+quyetnguyen‣APPLES‣T18: 5.00
+Thời gian ≈ 0.207747600 giây
+n = 88888
+Output: 69030 31108
+Checking balance: 44443 vs. 44443
+Correct!
+quyetnguyen‣APPLES‣T19: 5.00
+Thời gian ≈ 0.198195300 giây
+n = 90000
+Output: 9148 24208
+Checking balance: 44999 vs. 44999
+Correct!
+quyetnguyen‣APPLES‣T20: 5.00
+Thời gian ≈ 0.158143400 giây
+n = 100000
+Output: 14660 91035
+Checking balance: 49999 vs. 49999
+Correct!

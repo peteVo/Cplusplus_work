@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641559209 source:d:\it_related_files\baitap\baitaplaptrinh\funfair\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<queue>
+

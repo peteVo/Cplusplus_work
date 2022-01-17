@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642167003 source:d:\it_related_files\baitap\baitaplaptrinh\goldbach\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+

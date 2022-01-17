@@ -1,0 +1,50 @@
+ ﻿phatvo‣fraction: ℱ Dịch lỗi
+fraction.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "fraction.cpp" -pipe -O2 -s -static -lm -x c++ -o"fraction.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom58832\
+fraction.cpp: In function 'int main()':
+fraction.cpp:17:5: error: 'vector' was not declared in this scope
+     vector<bool> turn;
+     ^~~~~~
+fraction.cpp:17:5: note: 'std::vector' is defined in header '<vector>'; did you forget to '#include <vector>'?
+fraction.cpp:5:1:
++#include <vector>
+ 
+fraction.cpp:17:5:
+     vector<bool> turn;
+     ^~~~~~
+fraction.cpp:17:12: error: expected primary-expression before 'bool'
+     vector<bool> turn;
+            ^~~~
+fraction.cpp:19:17: error: 'turn' was not declared in this scope
+         if(n&1) turn.push_back(false);
+                 ^~~~
+fraction.cpp:19:17: note: suggested alternative: 'tan'
+         if(n&1) turn.push_back(false);
+                 ^~~~
+                 tan
+fraction.cpp:20:14: error: 'turn' was not declared in this scope
+         else turn.push_back(true);
+              ^~~~
+fraction.cpp:20:14: note: suggested alternative: 'tan'
+         else turn.push_back(true);
+              ^~~~
+              tan
+fraction.cpp:23:13: error: 'turn' was not declared in this scope
+     reverse(turn.begin(), turn.end());
+             ^~~~
+fraction.cpp:23:13: note: suggested alternative: 'tan'
+     reverse(turn.begin(), turn.end());
+             ^~~~
+             tan
+fraction.cpp:25:16: error: expected primary-expression before 'bool'
+     for(vector<bool>::iterator it = turn.begin(); it != turn.end(); ++it){
+                ^~~~
+fraction.cpp:25:51: error: 'it' was not declared in this scope
+     for(vector<bool>::iterator it = turn.begin(); it != turn.end(); ++it){
+                                                   ^~
+fraction.cpp:25:51: note: suggested alternative: 'int'
+     for(vector<bool>::iterator it = turn.begin(); it != turn.end(); ++it){
+                                                   ^~
+                                                   int
+Dịch lỗi!
+

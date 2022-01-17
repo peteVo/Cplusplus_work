@@ -1,0 +1,38 @@
+ ﻿phatvo‣exams: 63.63
+exams.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "exams.cpp" -pipe -O2 -s -static -lm -x c++ -o"exams.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom25893\
+Dịch thành công.
+
+phatvo‣exams‣Test01: 9.09
+Thời gian ≈ 0.069460500 giây
+Kết quả khớp đáp án!
+phatvo‣exams‣Test02: 9.09
+Thời gian ≈ 0.095868500 giây
+Kết quả khớp đáp án!
+phatvo‣exams‣Test03: 9.09
+Thời gian ≈ 0.076599700 giây
+Kết quả khớp đáp án!
+phatvo‣exams‣Test04: 9.09
+Thời gian ≈ 0.081201400 giây
+Kết quả khớp đáp án!
+phatvo‣exams‣Test05: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom30919\exams.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣exams‣Test06: 9.09
+Thời gian ≈ 0.078275500 giây
+Kết quả khớp đáp án!
+phatvo‣exams‣Test07: 9.09
+Thời gian ≈ 0.081868300 giây
+Kết quả khớp đáp án!
+phatvo‣exams‣Test08: 9.09
+Thời gian ≈ 0.142854900 giây
+Kết quả khớp đáp án!
+phatvo‣exams‣Test09: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom23737\exams.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣exams‣Test10: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom47368\exams.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣exams‣Test11: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom18099\exams.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

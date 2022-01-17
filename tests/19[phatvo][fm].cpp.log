@@ -1,0 +1,65 @@
+ ﻿phatvo‣fm: 60.00
+fm.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "fm.cpp" -pipe -O2 -s -static -lm -x c++ -o"fm.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom10536\
+Dịch thành công.
+
+phatvo‣fm‣Test01: 5.00
+Thời gian ≈ 0.072791300 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test02: 5.00
+Thời gian ≈ 0.069489500 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test03: 5.00
+Thời gian ≈ 0.074119600 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test04: 5.00
+Thời gian ≈ 0.061410400 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test05: 5.00
+Thời gian ≈ 0.070551500 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test06: 5.00
+Thời gian ≈ 0.070014400 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test07: 5.00
+Thời gian ≈ 0.070780100 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test08: 5.00
+Thời gian ≈ 0.074038200 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test09: 5.00
+Thời gian ≈ 0.070823900 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test10: 5.00
+Thời gian ≈ 0.079872700 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test11: 5.00
+Thời gian ≈ 0.096259400 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test12: 0.00
+Thời gian ≈ 0.136596600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fm‣Test13: 0.00
+Thời gian ≈ 0.138814800 giây
+Kết quả KHÁC đáp án!
+phatvo‣fm‣Test14: 0.00
+Thời gian ≈ 0.148107600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fm‣Test15: 0.00
+Thời gian ≈ 0.287948600 giây
+Kết quả KHÁC đáp án!
+phatvo‣fm‣Test16: 0.00
+Thời gian ≈ 0.246272100 giây
+Kết quả KHÁC đáp án!
+phatvo‣fm‣Test17: 0.00
+Thời gian ≈ 0.260572300 giây
+Kết quả KHÁC đáp án!
+phatvo‣fm‣Test18: 5.00
+Thời gian ≈ 0.111849200 giây
+Kết quả khớp đáp án!
+phatvo‣fm‣Test19: 0.00
+Thời gian ≈ 0.192092000 giây
+Kết quả KHÁC đáp án!
+phatvo‣fm‣Test20: 0.00
+Thời gian ≈ 0.327525200 giây
+Kết quả KHÁC đáp án!

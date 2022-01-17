@@ -1,0 +1,219 @@
+ ﻿phatvo‣lm: 82.50
+lm.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "lm.cpp" -pipe -O2 -s -static -lm -x c++ -o"lm.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom65359\
+Dịch thành công.
+
+phatvo‣lm‣Test01: 2.50
+Thời gian ≈ 0.074297300 giây
+Checking the result: 
+Answer: 20
+Output: 20
+
+phatvo‣lm‣Test02: 0.00
+Chạy quá thời gian
+phatvo‣lm‣Test03: 2.50
+Thời gian ≈ 0.084631100 giây
+Checking the result: 
+Answer: 222222222222222222
+Output: 222222222222222222
+
+phatvo‣lm‣Test04: 2.50
+Thời gian ≈ 0.071463300 giây
+Checking the result: 
+Answer: 4444
+Output: 4444
+
+phatvo‣lm‣Test05: 0.00
+Chạy quá thời gian
+phatvo‣lm‣Test06: 2.50
+Thời gian ≈ 0.112838300 giây
+Checking the result: 
+Answer: 78878877888
+Output: 78878877888
+
+phatvo‣lm‣Test07: 2.50
+Thời gian ≈ 0.185951200 giây
+Checking the result: 
+Answer: 33033300303030300
+Output: 33033300303030300
+
+phatvo‣lm‣Test08: 0.00
+Chạy quá thời gian
+phatvo‣lm‣Test09: 0.00
+Chạy quá thời gian
+phatvo‣lm‣Test10: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom37808\lm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣lm‣Test11: 2.50
+Thời gian ≈ 0.093340700 giây
+Checking the result: 
+Answer: 55
+Output: 55
+
+phatvo‣lm‣Test12: 2.50
+Thời gian ≈ 0.083604400 giây
+Checking the result: 
+Answer: 43
+Output: 43
+
+phatvo‣lm‣Test13: 2.50
+Thời gian ≈ 0.109038900 giây
+Checking the result: 
+Answer: 84
+Output: 84
+
+phatvo‣lm‣Test14: 2.50
+Thời gian ≈ 0.088572700 giây
+Checking the result: 
+Answer: 3888
+Output: 3888
+
+phatvo‣lm‣Test15: 0.00
+Chạy quá thời gian
+phatvo‣lm‣Test16: 2.50
+Thời gian ≈ 0.129119100 giây
+Checking the result: 
+Answer: 84
+Output: 84
+
+phatvo‣lm‣Test17: 2.50
+Thời gian ≈ 0.111977300 giây
+Checking the result: 
+Answer: 79
+Output: 79
+
+phatvo‣lm‣Test18: 2.50
+Thời gian ≈ 0.145159100 giây
+Checking the result: 
+Answer: 1444
+Output: 1444
+
+phatvo‣lm‣Test19: 2.50
+Thời gian ≈ 0.081857600 giây
+Checking the result: 
+Answer: 222
+Output: 222
+
+phatvo‣lm‣Test20: 2.50
+Thời gian ≈ 0.071762300 giây
+Checking the result: 
+Answer: 62
+Output: 62
+
+phatvo‣lm‣Test21: 2.50
+Thời gian ≈ 0.091932100 giây
+Checking the result: 
+Answer: 496
+Output: 496
+
+phatvo‣lm‣Test22: 2.50
+Thời gian ≈ 0.066190800 giây
+Checking the result: 
+Answer: 900
+Output: 900
+
+phatvo‣lm‣Test23: 2.50
+Thời gian ≈ 0.092041900 giây
+Checking the result: 
+Answer: 66
+Output: 66
+
+phatvo‣lm‣Test24: 2.50
+Thời gian ≈ 0.067911700 giây
+Checking the result: 
+Answer: 444
+Output: 444
+
+phatvo‣lm‣Test25: 2.50
+Thời gian ≈ 0.085157700 giây
+Checking the result: 
+Answer: 99
+Output: 99
+
+phatvo‣lm‣Test26: 2.50
+Thời gian ≈ 0.127839300 giây
+Checking the result: 
+Answer: 66216162
+Output: 66216162
+
+phatvo‣lm‣Test27: 2.50
+Thời gian ≈ 0.135007900 giây
+Checking the result: 
+Answer: 31713391
+Output: 31713391
+
+phatvo‣lm‣Test28: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom36034\lm.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣lm‣Test29: 2.50
+Thời gian ≈ 0.132006900 giây
+Checking the result: 
+Answer: 40485055
+Output: 40485055
+
+phatvo‣lm‣Test30: 2.50
+Thời gian ≈ 0.145138100 giây
+Checking the result: 
+Answer: 442747272
+Output: 442747272
+
+phatvo‣lm‣Test31: 2.50
+Thời gian ≈ 0.397847300 giây
+Checking the result: 
+Answer: 232223323232333223
+Output: 232223323232333223
+
+phatvo‣lm‣Test32: 2.50
+Thời gian ≈ 0.197646700 giây
+Checking the result: 
+Answer: 33333333633363666
+Output: 33333333633363666
+
+phatvo‣lm‣Test33: 2.50
+Thời gian ≈ 0.278879600 giây
+Checking the result: 
+Answer: 565265592
+Output: 565265592
+
+phatvo‣lm‣Test34: 2.50
+Thời gian ≈ 0.185306300 giây
+Checking the result: 
+Answer: 592099090
+Output: 592099090
+
+phatvo‣lm‣Test35: 2.50
+Thời gian ≈ 0.161633100 giây
+Checking the result: 
+Answer: 1060608861
+Output: 1060608861
+
+phatvo‣lm‣Test36: 2.50
+Thời gian ≈ 0.112052800 giây
+Checking the result: 
+Answer: 3883050
+Output: 3883050
+
+phatvo‣lm‣Test37: 2.50
+Thời gian ≈ 0.162413900 giây
+Checking the result: 
+Answer: 5113171
+Output: 5113171
+
+phatvo‣lm‣Test38: 2.50
+Thời gian ≈ 0.610151300 giây
+Checking the result: 
+Answer: 33227272737
+Output: 33227272737
+
+phatvo‣lm‣Test39: 2.50
+Thời gian ≈ 0.429577300 giây
+Checking the result: 
+Answer: 894246922
+Output: 894246922
+
+phatvo‣lm‣Test40: 2.50
+Thời gian ≈ 0.089237300 giây
+Checking the result: 
+Answer: 449198
+Output: 449198
+

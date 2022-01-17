@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640954886 source:d:\it_related_files\baitap\baitaplaptrinh\ando\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+
