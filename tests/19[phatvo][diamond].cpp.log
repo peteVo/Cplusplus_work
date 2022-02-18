@@ -1,0 +1,55 @@
+ ﻿phatvo‣diamond: 50.00
+diamond.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "diamond.cpp" -pipe -O2 -s -static -lm -x c++ -o"diamond.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom13006\
+Dịch thành công.
+
+phatvo‣diamond‣Test01: 5.00
+Thời gian ≈ 0.061255700 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test02: 5.00
+Thời gian ≈ 0.063990900 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test03: 5.00
+Thời gian ≈ 0.063011000 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test04: 5.00
+Thời gian ≈ 0.062523800 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test05: 5.00
+Thời gian ≈ 0.061988900 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test06: 5.00
+Thời gian ≈ 0.098771300 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test07: 5.00
+Thời gian ≈ 0.096025600 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test08: 5.00
+Thời gian ≈ 0.101791000 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test09: 5.00
+Thời gian ≈ 0.093293600 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test10: 5.00
+Thời gian ≈ 0.095595300 giây
+Kết quả khớp đáp án!
+phatvo‣diamond‣Test11: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test12: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test13: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test14: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test15: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test16: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test17: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test18: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test19: 0.00
+Chạy quá thời gian
+phatvo‣diamond‣Test20: 0.00
+Chạy quá thời gian

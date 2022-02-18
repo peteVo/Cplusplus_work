@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642561782 source:d:\it_related_files\baitap\baitaplaptrinh\diamond\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<cmath>
+

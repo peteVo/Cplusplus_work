@@ -1,0 +1,41 @@
+ ﻿phatvo‣expense: 75.01
+expense.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "expense.cpp" -pipe -O2 -s -static -lm -x c++ -o"expense.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom53836\
+Dịch thành công.
+
+phatvo‣expense‣Test01: 8.33
+Thời gian ≈ 0.069994100 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test02: 0.00
+Thời gian ≈ 0.074246000 giây
+Kết quả KHÁC đáp án!
+phatvo‣expense‣Test03: 8.33
+Thời gian ≈ 0.076259400 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test04: 8.33
+Thời gian ≈ 0.082286800 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test05: 0.00
+Thời gian ≈ 0.072698700 giây
+Kết quả KHÁC đáp án!
+phatvo‣expense‣Test06: 0.00
+Thời gian ≈ 0.074680500 giây
+Kết quả KHÁC đáp án!
+phatvo‣expense‣Test07: 8.33
+Thời gian ≈ 0.076054100 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test08: 8.33
+Thời gian ≈ 0.065997200 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test09: 8.33
+Thời gian ≈ 0.120078500 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test10: 8.33
+Thời gian ≈ 0.119271800 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test11: 8.33
+Thời gian ≈ 0.126282700 giây
+Kết quả khớp đáp án!
+phatvo‣expense‣Test12: 8.37
+Thời gian ≈ 0.074956800 giây
+Kết quả khớp đáp án!

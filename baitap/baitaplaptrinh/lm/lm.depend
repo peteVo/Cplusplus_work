@@ -1,8 +1,10 @@
 # depslib dependency file v1.0
-1642169305 source:d:\it_related_files\baitap\baitaplaptrinh\lm\main.cpp
+1642764414 source:d:\it_related_files\baitap\baitaplaptrinh\lm\main.cpp
 	<iostream>
 	<cstdio>
 	<algorithm>
 	<queue>
 	<set>
+	<map>
+	<stack>
 

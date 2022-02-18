@@ -1,0 +1,56 @@
+ ﻿phatvo‣coinchange: 82.36
+coinchange.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "coinchange.cpp" -pipe -O2 -s -static -lm -x c++ -o"coinchange.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom54500\
+Dịch thành công.
+
+phatvo‣coinchange‣Test01: 5.88
+Thời gian ≈ 0.090602600 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test02: 5.88
+Thời gian ≈ 0.067511700 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test03: 5.88
+Thời gian ≈ 0.080632200 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test04: 5.88
+Thời gian ≈ 0.079847100 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test05: 5.88
+Thời gian ≈ 0.072227100 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test06: 5.88
+Thời gian ≈ 0.069926000 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test07: 5.88
+Thời gian ≈ 0.065412800 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test08: 5.88
+Thời gian ≈ 0.070056500 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test09: 5.88
+Thời gian ≈ 0.069509800 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test10: 0.00
+Thời gian ≈ 0.074425200 giây
+Kết quả KHÁC đáp án!
+phatvo‣coinchange‣Test11: 0.00
+Thời gian ≈ 0.082389200 giây
+Kết quả KHÁC đáp án!
+phatvo‣coinchange‣Test12: 5.88
+Thời gian ≈ 0.077418100 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test13: 5.88
+Thời gian ≈ 0.065211800 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test14: 5.88
+Thời gian ≈ 0.064036000 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test15: 0.00
+Thời gian ≈ 0.085264300 giây
+Kết quả KHÁC đáp án!
+phatvo‣coinchange‣Test16: 5.88
+Thời gian ≈ 0.080892700 giây
+Kết quả khớp đáp án!
+phatvo‣coinchange‣Test17: 5.92
+Thời gian ≈ 0.079909400 giây
+Kết quả khớp đáp án!

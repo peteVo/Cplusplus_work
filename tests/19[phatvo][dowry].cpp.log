@@ -1,0 +1,35 @@
+ ﻿phatvo‣dowry: 90.00
+dowry.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "dowry.cpp" -pipe -O2 -s -static -lm -x c++ -o"dowry.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom49220\
+Dịch thành công.
+
+phatvo‣dowry‣Test01: 10.00
+Thời gian ≈ 0.072760800 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test02: 10.00
+Thời gian ≈ 0.071896900 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test03: 10.00
+Thời gian ≈ 0.066907200 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test04: 10.00
+Thời gian ≈ 0.721700000 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test05: 10.00
+Thời gian ≈ 0.074779900 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test06: 10.00
+Thời gian ≈ 0.075597200 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test07: 10.00
+Thời gian ≈ 0.101536600 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test08: 0.00
+Thời gian ≈ 0.297917300 giây
+Kết quả KHÁC đáp án!
+phatvo‣dowry‣Test09: 10.00
+Thời gian ≈ 2.384578400 giây
+Kết quả khớp đáp án!
+phatvo‣dowry‣Test10: 10.00
+Thời gian ≈ 0.646665600 giây
+Kết quả khớp đáp án!
