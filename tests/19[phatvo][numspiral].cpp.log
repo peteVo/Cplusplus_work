@@ -1,0 +1,11 @@
+ ﻿phatvo‣numspiral: 100.00
+numspiral.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "numspiral.cpp" -pipe -O2 -s -static -lm -x c++ -o"numspiral.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom11692\
+Dịch thành công.
+
+phatvo‣numspiral‣Test01: 50.00
+Thời gian ≈ 0.195600600 giây
+Kết quả khớp đáp án!
+phatvo‣numspiral‣Test02: 50.00
+Thời gian ≈ 0.184031300 giây
+Kết quả khớp đáp án!

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648292463 source:d:\it_related_files\baitap\baitaplaptrinh\numspiral\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

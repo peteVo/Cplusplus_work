@@ -1,0 +1,35 @@
+ ﻿phatvo‣marbles: 0.00
+marbles.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "marbles.cpp" -pipe -O2 -s -static -lm -x c++ -o"marbles.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom25922\
+Dịch thành công.
+
+phatvo‣marbles‣Test01: 0.00
+Thời gian ≈ 0.073657200 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test02: 0.00
+Thời gian ≈ 0.068068000 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test03: 0.00
+Thời gian ≈ 0.072055300 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test04: 0.00
+Thời gian ≈ 0.072214000 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test05: 0.00
+Thời gian ≈ 0.067677300 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test06: 0.00
+Thời gian ≈ 0.063535800 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test07: 0.00
+Thời gian ≈ 0.068648600 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test08: 0.00
+Thời gian ≈ 0.069650000 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test09: 0.00
+Thời gian ≈ 0.066247100 giây
+Kết quả KHÁC đáp án!
+phatvo‣marbles‣Test10: 0.00
+Thời gian ≈ 0.066800200 giây
+Kết quả KHÁC đáp án!

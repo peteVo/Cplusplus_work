@@ -1,51 +1,65 @@
- ﻿phatvo‣zeroquad: 0.00
+ ﻿phatvo‣zeroquad: 95.00
 zeroquad.cpp
-"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "zeroquad.cpp" -pipe -O2 -s -static -lm -x c++ -o"zeroquad.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom57422\
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "zeroquad.cpp" -pipe -O2 -s -static -lm -x c++ -o"zeroquad.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom45311\
 Dịch thành công.
 
-phatvo‣zeroquad‣Test01: 0.00
-Thời gian ≈ 0.046213000 giây
-Kết quả KHÁC đáp án!
-phatvo‣zeroquad‣Test02: 0.00
-Thời gian ≈ 0.049756200 giây
-Kết quả KHÁC đáp án!
-phatvo‣zeroquad‣Test03: 0.00
-Thời gian ≈ 0.051761300 giây
-Kết quả KHÁC đáp án!
-phatvo‣zeroquad‣Test04: 0.00
-Thời gian ≈ 0.057202200 giây
-Kết quả KHÁC đáp án!
-phatvo‣zeroquad‣Test05: 0.00
-Thời gian ≈ 0.101668100 giây
-Kết quả KHÁC đáp án!
-phatvo‣zeroquad‣Test06: 0.00
-Thời gian ≈ 0.185543400 giây
-Kết quả KHÁC đáp án!
-phatvo‣zeroquad‣Test07: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test08: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test09: 0.00
-Chạy quá thời gian
+phatvo‣zeroquad‣Test01: 5.00
+Thời gian ≈ 0.072975200 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test02: 5.00
+Thời gian ≈ 0.068179200 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test03: 5.00
+Thời gian ≈ 0.063744600 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test04: 5.00
+Thời gian ≈ 0.064843900 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test05: 5.00
+Thời gian ≈ 0.066480800 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test06: 5.00
+Thời gian ≈ 0.075068600 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test07: 5.00
+Thời gian ≈ 0.075113000 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test08: 5.00
+Thời gian ≈ 0.074110200 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test09: 5.00
+Thời gian ≈ 0.088568400 giây
+Kết quả khớp đáp án!
 phatvo‣zeroquad‣Test10: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test11: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test12: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test13: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test14: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test15: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test16: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test17: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test18: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test19: 0.00
-Chạy quá thời gian
-phatvo‣zeroquad‣Test20: 0.00
-Chạy quá thời gian
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom38226\zeroquad.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+phatvo‣zeroquad‣Test11: 5.00
+Thời gian ≈ 0.084449600 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test12: 5.00
+Thời gian ≈ 0.090559400 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test13: 5.00
+Thời gian ≈ 0.102826100 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test14: 5.00
+Thời gian ≈ 0.092825800 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test15: 5.00
+Thời gian ≈ 0.079275100 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test16: 5.00
+Thời gian ≈ 0.121686200 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test17: 5.00
+Thời gian ≈ 0.098510300 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test18: 5.00
+Thời gian ≈ 0.095960000 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test19: 5.00
+Thời gian ≈ 0.103693700 giây
+Kết quả khớp đáp án!
+phatvo‣zeroquad‣Test20: 5.00
+Thời gian ≈ 0.112606200 giây
+Kết quả khớp đáp án!

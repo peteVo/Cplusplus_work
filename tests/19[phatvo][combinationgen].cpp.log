@@ -1,0 +1,65 @@
+ ﻿phatvo‣combinationgen: 65.00
+combinationgen.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "combinationgen.cpp" -pipe -O2 -s -static -lm -x c++ -o"combinationgen.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom55180\
+Dịch thành công.
+
+phatvo‣combinationgen‣Test00: 5.00
+Thời gian ≈ 0.064641300 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test01: 5.00
+Thời gian ≈ 0.061115300 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test02: 5.00
+Thời gian ≈ 0.064151300 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test03: 5.00
+Thời gian ≈ 0.064063000 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test04: 5.00
+Thời gian ≈ 0.064599900 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test05: 5.00
+Thời gian ≈ 0.070011300 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test06: 5.00
+Thời gian ≈ 0.063215000 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test07: 5.00
+Thời gian ≈ 0.065403700 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test08: 5.00
+Thời gian ≈ 0.077427900 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣Test09: 5.00
+Thời gian ≈ 0.068650000 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣test10: 5.00
+Thời gian ≈ 0.062568400 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣test11: 5.00
+Thời gian ≈ 0.075040800 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣test12: 0.00
+Thời gian ≈ 0.128510200 giây
+Kết quả KHÁC đáp án!
+phatvo‣combinationgen‣test13: 5.00
+Thời gian ≈ 0.062899600 giây
+Kết quả khớp đáp án!
+phatvo‣combinationgen‣test14: 0.00
+Thời gian ≈ 0.069671500 giây
+Kết quả KHÁC đáp án!
+phatvo‣combinationgen‣test15: 0.00
+Thời gian ≈ 0.071847200 giây
+Kết quả KHÁC đáp án!
+phatvo‣combinationgen‣test16: 0.00
+Thời gian ≈ 0.068867500 giây
+Kết quả KHÁC đáp án!
+phatvo‣combinationgen‣test17: 0.00
+Thời gian ≈ 0.071124300 giây
+Kết quả KHÁC đáp án!
+phatvo‣combinationgen‣test18: 0.00
+Thời gian ≈ 0.078519300 giây
+Kết quả KHÁC đáp án!
+phatvo‣combinationgen‣test19: 0.00
+Thời gian ≈ 0.060884100 giây
+Kết quả KHÁC đáp án!

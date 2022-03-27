@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646398503 source:d:\it_related_files\baitap\baitaplaptrinh\marbles\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648304621 source:d:\it_related_files\baitap\baitaplaptrinh\numtris\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	<vector>
+

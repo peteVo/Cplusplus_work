@@ -1,0 +1,65 @@
+ ﻿phatvo‣binarygen: 45.00
+binarygen.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "binarygen.cpp" -pipe -O2 -s -static -lm -x c++ -o"binarygen.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom20703\
+Dịch thành công.
+
+phatvo‣binarygen‣Test00: 0.00
+Thời gian ≈ 0.069499600 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test01: 0.00
+Thời gian ≈ 0.066405500 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test02: 5.00
+Thời gian ≈ 0.075135100 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test03: 5.00
+Thời gian ≈ 0.072070200 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test04: 0.00
+Thời gian ≈ 0.066933100 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test05: 0.00
+Thời gian ≈ 0.068356500 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test06: 5.00
+Thời gian ≈ 0.070553900 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test07: 0.00
+Thời gian ≈ 0.062834000 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test08: 5.00
+Thời gian ≈ 0.075555600 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test09: 0.00
+Thời gian ≈ 0.066970100 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test10: 0.00
+Thời gian ≈ 0.061612200 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test11: 5.00
+Thời gian ≈ 0.073411400 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test12: 5.00
+Thời gian ≈ 0.074233000 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test13: 0.00
+Thời gian ≈ 0.061555200 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test14: 0.00
+Thời gian ≈ 0.066878000 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test15: 5.00
+Thời gian ≈ 0.082585100 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test16: 5.00
+Thời gian ≈ 0.064954300 giây
+Kết quả khớp đáp án!
+phatvo‣binarygen‣Test17: 0.00
+Thời gian ≈ 0.062447100 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test18: 0.00
+Thời gian ≈ 0.078130600 giây
+Kết quả KHÁC đáp án!
+phatvo‣binarygen‣Test19: 5.00
+Thời gian ≈ 0.061475700 giây
+Kết quả khớp đáp án!

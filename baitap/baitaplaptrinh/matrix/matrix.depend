@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646122538 source:d:\it_related_files\baitap\baitaplaptrinh\matrix\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,65 @@
+ ﻿phatvo‣cprime: 80.00
+cprime.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cprime.cpp" -pipe -O2 -s -static -lm -x c++ -o"cprime.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom63332\
+Dịch thành công.
+
+phatvo‣cprime‣Test01: 5.00
+Thời gian ≈ 0.467757200 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test02: 5.00
+Thời gian ≈ 0.459727900 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test03: 5.00
+Thời gian ≈ 0.500193000 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test04: 5.00
+Thời gian ≈ 0.459312600 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test05: 5.00
+Thời gian ≈ 0.464181800 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test06: 5.00
+Thời gian ≈ 0.467859700 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test07: 5.00
+Thời gian ≈ 0.452948100 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test08: 5.00
+Thời gian ≈ 0.484430100 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test09: 5.00
+Thời gian ≈ 0.456742300 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test10: 5.00
+Thời gian ≈ 0.566627300 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test11: 5.00
+Thời gian ≈ 0.511516300 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test12: 5.00
+Thời gian ≈ 0.524500500 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test13: 5.00
+Thời gian ≈ 0.549142800 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test14: 5.00
+Thời gian ≈ 0.582768000 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test15: 5.00
+Thời gian ≈ 0.732397100 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test16: 5.00
+Thời gian ≈ 0.566584500 giây
+Kết quả khớp đáp án!
+phatvo‣cprime‣Test17: 0.00
+Thời gian ≈ 0.572007400 giây
+Kết quả KHÁC đáp án!
+phatvo‣cprime‣Test18: 0.00
+Thời gian ≈ 0.568360500 giây
+Kết quả KHÁC đáp án!
+phatvo‣cprime‣Test19: 0.00
+Thời gian ≈ 0.583109800 giây
+Kết quả KHÁC đáp án!
+phatvo‣cprime‣Test20: 0.00
+Thời gian ≈ 0.571886400 giây
+Kết quả KHÁC đáp án!

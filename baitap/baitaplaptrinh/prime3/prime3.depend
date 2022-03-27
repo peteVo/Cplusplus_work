@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647010338 source:d:\it_related_files\baitap\baitaplaptrinh\prime3\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+	<vector>
+	<set>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642838622 source:d:\it_related_files\baitap\baitaplaptrinh\zeroquad\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+
+1645798842 source:d:\it_related_files\baitap\baitaplaptrinh\10\zeroquad\main.cpp
+	<iostream>
+	<cstdio>
+

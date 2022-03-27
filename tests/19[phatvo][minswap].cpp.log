@@ -1,0 +1,50 @@
+ ﻿phatvo‣minswap: 6.67
+minswap.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "minswap.cpp" -pipe -O2 -s -static -lm -x c++ -o"minswap.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom48439\
+Dịch thành công.
+
+phatvo‣minswap‣Test01: 0.00
+Thời gian ≈ 0.066913200 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test02: 0.00
+Thời gian ≈ 0.062300500 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test03: 0.00
+Thời gian ≈ 0.066905000 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test04: 0.00
+Thời gian ≈ 0.066596400 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test05: 0.00
+Thời gian ≈ 0.068162500 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test06: 0.00
+Thời gian ≈ 0.063785500 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test07: 0.00
+Thời gian ≈ 0.066583200 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test08: 0.00
+Thời gian ≈ 0.065806100 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test09: 0.00
+Thời gian ≈ 0.079724500 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test10: 0.00
+Thời gian ≈ 0.131475000 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test11: 0.00
+Thời gian ≈ 0.175459200 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test12: 0.00
+Thời gian ≈ 0.170651100 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test13: 0.00
+Thời gian ≈ 0.183315600 giây
+Kết quả KHÁC đáp án!
+phatvo‣minswap‣Test14: 6.67
+Thời gian ≈ 0.076751400 giây
+Kết quả khớp đáp án!
+phatvo‣minswap‣Test15: 0.00
+Thời gian ≈ 0.113046700 giây
+Kết quả KHÁC đáp án!

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1645183473 source:d:\it_related_files\baitap\baitaplaptrinh\gen\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+
+1645189295 source:d:\it_related_files\baitap\baitaplaptrinh\10\gen\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+	<set>
+	<string>
+

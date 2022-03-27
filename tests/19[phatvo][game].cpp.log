@@ -1,0 +1,339 @@
+ ﻿phatvo‣game: 62.00
+game.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "game.cpp" -pipe -O2 -s -static -lm -x c++ -o"game.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom56041\
+game.cpp:23:15: warning: integer constant is so large that it is unsigned
+     ull ans = 18446744073709551615;
+               ^~~~~~~~~~~~~~~~~~~~
+Dịch thành công.
+
+phatvo‣game‣Test01: 2.00
+Thời gian ≈ 0.074182600 giây
+Checking the result: 
+Answer: 0
+Output: 0
+
+
+phatvo‣game‣Test02: 2.00
+Thời gian ≈ 0.062374500 giây
+Checking the result: 
+Answer: 0
+Output: 0
+
+
+phatvo‣game‣Test03: 2.00
+Thời gian ≈ 0.072382200 giây
+Checking the result: 
+Answer: 1506
+Output: 1506
+
+
+phatvo‣game‣Test04: 2.00
+Thời gian ≈ 0.063164900 giây
+Checking the result: 
+Answer: 427
+Output: 427
+
+
+phatvo‣game‣Test05: 2.00
+Thời gian ≈ 0.069355400 giây
+Checking the result: 
+Answer: 2769
+Output: 2769
+
+
+phatvo‣game‣Test06: 0.00
+Thời gian ≈ 0.127579600 giây
+Checking the result: 
+Answer: 1980656317
+Output: 2142922240
+
+phatvo‣game‣Test07: 2.00
+Thời gian ≈ 0.140984500 giây
+Checking the result: 
+Answer: 38648147
+Output: 38648147
+
+
+phatvo‣game‣Test08: 2.00
+Thời gian ≈ 0.164754700 giây
+Checking the result: 
+Answer: 180027922
+Output: 180027922
+
+
+phatvo‣game‣Test09: 0.00
+Thời gian ≈ 0.147316900 giây
+Checking the result: 
+Answer: 18446744073709551614
+Output: 9223372036854775807
+
+phatvo‣game‣Test10: 0.00
+Thời gian ≈ 0.151918500 giây
+Checking the result: 
+Answer: 18446744073709551614
+Output: 9223372036854775807
+
+phatvo‣game‣Test11: 0.00
+Thời gian ≈ 0.085653400 giây
+Checking the result: 
+Answer: 41857940573
+Output: 180752168493
+
+phatvo‣game‣Test12: 2.00
+Thời gian ≈ 0.128192200 giây
+Checking the result: 
+Answer: 406814428
+Output: 406814428
+
+
+phatvo‣game‣Test13: 2.00
+Thời gian ≈ 0.143397100 giây
+Checking the result: 
+Answer: 1333264135
+Output: 1333264135
+
+
+phatvo‣game‣Test14: 0.00
+Thời gian ≈ 0.159710600 giây
+Checking the result: 
+Answer: 45298744
+Output: 99217513
+
+phatvo‣game‣Test15: 2.00
+Thời gian ≈ 0.129356600 giây
+Checking the result: 
+Answer: 270261106
+Output: 270261106
+
+
+phatvo‣game‣Test16: 2.00
+Thời gian ≈ 0.171258400 giây
+Checking the result: 
+Answer: 116296772
+Output: 116296772
+
+
+phatvo‣game‣Test17: 2.00
+Thời gian ≈ 0.111036400 giây
+Checking the result: 
+Answer: 1788743790
+Output: 1788743790
+
+
+phatvo‣game‣Test18: 2.00
+Thời gian ≈ 0.125885400 giây
+Checking the result: 
+Answer: 1090814580
+Output: 1090814580
+
+
+phatvo‣game‣Test19: 2.00
+Thời gian ≈ 0.131754400 giây
+Checking the result: 
+Answer: 115476145
+Output: 115476145
+
+
+phatvo‣game‣Test20: 0.00
+Thời gian ≈ 0.151074900 giây
+Checking the result: 
+Answer: 442276476
+Output: 782789340
+
+phatvo‣game‣Test21: 2.00
+Thời gian ≈ 0.112522600 giây
+Checking the result: 
+Answer: 4460515332
+Output: 4460515332
+
+
+phatvo‣game‣Test22: 2.00
+Thời gian ≈ 0.095432700 giây
+Checking the result: 
+Answer: 2145741842
+Output: 2145741842
+
+
+phatvo‣game‣Test23: 0.00
+Thời gian ≈ 0.122365200 giây
+Checking the result: 
+Answer: 2359931043
+Output: 2506303128
+
+phatvo‣game‣Test24: 2.00
+Thời gian ≈ 0.142370700 giây
+Checking the result: 
+Answer: 605205326
+Output: 605205326
+
+
+phatvo‣game‣Test25: 0.00
+Thời gian ≈ 0.082221300 giây
+Checking the result: 
+Answer: 8634963530
+Output: 31405157633
+
+phatvo‣game‣Test26: 0.00
+Thời gian ≈ 0.123873700 giây
+Checking the result: 
+Answer: 223710333
+Output: 393591776
+
+phatvo‣game‣Test27: 0.00
+Thời gian ≈ 0.143924400 giây
+Checking the result: 
+Answer: 1041389506
+Output: 6367712456
+
+phatvo‣game‣Test28: 2.00
+Thời gian ≈ 0.086038700 giây
+Checking the result: 
+Answer: 2606665727
+Output: 2606665727
+
+
+phatvo‣game‣Test29: 2.00
+Thời gian ≈ 0.148086100 giây
+Checking the result: 
+Answer: 264986671
+Output: 264986671
+
+
+phatvo‣game‣Test30: 0.00
+Thời gian ≈ 0.163283600 giây
+Checking the result: 
+Answer: 157322176
+Output: 630704541
+
+phatvo‣game‣Test31: 2.00
+Thời gian ≈ 0.112259700 giây
+Checking the result: 
+Answer: 944650090619
+Output: 944650090619
+
+
+phatvo‣game‣Test32: 2.00
+Thời gian ≈ 0.127712600 giây
+Checking the result: 
+Answer: 139067521
+Output: 139067521
+
+
+phatvo‣game‣Test33: 2.00
+Thời gian ≈ 0.162477700 giây
+Checking the result: 
+Answer: 171313802
+Output: 171313802
+
+
+phatvo‣game‣Test34: 0.00
+Thời gian ≈ 0.131966200 giây
+Checking the result: 
+Answer: 342303750
+Output: 2108939007
+
+phatvo‣game‣Test35: 2.00
+Thời gian ≈ 0.193281400 giây
+Checking the result: 
+Answer: 237593907
+Output: 237593907
+
+
+phatvo‣game‣Test36: 2.00
+Thời gian ≈ 0.113094200 giây
+Checking the result: 
+Answer: 151709052
+Output: 151709052
+
+
+phatvo‣game‣Test37: 2.00
+Thời gian ≈ 0.099624900 giây
+Checking the result: 
+Answer: 2004827673
+Output: 2004827673
+
+
+phatvo‣game‣Test38: 2.00
+Thời gian ≈ 0.147641300 giây
+Checking the result: 
+Answer: 169079334
+Output: 169079334
+
+
+phatvo‣game‣Test39: 0.00
+Thời gian ≈ 0.162988400 giây
+Checking the result: 
+Answer: 107130630
+Output: 979677538
+
+phatvo‣game‣Test40: 0.00
+Thời gian ≈ 0.095056600 giây
+Checking the result: 
+Answer: 1431295862
+Output: 6893255889
+
+phatvo‣game‣Test41: 2.00
+Thời gian ≈ 0.146928400 giây
+Checking the result: 
+Answer: 31793461
+Output: 31793461
+
+
+phatvo‣game‣Test42: 0.00
+Thời gian ≈ 0.133763300 giây
+Checking the result: 
+Answer: 503128140
+Output: 572829586
+
+phatvo‣game‣Test43: 0.00
+Thời gian ≈ 0.085704500 giây
+Checking the result: 
+Answer: 9203071878
+Output: 21941906284
+
+phatvo‣game‣Test44: 2.00
+Thời gian ≈ 0.087248200 giây
+Checking the result: 
+Answer: 8951680276
+Output: 8951680276
+
+
+phatvo‣game‣Test45: 0.00
+Thời gian ≈ 0.102750300 giây
+Checking the result: 
+Answer: 522594498
+Output: 2200792664
+
+phatvo‣game‣Test46: 2.00
+Thời gian ≈ 0.131659200 giây
+Checking the result: 
+Answer: 955300488
+Output: 955300488
+
+
+phatvo‣game‣Test47: 2.00
+Thời gian ≈ 0.125086100 giây
+Checking the result: 
+Answer: 395314963
+Output: 395314963
+
+
+phatvo‣game‣Test48: 0.00
+Thời gian ≈ 0.157606800 giây
+Checking the result: 
+Answer: 6391932
+Output: 11292682
+
+phatvo‣game‣Test49: 2.00
+Thời gian ≈ 0.130296800 giây
+Checking the result: 
+Answer: 669736791
+Output: 669736791
+
+
+phatvo‣game‣Test50: 0.00
+Thời gian ≈ 0.142148600 giây
+Checking the result: 
+Answer: 1710463644
+Output: 2166810394
+

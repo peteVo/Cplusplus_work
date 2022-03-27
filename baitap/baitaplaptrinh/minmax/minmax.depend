@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646124539 source:d:\it_related_files\baitap\baitaplaptrinh\minmax\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+

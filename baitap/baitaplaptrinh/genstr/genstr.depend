@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647004333 source:d:\it_related_files\baitap\baitaplaptrinh\genstr\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

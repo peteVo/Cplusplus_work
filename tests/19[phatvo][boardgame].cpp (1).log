@@ -1,0 +1,305 @@
+ ﻿phatvo‣boardgame: 80.00
+boardgame.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "boardgame.cpp" -pipe -O2 -s -static -lm -x c++ -o"boardgame.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom29140\
+Dịch thành công.
+
+phatvo‣boardgame‣Test001: 0.00
+Thời gian ≈ 0.656572300 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test002: 1.00
+Thời gian ≈ 0.660991700 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test003: 1.00
+Thời gian ≈ 0.675825400 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test004: 1.00
+Thời gian ≈ 0.631817000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test005: 1.00
+Thời gian ≈ 0.663356000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test006: 1.00
+Thời gian ≈ 0.668974100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test007: 1.00
+Thời gian ≈ 0.688665700 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test008: 1.00
+Thời gian ≈ 0.651641100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test009: 1.00
+Thời gian ≈ 0.637192500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test010: 1.00
+Thời gian ≈ 0.617918000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test011: 1.00
+Thời gian ≈ 0.718737700 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test012: 1.00
+Thời gian ≈ 0.664921900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test013: 1.00
+Thời gian ≈ 0.661859900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test014: 1.00
+Thời gian ≈ 0.697153900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test015: 1.00
+Thời gian ≈ 0.677004900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test016: 1.00
+Thời gian ≈ 0.711992900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test017: 1.00
+Thời gian ≈ 0.640911900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test018: 1.00
+Thời gian ≈ 0.693573500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test019: 1.00
+Thời gian ≈ 0.654072500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test020: 1.00
+Thời gian ≈ 0.671453600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test021: 1.00
+Thời gian ≈ 0.656623800 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test022: 1.00
+Thời gian ≈ 0.695761100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test023: 1.00
+Thời gian ≈ 0.669415900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test024: 1.00
+Thời gian ≈ 0.662091200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test025: 1.00
+Thời gian ≈ 0.721544800 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test026: 1.00
+Thời gian ≈ 0.671891300 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test027: 1.00
+Thời gian ≈ 0.669615100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test028: 1.00
+Thời gian ≈ 0.670919400 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test029: 1.00
+Thời gian ≈ 0.705856500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test030: 1.00
+Thời gian ≈ 0.688428000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test031: 1.00
+Thời gian ≈ 0.691117100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test032: 1.00
+Thời gian ≈ 0.693216300 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test033: 1.00
+Thời gian ≈ 0.667902100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test034: 1.00
+Thời gian ≈ 0.649650800 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test035: 1.00
+Thời gian ≈ 0.650326500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test036: 1.00
+Thời gian ≈ 0.727399500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test037: 1.00
+Thời gian ≈ 0.729344600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test038: 1.00
+Thời gian ≈ 0.809249000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test039: 1.00
+Thời gian ≈ 0.738909300 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test040: 1.00
+Thời gian ≈ 0.710129600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test041: 1.00
+Thời gian ≈ 0.744743600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test042: 1.00
+Thời gian ≈ 0.695593200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test043: 1.00
+Thời gian ≈ 0.732201500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test044: 1.00
+Thời gian ≈ 0.729044600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test045: 1.00
+Thời gian ≈ 0.693978400 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test046: 1.00
+Thời gian ≈ 0.696906200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test047: 1.00
+Thời gian ≈ 0.729236600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test048: 1.00
+Thời gian ≈ 0.693449700 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test049: 1.00
+Thời gian ≈ 0.700315400 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test050: 1.00
+Thời gian ≈ 0.736997200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test051: 1.00
+Thời gian ≈ 0.703750400 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test052: 1.00
+Thời gian ≈ 0.695600100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test053: 1.00
+Thời gian ≈ 0.760481700 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test054: 1.00
+Thời gian ≈ 0.691841600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test055: 1.00
+Thời gian ≈ 0.728088900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test056: 1.00
+Thời gian ≈ 0.750393900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test057: 1.00
+Thời gian ≈ 0.717405200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test058: 1.00
+Thời gian ≈ 0.731724100 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test059: 1.00
+Thời gian ≈ 0.693977000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test060: 1.00
+Thời gian ≈ 0.720648800 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test061: 1.00
+Thời gian ≈ 0.699360500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test062: 1.00
+Thời gian ≈ 0.717251500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test063: 1.00
+Thời gian ≈ 0.734067300 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test064: 1.00
+Thời gian ≈ 0.692587800 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test065: 1.00
+Thời gian ≈ 0.672689400 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test066: 1.00
+Thời gian ≈ 0.723233200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test067: 1.00
+Thời gian ≈ 0.678644000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test068: 1.00
+Thời gian ≈ 0.719406300 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test069: 1.00
+Thời gian ≈ 0.690598600 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test070: 1.00
+Thời gian ≈ 0.688647500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test071: 1.00
+Thời gian ≈ 0.675466400 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test072: 1.00
+Thời gian ≈ 0.788849900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test073: 1.00
+Thời gian ≈ 0.691809700 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test074: 1.00
+Thời gian ≈ 0.639325500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test075: 1.00
+Thời gian ≈ 0.710446900 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test076: 1.00
+Thời gian ≈ 0.915649800 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test077: 1.00
+Thời gian ≈ 0.758139700 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test078: 1.00
+Thời gian ≈ 0.712902200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test079: 1.00
+Thời gian ≈ 0.722838000 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test080: 1.00
+Thời gian ≈ 0.786514500 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test081: 0.00
+Thời gian ≈ 0.691634500 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test082: 0.00
+Thời gian ≈ 0.764132700 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test083: 0.00
+Thời gian ≈ 0.701750000 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test084: 0.00
+Thời gian ≈ 0.647184200 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test085: 0.00
+Thời gian ≈ 0.870741600 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test086: 0.00
+Thời gian ≈ 0.765731000 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test087: 0.00
+Thời gian ≈ 0.789546800 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test088: 0.00
+Thời gian ≈ 0.718671200 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test089: 0.00
+Thời gian ≈ 0.734028800 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test090: 0.00
+Thời gian ≈ 0.696542000 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test091: 1.00
+Thời gian ≈ 0.740238200 giây
+Kết quả khớp đáp án!
+phatvo‣boardgame‣Test092: 0.00
+Thời gian ≈ 0.725956500 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test093: 0.00
+Thời gian ≈ 0.718441800 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test094: 0.00
+Thời gian ≈ 0.711545600 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test095: 0.00
+Thời gian ≈ 0.718175800 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test096: 0.00
+Thời gian ≈ 0.691630500 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test097: 0.00
+Thời gian ≈ 0.682983300 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test098: 0.00
+Thời gian ≈ 0.764497400 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test099: 0.00
+Thời gian ≈ 0.672973600 giây
+Kết quả KHÁC đáp án!
+phatvo‣boardgame‣Test100: 0.00
+Thời gian ≈ 0.686347700 giây
+Kết quả KHÁC đáp án!

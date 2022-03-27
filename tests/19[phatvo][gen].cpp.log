@@ -1,35 +1,35 @@
- ﻿phatvo‣gen: 10.00
+ ﻿phatvo‣gen: 20.00
 gen.cpp
-"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "gen.cpp" -pipe -O2 -s -static -lm -x c++ -o"gen.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom50487\
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "gen.cpp" -pipe -O2 -s -static -lm -x c++ -o"gen.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom43436\
 Dịch thành công.
 
-phatvo‣gen‣Test01: 0.00
-Thời gian ≈ 0.070872100 giây
-Kết quả KHÁC đáp án!
+phatvo‣gen‣Test01: 10.00
+Thời gian ≈ 0.277271100 giây
+Kết quả khớp đáp án!
 phatvo‣gen‣Test02: 10.00
-Thời gian ≈ 0.068252400 giây
+Thời gian ≈ 0.255213600 giây
 Kết quả khớp đáp án!
 phatvo‣gen‣Test03: 0.00
-Thời gian ≈ 0.062383700 giây
+Thời gian ≈ 0.256472100 giây
 Kết quả KHÁC đáp án!
 phatvo‣gen‣Test04: 0.00
-Thời gian ≈ 0.065250500 giây
+Thời gian ≈ 0.260066700 giây
 Kết quả KHÁC đáp án!
 phatvo‣gen‣Test05: 0.00
-Thời gian ≈ 0.065735400 giây
+Thời gian ≈ 0.268662800 giây
 Kết quả KHÁC đáp án!
 phatvo‣gen‣Test06: 0.00
-Thời gian ≈ 0.065647200 giây
+Thời gian ≈ 0.260422200 giây
 Kết quả KHÁC đáp án!
 phatvo‣gen‣Test07: 0.00
-Thời gian ≈ 0.079901200 giây
+Thời gian ≈ 0.278154100 giây
 Kết quả KHÁC đáp án!
 phatvo‣gen‣Test08: 0.00
-Thời gian ≈ 0.091550200 giây
+Thời gian ≈ 0.275578300 giây
 Kết quả KHÁC đáp án!
 phatvo‣gen‣Test09: 0.00
-Thời gian ≈ 0.076175100 giây
+Thời gian ≈ 0.305181900 giây
 Kết quả KHÁC đáp án!
 phatvo‣gen‣Test10: 0.00
-Thời gian ≈ 0.071657600 giây
+Thời gian ≈ 0.286642000 giây
 Kết quả KHÁC đáp án!

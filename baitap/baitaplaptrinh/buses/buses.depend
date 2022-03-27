@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648305886 source:d:\it_related_files\baitap\baitaplaptrinh\buses\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+

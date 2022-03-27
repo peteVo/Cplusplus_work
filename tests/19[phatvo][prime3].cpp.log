@@ -1,0 +1,65 @@
+ ﻿phatvo‣prime3: 0.00
+prime3.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "prime3.cpp" -pipe -O2 -s -static -lm -x c++ -o"prime3.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom40787\
+Dịch thành công.
+
+phatvo‣prime3‣Test00: 0.00
+Thời gian ≈ 0.127781300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test01: 0.00
+Thời gian ≈ 0.091397500 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test02: 0.00
+Thời gian ≈ 0.131263000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test03: 0.00
+Thời gian ≈ 0.155610100 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test04: 0.00
+Thời gian ≈ 0.106516500 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test05: 0.00
+Thời gian ≈ 0.125414700 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test06: 0.00
+Thời gian ≈ 0.125376000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test07: 0.00
+Thời gian ≈ 0.092067500 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test08: 0.00
+Thời gian ≈ 0.104780300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test09: 0.00
+Thời gian ≈ 0.109806400 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test10: 0.00
+Thời gian ≈ 0.103253300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test11: 0.00
+Thời gian ≈ 0.064967900 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test12: 0.00
+Thời gian ≈ 0.154858400 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test13: 0.00
+Thời gian ≈ 0.152454200 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test14: 0.00
+Thời gian ≈ 0.064721300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test15: 0.00
+Thời gian ≈ 0.072842600 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test16: 0.00
+Thời gian ≈ 0.106813300 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test17: 0.00
+Thời gian ≈ 0.129930200 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test18: 0.00
+Thời gian ≈ 0.081662000 giây
+Kết quả KHÁC đáp án!
+phatvo‣prime3‣Test19: 0.00
+Thời gian ≈ 0.105185500 giây
+Kết quả KHÁC đáp án!

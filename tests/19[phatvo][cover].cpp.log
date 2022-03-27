@@ -1,0 +1,242 @@
+ ﻿phatvo‣cover: 95.00
+cover.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cover.cpp" -pipe -O2 -s -static -lm -x c++ -o"cover.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom30401\
+Dịch thành công.
+
+phatvo‣cover‣TestCOVER01: 2.50
+Thời gian ≈ 0.041894500 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER02: 2.50
+Thời gian ≈ 0.052057100 giây
+Kiểm tra số đoạn
+■ Đáp án :3
+■ Trả lời:3
+Kết quả đúng
+phatvo‣cover‣TestCOVER03: 2.50
+Thời gian ≈ 0.044166300 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER04: 2.50
+Thời gian ≈ 0.049959700 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER05: 2.50
+Thời gian ≈ 0.051468000 giây
+Kiểm tra số đoạn
+■ Đáp án :2
+■ Trả lời:2
+Kết quả đúng
+phatvo‣cover‣TestCOVER06: 2.50
+Thời gian ≈ 0.106928500 giây
+Kiểm tra số đoạn
+■ Đáp án :3538
+■ Trả lời:3538
+Kết quả đúng
+phatvo‣cover‣TestCOVER07: 2.50
+Thời gian ≈ 0.078578800 giây
+Kiểm tra số đoạn
+■ Đáp án :12308
+■ Trả lời:12308
+Kết quả đúng
+phatvo‣cover‣TestCOVER08: 0.00
+Thời gian ≈ 0.076443100 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Chỉ số không hợp lệ: 827980
+phatvo‣cover‣TestCOVER09: 0.00
+Chạy sinh lỗi
+Command: "D:\ProgramData\ThemisWorkSpace\ContestRoom55894\cover.exe" terminated with exit code: 3 (Hexadecimal: 3)
+phatvo‣cover‣TestCOVER10: 2.50
+Thời gian ≈ 0.099185400 giây
+Kiểm tra số đoạn
+■ Đáp án :1775
+■ Trả lời:1775
+Kết quả đúng
+phatvo‣cover‣TestCOVER11: 2.50
+Thời gian ≈ 0.075447200 giây
+Kiểm tra số đoạn
+■ Đáp án :245
+■ Trả lời:245
+Kết quả đúng
+phatvo‣cover‣TestCOVER12: 2.50
+Thời gian ≈ 0.095045300 giây
+Kiểm tra số đoạn
+■ Đáp án :2634
+■ Trả lời:2634
+Kết quả đúng
+phatvo‣cover‣TestCOVER13: 2.50
+Thời gian ≈ 0.082252900 giây
+Kiểm tra số đoạn
+■ Đáp án :996
+■ Trả lời:996
+Kết quả đúng
+phatvo‣cover‣TestCOVER14: 2.50
+Thời gian ≈ 0.070744300 giây
+Kiểm tra số đoạn
+■ Đáp án :696
+■ Trả lời:696
+Kết quả đúng
+phatvo‣cover‣TestCOVER15: 2.50
+Thời gian ≈ 0.052571100 giây
+Kiểm tra số đoạn
+■ Đáp án :3
+■ Trả lời:3
+Kết quả đúng
+phatvo‣cover‣TestCOVER16: 2.50
+Thời gian ≈ 0.062682500 giây
+Kiểm tra số đoạn
+■ Đáp án :1384
+■ Trả lời:1384
+Kết quả đúng
+phatvo‣cover‣TestCOVER17: 2.50
+Thời gian ≈ 0.075430300 giây
+Kiểm tra số đoạn
+■ Đáp án :8297
+■ Trả lời:8297
+Kết quả đúng
+phatvo‣cover‣TestCOVER18: 2.50
+Thời gian ≈ 0.067852800 giây
+Kiểm tra số đoạn
+■ Đáp án :4
+■ Trả lời:4
+Kết quả đúng
+phatvo‣cover‣TestCOVER19: 2.50
+Thời gian ≈ 0.089711500 giây
+Kiểm tra số đoạn
+■ Đáp án :17065
+■ Trả lời:17065
+Kết quả đúng
+phatvo‣cover‣TestCOVER20: 2.50
+Thời gian ≈ 0.062305300 giây
+Kiểm tra số đoạn
+■ Đáp án :3
+■ Trả lời:3
+Kết quả đúng
+phatvo‣cover‣TestCOVER21: 2.50
+Thời gian ≈ 0.077673400 giây
+Kiểm tra số đoạn
+■ Đáp án :2411
+■ Trả lời:2411
+Kết quả đúng
+phatvo‣cover‣TestCOVER22: 2.50
+Thời gian ≈ 0.046415700 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER23: 2.50
+Thời gian ≈ 0.082426800 giây
+Kiểm tra số đoạn
+■ Đáp án :10474
+■ Trả lời:10474
+Kết quả đúng
+phatvo‣cover‣TestCOVER24: 2.50
+Thời gian ≈ 0.063914800 giây
+Kiểm tra số đoạn
+■ Đáp án :350
+■ Trả lời:350
+Kết quả đúng
+phatvo‣cover‣TestCOVER25: 2.50
+Thời gian ≈ 0.067727900 giây
+Kiểm tra số đoạn
+■ Đáp án :2
+■ Trả lời:2
+Kết quả đúng
+phatvo‣cover‣TestCOVER26: 2.50
+Thời gian ≈ 0.074367800 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER27: 2.50
+Thời gian ≈ 0.050577100 giây
+Kiểm tra số đoạn
+■ Đáp án :100
+■ Trả lời:100
+Kết quả đúng
+phatvo‣cover‣TestCOVER28: 2.50
+Thời gian ≈ 0.081814500 giây
+Kiểm tra số đoạn
+■ Đáp án :2549
+■ Trả lời:2549
+Kết quả đúng
+phatvo‣cover‣TestCOVER29: 2.50
+Thời gian ≈ 0.047971000 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER30: 2.50
+Thời gian ≈ 0.051911600 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER31: 2.50
+Thời gian ≈ 0.052106700 giây
+Kiểm tra số đoạn
+■ Đáp án :2
+■ Trả lời:2
+Kết quả đúng
+phatvo‣cover‣TestCOVER32: 2.50
+Thời gian ≈ 0.067079200 giây
+Kiểm tra số đoạn
+■ Đáp án :3
+■ Trả lời:3
+Kết quả đúng
+phatvo‣cover‣TestCOVER33: 2.50
+Thời gian ≈ 0.067300700 giây
+Kiểm tra số đoạn
+■ Đáp án :12148
+■ Trả lời:12148
+Kết quả đúng
+phatvo‣cover‣TestCOVER34: 2.50
+Thời gian ≈ 0.055734900 giây
+Kiểm tra số đoạn
+■ Đáp án :2
+■ Trả lời:2
+Kết quả đúng
+phatvo‣cover‣TestCOVER35: 2.50
+Thời gian ≈ 0.093185100 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER36: 2.50
+Thời gian ≈ 0.075834800 giây
+Kiểm tra số đoạn
+■ Đáp án :2404
+■ Trả lời:2404
+Kết quả đúng
+phatvo‣cover‣TestCOVER37: 2.50
+Thời gian ≈ 0.051328700 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER38: 2.50
+Thời gian ≈ 0.052538500 giây
+Kiểm tra số đoạn
+■ Đáp án :3
+■ Trả lời:3
+Kết quả đúng
+phatvo‣cover‣TestCOVER39: 2.50
+Thời gian ≈ 0.085094500 giây
+Kiểm tra số đoạn
+■ Đáp án :1
+■ Trả lời:1
+Kết quả đúng
+phatvo‣cover‣TestCOVER40: 2.50
+Thời gian ≈ 0.074939300 giây
+Kiểm tra số đoạn
+■ Đáp án :10703
+■ Trả lời:10703
+Kết quả đúng

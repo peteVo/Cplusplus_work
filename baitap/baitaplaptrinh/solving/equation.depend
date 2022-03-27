@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645187507 source:d:\it_related_files\baitap\baitaplaptrinh\equation\main.cpp
+	<iostream>
+	<cstdio>
+
+1646393148 source:d:\it_related_files\baitap\baitaplaptrinh\solving\main.cpp
+	<iostream>
+	<cstdio>
+

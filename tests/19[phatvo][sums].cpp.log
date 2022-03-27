@@ -1,0 +1,65 @@
+ ﻿phatvo‣sums: 10.00
+sums.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "sums.cpp" -pipe -O2 -s -static -lm -x c++ -o"sums.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom23523\
+Dịch thành công.
+
+phatvo‣sums‣Test01: 0.00
+Thời gian ≈ 0.090392400 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test02: 5.00
+Thời gian ≈ 0.124406500 giây
+Kết quả khớp đáp án!
+phatvo‣sums‣Test03: 5.00
+Thời gian ≈ 0.119184800 giây
+Kết quả khớp đáp án!
+phatvo‣sums‣Test04: 0.00
+Thời gian ≈ 0.100914500 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test05: 0.00
+Thời gian ≈ 0.071721900 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test06: 0.00
+Thời gian ≈ 0.078744900 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test07: 0.00
+Thời gian ≈ 0.082696400 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test08: 0.00
+Thời gian ≈ 0.082293300 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test09: 0.00
+Thời gian ≈ 0.085209800 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test10: 0.00
+Thời gian ≈ 0.074891800 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test11: 0.00
+Thời gian ≈ 0.077050600 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test12: 0.00
+Thời gian ≈ 0.077656600 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test13: 0.00
+Thời gian ≈ 0.076486700 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test14: 0.00
+Thời gian ≈ 0.077495400 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test15: 0.00
+Thời gian ≈ 0.074103300 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test16: 0.00
+Thời gian ≈ 0.082694700 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test17: 0.00
+Thời gian ≈ 0.089444400 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test18: 0.00
+Thời gian ≈ 0.088306000 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test19: 0.00
+Thời gian ≈ 0.079732200 giây
+Kết quả KHÁC đáp án!
+phatvo‣sums‣Test20: 0.00
+Thời gian ≈ 0.108861800 giây
+Kết quả KHÁC đáp án!

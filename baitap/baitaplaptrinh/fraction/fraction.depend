@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1641564571 source:d:\it_related_files\baitap\baitaplaptrinh\fraction\main.cpp
+1648301043 source:d:\it_related_files\baitap\baitaplaptrinh\fraction\main.cpp
 	<iostream>
 	<cstdio>
 	<cmath>
 	<algorithm>
+	<vector>
 

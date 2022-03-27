@@ -1,0 +1,305 @@
+ ﻿phatvo‣solving: 76.00
+solving.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "solving.cpp" -pipe -O2 -s -static -lm -x c++ -o"solving.exe" -Wl,--stack,66060288|@WorkDir=D:\ProgramData\ThemisWorkSpace\WaitRoom5630\
+Dịch thành công.
+
+phatvo‣solving‣test001: 1.00
+Thời gian ≈ 0.067565100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test002: 1.00
+Thời gian ≈ 0.066719800 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test003: 1.00
+Thời gian ≈ 0.065077700 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test004: 1.00
+Thời gian ≈ 0.068269900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test005: 1.00
+Thời gian ≈ 0.064960600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test006: 0.00
+Thời gian ≈ 0.067967400 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test007: 1.00
+Thời gian ≈ 0.068644300 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test008: 1.00
+Thời gian ≈ 0.066366000 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test009: 1.00
+Thời gian ≈ 0.067092900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test010: 1.00
+Thời gian ≈ 0.061633700 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test011: 1.00
+Thời gian ≈ 0.067511400 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test012: 1.00
+Thời gian ≈ 0.063710100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test013: 1.00
+Thời gian ≈ 0.064975900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test014: 1.00
+Thời gian ≈ 0.069534600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test015: 1.00
+Thời gian ≈ 0.080375200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test016: 0.00
+Thời gian ≈ 0.062978400 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test017: 1.00
+Thời gian ≈ 0.066012600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test018: 1.00
+Thời gian ≈ 0.066635400 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test019: 1.00
+Thời gian ≈ 0.060842600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test020: 1.00
+Thời gian ≈ 0.063908700 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test021: 1.00
+Thời gian ≈ 0.062968400 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test022: 1.00
+Thời gian ≈ 0.064102500 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test023: 0.00
+Thời gian ≈ 0.067745200 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test024: 1.00
+Thời gian ≈ 0.065244300 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test025: 1.00
+Thời gian ≈ 0.066262300 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test026: 1.00
+Thời gian ≈ 0.065179600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test027: 1.00
+Thời gian ≈ 0.061821900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test028: 1.00
+Thời gian ≈ 0.065534700 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test029: 1.00
+Thời gian ≈ 0.064402100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test030: 1.00
+Thời gian ≈ 0.063053500 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test031: 1.00
+Thời gian ≈ 0.067259800 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test032: 1.00
+Thời gian ≈ 0.065913900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test033: 1.00
+Thời gian ≈ 0.061777900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test034: 1.00
+Thời gian ≈ 0.063704200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test035: 1.00
+Thời gian ≈ 0.064793600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test036: 1.00
+Thời gian ≈ 0.065572300 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test037: 1.00
+Thời gian ≈ 0.065570200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test038: 1.00
+Thời gian ≈ 0.060361700 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test039: 1.00
+Thời gian ≈ 0.065436400 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test040: 1.00
+Thời gian ≈ 0.063620100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test041: 1.00
+Thời gian ≈ 0.064863800 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test042: 1.00
+Thời gian ≈ 0.065408900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test043: 1.00
+Thời gian ≈ 0.060393500 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test044: 1.00
+Thời gian ≈ 0.061467200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test045: 1.00
+Thời gian ≈ 0.065404000 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test046: 0.00
+Thời gian ≈ 0.068347100 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test047: 1.00
+Thời gian ≈ 0.065755900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test048: 0.00
+Thời gian ≈ 0.067932900 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test049: 0.00
+Thời gian ≈ 0.067924700 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test050: 0.00
+Thời gian ≈ 0.070367600 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test051: 1.00
+Thời gian ≈ 0.064738800 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test052: 1.00
+Thời gian ≈ 0.062741600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test053: 1.00
+Thời gian ≈ 0.064883000 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test054: 1.00
+Thời gian ≈ 0.068603000 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test055: 0.00
+Thời gian ≈ 0.066569000 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test056: 1.00
+Thời gian ≈ 0.061635100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test057: 1.00
+Thời gian ≈ 0.064979700 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test058: 1.00
+Thời gian ≈ 0.062323400 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test059: 0.00
+Thời gian ≈ 0.064817500 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test060: 0.00
+Thời gian ≈ 0.061763900 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test061: 0.00
+Thời gian ≈ 0.066217800 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test062: 0.00
+Thời gian ≈ 0.067945700 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test063: 1.00
+Thời gian ≈ 0.065249200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test064: 0.00
+Thời gian ≈ 0.068970500 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test065: 1.00
+Thời gian ≈ 0.066347200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test066: 1.00
+Thời gian ≈ 0.064733100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test067: 1.00
+Thời gian ≈ 0.062464100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test068: 1.00
+Thời gian ≈ 0.062332800 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test069: 1.00
+Thời gian ≈ 0.065581200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test070: 1.00
+Thời gian ≈ 0.063798500 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test071: 0.00
+Thời gian ≈ 0.065671500 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test072: 1.00
+Thời gian ≈ 0.065219200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test073: 0.00
+Thời gian ≈ 0.064218500 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test074: 1.00
+Thời gian ≈ 0.067160600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test075: 1.00
+Thời gian ≈ 0.062231200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test076: 1.00
+Thời gian ≈ 0.064185700 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test077: 1.00
+Thời gian ≈ 0.061890600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test078: 1.00
+Thời gian ≈ 0.064982000 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test079: 0.00
+Thời gian ≈ 0.066089600 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test080: 0.00
+Thời gian ≈ 0.064467400 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test081: 1.00
+Thời gian ≈ 0.060650900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test082: 0.00
+Thời gian ≈ 0.090224900 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test083: 1.00
+Thời gian ≈ 0.060964400 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test084: 1.00
+Thời gian ≈ 0.063113900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test085: 1.00
+Thời gian ≈ 0.065362600 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test086: 0.00
+Thời gian ≈ 0.064920900 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test087: 0.00
+Thời gian ≈ 0.068415900 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test088: 1.00
+Thời gian ≈ 0.066946100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test089: 1.00
+Thời gian ≈ 0.063191100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test090: 1.00
+Thời gian ≈ 0.066014200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test091: 0.00
+Thời gian ≈ 0.064215100 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test092: 1.00
+Thời gian ≈ 0.062896900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test093: 1.00
+Thời gian ≈ 0.063083900 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test094: 1.00
+Thời gian ≈ 0.067681100 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test095: 0.00
+Thời gian ≈ 0.065444000 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test096: 1.00
+Thời gian ≈ 0.067957200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test097: 0.00
+Thời gian ≈ 0.067363400 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test098: 1.00
+Thời gian ≈ 0.065889200 giây
+Kết quả khớp đáp án!
+phatvo‣solving‣test099: 0.00
+Thời gian ≈ 0.066534100 giây
+Kết quả KHÁC đáp án!
+phatvo‣solving‣test100: 1.00
+Thời gian ≈ 0.063555500 giây
+Kết quả khớp đáp án!

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648296288 source:d:\it_related_files\baitap\baitaplaptrinh\analyse\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+
